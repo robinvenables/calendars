@@ -1,0 +1,14 @@
+#!/usr/local/bin/bash
+
+DIST_ID=E3RDUQVHWB001L
+INVALIDATIONS="--paths"
+UPDATED_LIST=$1
+
+if [[ -s ${UPDATED_LIST} ]]; then
+	for calendar in $(cat ${UPDATED_LIST}); do
+		aws s3 cp output/${calendar} s3://data.robinvenables.com/calendars/${calendar}
+		INVALIDATIONS="${INVALIDATIONS} /calendars/${calendar}"
+	done
+
+	aws cloudfront create-invalidation --distribution-id ${DIST_ID} ${INVALIDATIONS}
+fi

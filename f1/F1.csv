@@ -1,0 +1,127 @@
+﻿Country,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title
+Haas F1 Team,Car Launch,,31/01/2023,,31/01/2023,,,MoneyGram Haas F1 Team
+Red Bull Racing,Car Launch,,03/02/2023,,03/02/2023,,,Oracle Red Bull Racing
+Williams,Car Launch,,06/02/2023,,06/02/2023,,,Williams Racing
+Alfa Romeo,Car Launch,,07/02/2023,,07/02/2023,,,Alfa Romeo F1 Team ORLEN
+AlphaTauri,Car Launch,,11/02/2023,,11/02/2023,,,Scuderia AlphaTauri
+McLaren,Car Launch,Europe/London,13/02/2023,17:00,13/02/2023,17:30,,McLaren Formula 1 Team
+Aston Martin,Car Launch,Europe/London,13/02/2023,19:00,13/02/2023,19:30,,Aston Martin Aramco Cognizant Formula One Team
+Ferrari,Car Launch,Europe/Rome,14/02/2023,11;25,14/02/2023,11;55,,Scuderia Ferrari
+Mercedes,Car Launch,Europe/London,15/02/2023,09:15,15/02/2023,10:00,,Mercedes-AMG PETRONAS Formula One Team
+Alpine,Car Launch,,16/02/2023,,16/02/2023,,,BWT Alpine F1 Team
+Bahrain,Testing,Asia/Qatar,23/02/2023,,25/02/2023,,Bahrain International Circuit,Pre-Season Test
+Bahrain,FP1,Asia/Qatar,03/03/2023,14:30,03/03/2023,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,FP2,Asia/Qatar,03/03/2023,18:00,03/03/2023,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,FP3,Asia/Qatar,04/03/2023,14:30,04/03/2023,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Qualifying,Asia/Qatar,04/03/2023,18:00,04/03/2023,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Race,Asia/Qatar,05/03/2023,18:00,05/03/2023,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Saudi Arabia,FP1,Asia/Qatar,17/03/2023,16:30,17/03/2023,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,FP2,Asia/Qatar,17/03/2023,20:00,17/03/2023,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,FP3,Asia/Qatar,18/03/2023,16:30,18/03/2023,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Qualifying,Asia/Qatar,18/03/2023,20:00,18/03/2023,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Race,Asia/Qatar,19/03/2023,20:00,19/03/2023,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Australia,FP1,Australia/Melbourne,31/03/2023,12:30,31/03/2023,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
+Australia,FP2,Australia/Melbourne,31/03/2023,16:00,31/03/2023,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
+Australia,FP3,Australia/Melbourne,01/04/2023,12:30,01/04/2023,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
+Australia,Qualifying,Australia/Melbourne,01/04/2023,16:00,01/04/2023,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
+Australia,Race,Australia/Melbourne,02/04/2023,15:00,02/04/2023,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
+Azerbaijan,FP1,Asia/Baku,28/04/2023,13:30,28/04/2023,14:30,Baku City Circuit,Azerbaijan Grand Prix
+Azerbaijan,Qualifying,Asia/Baku,28/04/2023,17:00,28/04/2023,18:00,Baku City Circuit,Azerbaijan Grand Prix
+Azerbaijan,FP2,Asia/Baku,29/04/2023,13:30,29/04/2023,14:30,Baku City Circuit,Azerbaijan Grand Prix
+Azerbaijan,Sprint Race,Asia/Baku,29/04/2023,17:30,29/04/2023,18:30,Baku City Circuit,Azerbaijan Grand Prix
+Azerbaijan,Race,Asia/Baku,30/04/2023,15:00,30/04/2023,17:00,Baku City Circuit,Azerbaijan Grand Prix
+Miami,FP1,America/New_York,05/05/2023,13:30,05/05/2023,14:30,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,FP2,America/New_York,05/05/2023,17:00,05/05/2023,18:00,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,FP3,America/New_York,06/05/2023,12:30,06/05/2023,13:30,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Qualifying,America/New_York,06/05/2023,16:00,06/05/2023,17:00,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Race,America/New_York,07/05/2023,15:30,07/05/2023,17:30,Miami International Autodrome,crypto.com Miami Grand Prix
+Emilia Romagna,FP1,Europe/Rome,19/05/2023,13:30,19/05/2023,14:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,FP2,Europe/Rome,19/05/2023,17:00,19/05/2023,18:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,FP3,Europe/Rome,20/05/2023,12:30,20/05/2023,13:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Qualifying,Europe/Rome,20/05/2023,16:00,20/05/2023,17:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Race,Europe/Rome,21/05/2023,15:00,21/05/2023,17:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Monaco,FP1,Europe/Paris,26/05/2023,13:30,26/05/2023,14:30,Circuit de Monaco,Grand Prix de Monaco
+Monaco,FP2,Europe/Paris,26/05/2023,17:00,26/05/2023,18:00,Circuit de Monaco,Grand Prix de Monaco
+Monaco,FP3,Europe/Paris,27/05/2023,12:30,27/05/2023,13:30,Circuit de Monaco,Grand Prix de Monaco
+Monaco,Qualifying,Europe/Paris,27/05/2023,16:00,27/05/2023,17:00,Circuit de Monaco,Grand Prix de Monaco
+Monaco,Race,Europe/Paris,28/05/2023,15:00,28/05/2023,17:00,Circuit de Monaco,Grand Prix de Monaco
+Spain,FP1,Europe/Madrid,02/06/2023,13:30,02/06/2023,14:30,Circuit de Barcelona-Catalunya,Gran Premio de España
+Spain,FP2,Europe/Madrid,02/06/2023,17:00,02/06/2023,18:00,Circuit de Barcelona-Catalunya,Gran Premio de España
+Spain,FP3,Europe/Madrid,03/06/2023,12:30,03/06/2023,13:30,Circuit de Barcelona-Catalunya,Gran Premio de España
+Spain,Qualifying,Europe/Madrid,03/06/2023,16:00,03/06/2023,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
+Spain,Race,Europe/Madrid,04/06/2023,15:00,04/06/2023,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
+Canada,FP1,America/Montreal,16/06/2023,13:30,16/06/2023,14:30,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,FP2,America/Montreal,16/06/2023,17:00,16/06/2023,18:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,FP3,America/Montreal,17/06/2023,12:30,17/06/2023,13:30,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Qualifying,America/Montreal,17/06/2023,16:00,17/06/2023,17:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Race,America/Montreal,18/06/2023,14:00,18/06/2023,16:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Austria,FP1,Europe/Vienna,30/06/2023,13:30,30/06/2023,14:30,Red Bull Ring,Grosser Preis von Österreich
+Austria,Qualifying,Europe/Vienna,30/06/2023,17:00,30/06/2023,18:00,Red Bull Ring,Grosser Preis von Österreich
+Austria,FP2,Europe/Vienna,01/07/2023,12:30,01/07/2023,13:30,Red Bull Ring,Grosser Preis von Österreich
+Austria,Sprint Race,Europe/Vienna,01/07/2023,16:30,01/07/2023,17:30,Red Bull Ring,Grosser Preis von Österreich
+Austria,Race,Europe/Vienna,02/07/2023,15:00,02/07/2023,17:00,Red Bull Ring,Grosser Preis von Österreich
+Great Britain,FP1,Europe/London,07/07/2023,12:30,07/07/2023,13:30,Silverstone,Aramco British Grand Prix
+Great Britain,FP2,Europe/London,07/07/2023,16:00,07/07/2023,17:00,Silverstone,Aramco British Grand Prix
+Great Britain,FP3,Europe/London,08/07/2023,11:30,08/07/2023,12:30,Silverstone,Aramco British Grand Prix
+Great Britain,Qualifying,Europe/London,08/07/2023,15:00,08/07/2023,16:00,Silverstone,Aramco British Grand Prix
+Great Britain,Race,Europe/London,09/07/2023,15:00,09/07/2023,17:00,Silverstone,Aramco British Grand Prix
+Hungary,FP1,Europe/Budapest,21/07/2023,13:30,21/07/2023,14:30,Hungaroring,Magyar Nagydíj
+Hungary,FP2,Europe/Budapest,21/07/2023,17:00,21/07/2023,18:00,Hungaroring,Magyar Nagydíj
+Hungary,FP3,Europe/Budapest,22/07/2023,12:30,22/07/2023,13:30,Hungaroring,Magyar Nagydíj
+Hungary,Qualifying,Europe/Budapest,22/07/2023,16:30,22/07/2023,17:30,Hungaroring,Magyar Nagydíj
+Hungary,Race,Europe/Budapest,23/07/2023,15:00,23/07/2023,17:00,Hungaroring,Magyar Nagydíj
+Belgium,FP1,Europe/Brussels,28/07/2023,13:30,28/07/2023,14:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Belgium,Qualifying,Europe/Brussels,28/07/2023,17:00,28/07/2023,18:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Belgium,FP2,Europe/Brussels,29/07/2023,12:30,29/07/2023,13:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Belgium,Sprint Race,Europe/Brussels,29/07/2023,16:30,29/07/2023,17:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Belgium,Race,Europe/Brussels,30/07/2023,15:00,30/07/2023,17:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Netherlands,FP1,Europe/Amsterdam,25/08/2023,12:30,25/08/2023,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,FP2,Europe/Amsterdam,25/08/2023,16:00,25/08/2023,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,FP3,Europe/Amsterdam,26/08/2023,11:30,26/08/2023,12:30,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Qualifying,Europe/Amsterdam,26/08/2023,15:00,26/08/2023,16:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Race,Europe/Amsterdam,27/08/2023,15:00,27/08/2023,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Italy,FP1,Europe/Rome,01/09/2023,13:30,01/09/2023,14:30,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,FP2,Europe/Rome,01/09/2023,17:00,01/09/2023,18:00,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,FP3,Europe/Rome,02/09/2023,12:30,02/09/2023,13:30,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Qualifying,Europe/Rome,02/09/2023,16:00,02/09/2023,17:00,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Race,Europe/Rome,03/09/2023,15:00,03/09/2023,17:00,Autodromo Nazionale Monza,Gran Premio d'Italia
+Singapore,FP1,Asia/Singapore,15/09/2023,17:30,15/09/2023,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,FP2,Asia/Singapore,15/09/2023,21:00,15/09/2023,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,FP3,Asia/Singapore,16/09/2023,17:30,16/09/2023,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Qualifying,Asia/Singapore,16/09/2023,21:00,16/09/2023,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Race,Asia/Singapore,17/09/2023,20:00,17/09/2023,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Japan,FP1,Asia/Tokyo,22/09/2023,11:30,22/09/2023,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,FP2,Asia/Tokyo,22/09/2023,15:00,22/09/2023,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,FP3,Asia/Tokyo,23/09/2023,11:30,23/09/2023,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Qualifying,Asia/Tokyo,23/09/2023,15:00,23/09/2023,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Race,Asia/Tokyo,24/09/2023,14:00,24/09/2023,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Qatar,FP1,Asia/Qatar,06/10/2023,13:30,06/10/2023,14:30,Lusail International Circuit,Qatar Grand Prix
+Qatar,Qualifying,Asia/Qatar,06/10/2023,17:00,06/10/2023,18:00,Lusail International Circuit,Qatar Grand Prix
+Qatar,FP2,Asia/Qatar,07/10/2023,13:30,07/10/2023,14:30,Lusail International Circuit,Qatar Grand Prix
+Qatar,Sprint Race,Asia/Qatar,07/10/2023,17:30,07/10/2023,18:30,Lusail International Circuit,Qatar Grand Prix
+Qatar,Race,Asia/Qatar,08/10/2023,17:00,08/10/2023,19:00,Lusail International Circuit,Qatar Grand Prix
+USA,FP1,America/Chicago,20/10/2023,12:30,20/10/2023,13:30,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Qualifying,America/Chicago,20/10/2023,16:00,20/10/2023,17:00,Circuit of The Americas,Lenovo United States Grand Prix
+USA,FP2,America/Chicago,21/10/2023,13:00,21/10/2023,14:00,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Sprint Race,America/Chicago,21/10/2023,17:00,21/10/2023,18:00,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Race,America/Chicago,22/10/2023,14:00,22/10/2023,16:00,Circuit of The Americas,Lenovo United States Grand Prix
+Mexico,FP1,America/Mexico_City,27/10/2023,12:30,27/10/2023,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,FP2,America/Mexico_City,27/10/2023,16:00,27/10/2023,17:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,FP3,America/Mexico_City,28/10/2023,11:30,28/10/2023,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Qualifying,America/Mexico_City,28/10/2023,15:00,28/10/2023,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Race,America/Mexico_City,29/10/2023,14:00,29/10/2023,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Brazil,FP1,America/Soa_Paulo,03/11/2023,11:30,03/11/2023,12:30,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
+Brazil,Qualifying,America/Soa_Paulo,03/11/2023,15:00,03/11/2023,16:00,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
+Brazil,FP2,America/Soa_Paulo,04/11/2023,11:30,04/11/2023,12:30,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
+Brazil,Sprint Race,America/Soa_Paulo,04/11/2023,15:30,04/11/2023,16:30,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
+Brazil,Race,America/Soa_Paulo,05/11/2023,14:00,05/11/2023,16:00,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
+Las Vegas,FP1,America/Los_Angeles,16/11/2023,18:30,16/11/2023,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix
+Las Vegas,FP2,America/Los_Angeles,16/11/2023,22:00,16/11/2023,23:00,Las Vegas,Heineken Silver Las Vegas Grand Prix
+Las Vegas,FP3,America/Los_Angeles,17/11/2023,18:30,17/11/2023,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix
+Las Vegas,Qualifying,America/Los_Angeles,17/11/2023,22:00,17/11/2023,23:00,Las Vegas,Heineken Silver Las Vegas Grand Prix
+Las Vegas,Race,America/Los_Angeles,18/11/2023,22:00,19/11/2023,00:00,Las Vegas,Heineken Silver Las Vegas Grand Prix
+Abu Dhabi,FP1,Asia/Qatar,24/11/2023,13:30,24/11/2023,14:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,FP2,Asia/Qatar,24/11/2023,17:00,24/11/2023,18:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,FP3,Asia/Qatar,25/11/2023,14:30,25/11/2023,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Qualifying,Asia/Qatar,25/11/2023,18:00,25/11/2023,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Race,Asia/Qatar,26/11/2023,17:00,26/11/2023,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix

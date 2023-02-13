@@ -1,0 +1,103 @@
+#!/usr/local/bin/perl -w
+
+use strict;
+
+use Data::UUID;
+
+my (
+  $COUNT,
+  $INPUT_FILE,
+  $OUTPUT_FILE,
+  $SALT,
+  $UPDATE_STAMP,
+  $UUID
+);
+
+$COUNT = 0;
+
+$INPUT_FILE  = "motogp/MotoGP.csv";
+$OUTPUT_FILE = "output/MotoGP.ics";
+
+# Open input, output and timezone files
+open(my $if, "<", $INPUT_FILE) or die "Can't open < $INPUT_FILE: $!";
+open(my $of, ">", $OUTPUT_FILE) or die "Can't open > $OUTPUT_FILE: $!";
+
+# Skip header
+$SALT = <$if>;
+
+# Generate the update date-time stamp for 'now'
+my ($a,$min,$hour,$mday,$mon,$year,$b,$c,$d) = localtime();
+$UPDATE_STAMP = sprintf("%4d%02d%02dT%02d%02d00", $year + 1900, $mon + 1, $mday, $hour, $min);
+
+# Instantiate the UUID object
+$UUID = Data::UUID->new;
+$SALT = $UUID->create_str();
+
+# Output the calendar header
+print $of <<EOH;
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//robinvenables.com/MotoGP Calendar Creator 0.1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:MotoGP
+EOH
+
+# Process every line in $INPUT_FILE
+while (my $line = <$if>) {
+  my ($country, $category, $session, $timezone, $startdate, $starttime, $enddate, $endtime, $circuit, $title) = split(',', $line);
+
+  chomp($title);
+
+  my $summary = sprintf("%s %s %s", $category, $country, $session);
+
+  # Check if we are dealing with a standard Race/Qualifying event or an all-day Testing event
+  #if ($endtime ne "") {
+  if ($session eq "Test") {
+    my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
+    my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
+
+    # Generate a UUID for this event. Incorrectly returned with capital A-F so convert to lowercase
+    my $uuid = lc($UUID->create_from_name_str($SALT, join('-', $country, $session, $dtstart)));
+
+    print $of <<EOE;
+BEGIN:VEVENT
+DTSTAMP;TZID=Europe/London:$UPDATE_STAMP
+SUMMARY:$summary
+DESCRIPTION:$title
+LOCATION:$circuit
+DTSTART;VALUE=DATE:$dtstart
+DTEND;VALUE=DATE:$dtend
+UID:$uuid
+END:VEVENT
+EOE
+  } else {
+    my $dtstart = sprintf("%4d%02d%02dT%02d%02d00", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2), substr($starttime, 0, 2), substr($starttime, 3, 2));
+    my $dtend = sprintf("%4d%02d%02dT%02d%02d00", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2), substr($endtime, 0, 2), substr($endtime, 3, 2));
+
+    # Generate a UUID for this event. Incorrectly returned with capital A-F so convert to lowercase
+    my $uuid = lc($UUID->create_from_name_str($SALT, join('-', $country, $session, $dtstart)));
+
+    print $of <<EOE;
+BEGIN:VEVENT
+DTSTAMP;TZID=Europe/London:$UPDATE_STAMP
+SUMMARY:$summary
+DESCRIPTION:$title
+LOCATION:$circuit
+DTSTART;TZID=$timezone:$dtstart
+DTEND;TZID=$timezone:$dtend
+UID:$uuid
+END:VEVENT
+EOE
+  }
+
+  $COUNT++;
+}
+
+# Output the calendar trailer
+print $of "END:VCALENDAR" . "\n";
+
+# Close input and output files
+close($if);
+close($of);
+
+printf("%d records processed\n", $COUNT);
