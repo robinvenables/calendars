@@ -52,7 +52,7 @@ while (my $line = <$if>) {
   my $summary = sprintf("F1 %s %s", $country, $session);
 
   # Generate a UUID for this event. Returned with capital A-F (contrary to rfc4122) so convert to lowercase
-  my $uuid = lc($UUID->create_from_name_str($SALT, $summary));
+  my $uuid = lc($UUID->create_from_name_str($SALT, sprintf("%s %s", $summary, $startdate)));
 
   # Check if we are dealing with a standard Race/Qualifying event, an all-day Testing event or a Car Launch
   if ($endtime ne "") {
@@ -70,21 +70,21 @@ DTEND;TZID=$timezone:$dtend
 UID:$uuid
 END:VEVENT
 EOE
-  } elsif ($session eq "Testing") {
-    my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
-    my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
+#  } elsif ($session eq "Testing") {
+#    my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
+#    my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
 
-    print $of <<EOE;
-BEGIN:VEVENT
-DTSTAMP;TZID=Europe/London:$UPDATE_STAMP
-SUMMARY:$summary
-DESCRIPTION:$title
-LOCATION:$circuit
-DTSTART;VALUE=DATE:$dtstart
-DTEND;VALUE=DATE:$dtend
-UID:$uuid
-END:VEVENT
-EOE
+#    print $of <<EOE;
+#BEGIN:VEVENT
+#DTSTAMP;TZID=Europe/London:$UPDATE_STAMP
+#SUMMARY:$summary
+#DESCRIPTION:$title
+#LOCATION:$circuit
+#DTSTART;VALUE=DATE:$dtstart
+#DTEND;VALUE=DATE:$dtend
+#UID:$uuid
+#END:VEVENT
+#EOE
   } else {
     my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
     my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
