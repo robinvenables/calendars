@@ -8,7 +8,7 @@ Scripts for the creation of various calendars that are published at https://data
 
 - Formula 1 2023 season (Qualifying, Sprint Races, and Races)
 - MotoGP 2023 season (Qualifying, Sprint Races and Races)
-- 6 Nations 2023 fixtures and current results with results from the 2021 and 2022 tournaments
+- 6 Nations 2024 fixtures, 2023 fixtures and current results with results from the 2021 and 2022 tournaments
 - British and Irish Lions 2021 tour results
 
 ## Scripts
