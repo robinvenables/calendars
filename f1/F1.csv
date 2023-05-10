@@ -59,7 +59,7 @@ Canada,Qualifying,America/Montreal,17/06/2023,16:00,17/06/2023,17:00,Circuit Gil
 Canada,Race,America/Montreal,18/06/2023,14:00,18/06/2023,16:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
 Austria,FP1,Europe/Vienna,30/06/2023,13:30,30/06/2023,14:30,Red Bull Ring,Grosser Preis von Österreich
 Austria,Qualifying,Europe/Vienna,30/06/2023,17:00,30/06/2023,18:00,Red Bull Ring,Grosser Preis von Österreich
-Austria,FP2,Europe/Vienna,01/07/2023,12:30,01/07/2023,13:30,Red Bull Ring,Grosser Preis von Österreich
+Austria,Sprint Shootout,Europe/Vienna,01/07/2023,12:00,01/07/2023,12:45,Red Bull Ring,Grosser Preis von Österreich
 Austria,Sprint Race,Europe/Vienna,01/07/2023,16:30,01/07/2023,17:30,Red Bull Ring,Grosser Preis von Österreich
 Austria,Race,Europe/Vienna,02/07/2023,15:00,02/07/2023,17:00,Red Bull Ring,Grosser Preis von Österreich
 Great Britain,FP1,Europe/London,07/07/2023,12:30,07/07/2023,13:30,Silverstone,Aramco British Grand Prix
@@ -74,7 +74,7 @@ Hungary,Qualifying,Europe/Budapest,22/07/2023,16:30,22/07/2023,17:30,Hungaroring
 Hungary,Race,Europe/Budapest,23/07/2023,15:00,23/07/2023,17:00,Hungaroring,Magyar Nagydíj
 Belgium,FP1,Europe/Brussels,28/07/2023,13:30,28/07/2023,14:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Qualifying,Europe/Brussels,28/07/2023,17:00,28/07/2023,18:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
-Belgium,FP2,Europe/Brussels,29/07/2023,12:30,29/07/2023,13:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Belgium,Sprint Shootout,Europe/Brussels,29/07/2023,12:00,29/07/2023,12:45,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Sprint Race,Europe/Brussels,29/07/2023,16:30,29/07/2023,17:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Race,Europe/Brussels,30/07/2023,15:00,30/07/2023,17:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Netherlands,FP1,Europe/Amsterdam,25/08/2023,12:30,25/08/2023,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix
@@ -97,14 +97,14 @@ Japan,FP2,Asia/Tokyo,22/09/2023,15:00,22/09/2023,16:00,Suzuka International Raci
 Japan,FP3,Asia/Tokyo,23/09/2023,11:30,23/09/2023,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Japan,Qualifying,Asia/Tokyo,23/09/2023,15:00,23/09/2023,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Japan,Race,Asia/Tokyo,24/09/2023,14:00,24/09/2023,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Qatar,FP1,Asia/Qatar,06/10/2023,13:30,06/10/2023,14:30,Lusail International Circuit,Qatar Grand Prix
-Qatar,Qualifying,Asia/Qatar,06/10/2023,17:00,06/10/2023,18:00,Lusail International Circuit,Qatar Grand Prix
-Qatar,FP2,Asia/Qatar,07/10/2023,13:30,07/10/2023,14:30,Lusail International Circuit,Qatar Grand Prix
-Qatar,Sprint Race,Asia/Qatar,07/10/2023,17:30,07/10/2023,18:30,Lusail International Circuit,Qatar Grand Prix
-Qatar,Race,Asia/Qatar,08/10/2023,17:00,08/10/2023,19:00,Lusail International Circuit,Qatar Grand Prix
+Qatar,FP1,Asia/Qatar,06/10/2023,16:30,06/10/2023,17:30,Lusail International Circuit,Qatar Grand Prix
+Qatar,Qualifying,Asia/Qatar,06/10/2023,20:00,06/10/2023,21:00,Lusail International Circuit,Qatar Grand Prix
+Qatar,Sprint Shootout,Asia/Qatar,07/10/2023,13:30,07/10/2023,14:30,Lusail International Circuit,Qatar Grand Prix
+Qatar,Sprint Race,Asia/Qatar,07/10/2023,16:00,07/10/2023,16:45,Lusail International Circuit,Qatar Grand Prix
+Qatar,Race,Asia/Qatar,08/10/2023,20:00,08/10/2023,22:00,Lusail International Circuit,Qatar Grand Prix
 USA,FP1,America/Chicago,20/10/2023,12:30,20/10/2023,13:30,Circuit of The Americas,Lenovo United States Grand Prix
 USA,Qualifying,America/Chicago,20/10/2023,16:00,20/10/2023,17:00,Circuit of The Americas,Lenovo United States Grand Prix
-USA,FP2,America/Chicago,21/10/2023,13:00,21/10/2023,14:00,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Sprint Shootout,America/Chicago,21/10/2023,12:30,21/10/2023,13:15,Circuit of The Americas,Lenovo United States Grand Prix
 USA,Sprint Race,America/Chicago,21/10/2023,17:00,21/10/2023,18:00,Circuit of The Americas,Lenovo United States Grand Prix
 USA,Race,America/Chicago,22/10/2023,14:00,22/10/2023,16:00,Circuit of The Americas,Lenovo United States Grand Prix
 Mexico,FP1,America/Mexico_City,27/10/2023,12:30,27/10/2023,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
@@ -114,7 +114,7 @@ Mexico,Qualifying,America/Mexico_City,28/10/2023,15:00,28/10/2023,16:00,Autódro
 Mexico,Race,America/Mexico_City,29/10/2023,14:00,29/10/2023,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Brazil,FP1,America/Soa_Paulo,03/11/2023,11:30,03/11/2023,12:30,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
 Brazil,Qualifying,America/Soa_Paulo,03/11/2023,15:00,03/11/2023,16:00,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
-Brazil,FP2,America/Soa_Paulo,04/11/2023,11:30,04/11/2023,12:30,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
+Brazil,Sprint Shootout,America/Soa_Paulo,04/11/2023,11:00,04/11/2023,11:45,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
 Brazil,Sprint Race,America/Soa_Paulo,04/11/2023,15:30,04/11/2023,16:30,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
 Brazil,Race,America/Soa_Paulo,05/11/2023,14:00,05/11/2023,16:00,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
 Las Vegas,FP1,America/Los_Angeles,16/11/2023,18:30,16/11/2023,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix
