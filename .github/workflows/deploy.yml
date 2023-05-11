@@ -30,7 +30,7 @@ jobs:
 
       - name: Run make to generate updated calendars
         run: |
-          rm fR ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
+          rm -fR ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
           mkdir ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
           make
 
