@@ -1,4 +1,4 @@
-name: Update Calendars
+name: Update and Refresh Calendars
 
 on:
   push:
