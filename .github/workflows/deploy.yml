@@ -25,9 +25,6 @@ jobs:
         with:
           install: "Data::UUID"
 
-      - name: Copy calendars from S3 bucket
-        run: aws s3 sync ${{ vars.AWS_S3_CALENDAR_TARGET }} ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
-
       - name: Run make to generate updated calendars
         run: |
           rm -fR ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
