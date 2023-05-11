@@ -20,7 +20,3 @@ Reads input from f1/F1.csv and generates output/F1.ics
 ## mkmotogp
 
 Very similar to mkf1. Reads input from motogp/MotoGP.csv and generates output/MotoGP.ics
-
-### copy-and-invalidate
-
-Reads a file containing the names of changed calendars (this is generated automatically by make) and copies them to the S3 website bucket.

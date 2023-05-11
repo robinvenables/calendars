@@ -1,4 +1,0 @@
-#!/usr/local/bin/bash
-
-aws s3 sync s3://data.robinvenables.com/calendars/ output
-touch output/*.ics
