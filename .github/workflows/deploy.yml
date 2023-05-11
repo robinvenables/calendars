@@ -29,7 +29,10 @@ jobs:
         run: aws s3 sync ${{ vars.AWS_S3_CALENDAR_TARGET }} ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
 
       - name: Run make to generate updated calendars
-        run: make
+        run: |
+          rm fR ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
+          mkdir ${{ vars.CALENDAR_OUTPUT_DIRECTORY }}
+          make
 
       - name: Copy calendars to S3 bucket
         run: aws s3 sync ${{ vars.CALENDAR_OUTPUT_DIRECTORY }} ${{ vars.AWS_S3_CALENDAR_TARGET }}
