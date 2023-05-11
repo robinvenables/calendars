@@ -26,5 +26,5 @@ jobs:
       - name: Copy calendars to S3 bucket
         run: aws s3 sync output/ s3://{{ secrets.AWS_S3_CALENDAR_BUCKET }}
 
-      -name: Create CloudFront invalidation
+      - name: Create CloudFront invalidation
         run: aws cloudfront create-invalidation --distribution-id {{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/calendars/*.ics"
