@@ -35,4 +35,4 @@ jobs:
         run: aws s3 sync ${{ vars.CALENDAR_OUTPUT_DIRECTORY }} ${{ vars.AWS_S3_CALENDAR_TARGET }}
 
       - name: Create CloudFront invalidation
-        run: aws cloudfront create-invalidation --distribution-id ${{ vars.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "${{ vars.AWS_CLOUDFRONT_INVALIDATION_PATH }}"
+        run: aws cloudfront create-invalidation --distribution-id ${{ vars.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "${{ vars.AWS_CLOUDFRONT_INVALIDATION_PATH }}" --output table
