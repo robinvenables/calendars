@@ -21,7 +21,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v2
         with:
           role-to-assume: arn:aws:iam::845066828582:role/calendarsGitHubActionsRole
-          role-session-name: githubcalendars
+          role-session-name: calendars
           aws-region: eu-west-2
 
       - name: install cpanm and Data::UUID
