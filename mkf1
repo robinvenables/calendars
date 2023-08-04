@@ -61,7 +61,7 @@ while (my $line = <$if>) {
 
     print $of <<EOE;
 BEGIN:VEVENT
-DTSTAMP;TZID=Europe/London:$UPDATE_STAMP
+DTSTAMP;TZID=Europe/Athens:$UPDATE_STAMP
 SUMMARY:$summary
 DESCRIPTION:$title
 LOCATION:$circuit
@@ -91,7 +91,7 @@ EOE
 
     print $of <<EOE;
 BEGIN:VEVENT
-DTSTAMP;TZID=Europe/London:$UPDATE_STAMP
+DTSTAMP;TZID=Europe/Athens:$UPDATE_STAMP
 SUMMARY:$summary
 DESCRIPTION:$title
 DTSTART;VALUE=DATE:$dtstart
