@@ -44,9 +44,9 @@ EOH
 
 # Process every line in $INPUT_FILE
 while (my $line = <$if>) {
-  my ($country, $category, $session, $timezone, $startdate, $starttime, $enddate, $endtime, $circuit, $title) = split(',', $line);
+  chomp($line);
 
-  chomp($title);
+  my ($country, $category, $session, $timezone, $startdate, $starttime, $enddate, $endtime, $circuit, $title) = split(',', $line);
 
   my $summary = sprintf("%s %s %s", $category, $country, $session);
 
