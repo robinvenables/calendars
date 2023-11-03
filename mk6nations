@@ -1,0 +1,93 @@
+#!/usr/bin/env perl
+
+use strict;
+
+use Data::UUID;
+
+my (
+  $COUNT,
+  $INPUT_FILE,
+  $OUTPUT_FILE,
+  $SALT,
+  $UPDATE_STAMP,
+  $UUID
+);
+
+$COUNT = 0;
+
+$INPUT_FILE    = "6nations/6Nations/Fixtures-Matches.csv";
+$OUTPUT_FILE   = "output/6Nations.ics";
+
+# Open input and output files
+open(my $if, "<", $INPUT_FILE) or die "Can't open < $INPUT_FILE: $!";
+open(my $of, ">", $OUTPUT_FILE) or die "Can't open > $OUTPUT_FILE: $!";
+
+# Skip header
+$SALT = <$if>;
+
+# Generate the update date-time stamp for 'now'
+my ($a,$min,$hour,$mday,$mon,$year,$b,$c,$d) = localtime();
+$UPDATE_STAMP = sprintf("%4d%02d%02dT%02d%02d00", $year + 1900, $mon + 1, $mday, $hour, $min);
+
+# Instantiate the UUID object
+$UUID = Data::UUID->new;
+# Initialise the Namespace UUID. Returned with capital A-F (contrary to rfc4122) so convert to lowercase
+$SALT = lc($UUID->create_str());
+
+# Output the calendar header
+print $of <<EOH;
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//robinvenables.com/6 Nations Calendar Creator 0.1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:Six Nations
+EOH
+
+# Process every line in $INPUT_FILE
+while (my $line = <$if>) {
+  chomp($line);
+
+  my ($date, $round, $home, $away, $starttime, $endtime, $location, $timezone, $homescore, $awayscore) = split(',', $line);
+
+  my $year = substr($date, 6);
+
+  my $dtstart = sprintf("%4d%02d%02dT%02d%02d00", $year, substr($date, 3, 2), substr($date, 0, 2), substr($starttime, 0, 2), substr($starttime, 3, 2));
+  my $dtend = sprintf("%4d%02d%02dT%02d%02d00", $year, substr($date, 3, 2), substr($date, 0, 2), substr($endtime, 0, 2), substr($endtime, 3, 2));
+
+  # Check if there is a score recorded fpr this match
+  my $summary;
+
+  if ($homescore ne "") {
+    $summary = sprintf("6 Nations %s %d-%d %s", $home, $homescore, $awayscore, $away);
+  } else {
+    $summary = sprintf("6 Nations %s v %s", $home, $away);
+  }
+
+  my $title = sprintf("Guinness Six Nations %d Round %d", $year, $round);
+
+  # Generate a UUID for this event. Returned with capital A-F (contrary to rfc4122) so convert to lowercase
+  my $uuid = lc($UUID->create_from_name_str($SALT, sprintf("%s %s", $summary, $date)));
+
+  print $of <<EOE;
+BEGIN:VEVENT
+DTSTAMP;TZID=Europe/Athens:$UPDATE_STAMP
+SUMMARY:$summary
+DESCRIPTION:$title
+LOCATION:$location
+DTSTART;TZID=$timezone:$dtstart
+DTEND;TZID=$timezone:$dtend
+UID:$uuid
+END:VEVENT
+EOE
+
+  $COUNT++;
+}
+
+# Output the calendar trailer
+print $of "END:VCALENDAR" . "\n";
+
+# Close input and output files
+close($if);
+close($of);
+
+printf("%d records processed\n", $COUNT);
