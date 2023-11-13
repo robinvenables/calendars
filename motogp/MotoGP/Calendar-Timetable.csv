@@ -1,7 +1,7 @@
-﻿Country,Category,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title
-Malaysia,MotoGP,Test,Asia/Kuala_Lumpur,05/02/2023,,07/02/2023,,Sepang International Circuit,Sepang Shakedown MotoGP Official Test
-Malaysia,MotoGP,Test,Asia/Kuala_Lumpur,10/02/2023,,12/02/2023,,Sepang International Circuit,Sepang MotoGP Official Test
-Portugal,MotoGP,Test,Europe/Lisbon,11/03/2023,,12/03/2023,,Autódromo Internacional do Algarve,Portimao MotoGP Official Test
+Country,Category,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title
+Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,05/02/2023,,07/02/2023,,Sepang International Circuit,Sepang Shakedown MotoGP Official Test
+Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,10/02/2023,,12/02/2023,,Sepang International Circuit,Sepang MotoGP Official Test
+Portugal,MotoGP,Testing,Europe/Lisbon,11/03/2023,,12/03/2023,,Autódromo Internacional do Algarve,Portimao MotoGP Official Test
 Portugal,MotoGP,Qualifying,Europe/Lisbon,25/03/2023,10:50,25/03/2023,11:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Portugal,MotoGP,Tissot Sprint,Europe/Lisbon,25/03/2023,15:00,25/03/2023,15:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Portugal,MotoGP,Race,Europe/Lisbon,26/03/2023,14:00,26/03/2023,14:50,Autódromo Internacional do Algarve,Grande Prémio de Portugal

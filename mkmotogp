@@ -15,7 +15,7 @@ my (
 
 $COUNT = 0;
 
-$INPUT_FILE  = "motogp/MotoGP.csv";
+$INPUT_FILE  = "motogp/MotoGP/Calendar-Timetable.csv";
 $OUTPUT_FILE = "output/MotoGP.ics";
 
 # Open input, output and timezone files
