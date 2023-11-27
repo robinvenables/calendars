@@ -52,7 +52,7 @@ while (my $line = <$if>) {
 
   # Check if we are dealing with a standard Race/Qualifying event or an all-day Testing event
   #if ($endtime ne "") {
-  if ($session eq "Test") {
+  if ($session eq "Test" || $session eq "Placeholder") {
     my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
     my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
 
