@@ -2,12 +2,12 @@
 Robin's iCalendar Repository
 
 ## Description
-Scripts for the creation of various calendars that are published at https://data.robinvenables.com/calendars/
+Scripts for the creation of various calendars that are published at https://robinvenables.com/calendars/
 
 ## Calendars
 
-- Formula 1 2023 season (Qualifying, Sprint Races, and Races)
-- MotoGP 2023 season (Qualifying, Sprint Races and Races)
+- Formula 1 2024 season testing dates and placeholders for race weekends
+- MotoGP 2024 season testing dates and placeholders for race weekends
 - 6 Nations 2024 fixtures and results from the 2021, 2022 and 2023 tournaments
 - British and Irish Lions 2021 tour results
 
