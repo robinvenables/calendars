@@ -32,8 +32,6 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
         id: pages
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Install cpanm and Data::UUID
         uses: perl-actions/install-with-cpanm@stable
         with:
