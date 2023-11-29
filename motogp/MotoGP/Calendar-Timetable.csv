@@ -1,12 +1,18 @@
 Country,Category,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title
+Valencia,MotoGP,Testing,Europe/Madrid,28/11/2023,,28/11/2023,,Circuit Ricardo Tormo,Valencia MotoGP Official Test
+Sepang,MotoGP,Testing,Asia/Kuala_Lumpur,01/02/2024,,03/02/2024,,Sepang International Circuit,Sepang Shakedown MotoGP Official Test
+Sepang,MotoGP,Testing,Asia/Kuala_Lumpur,06/02/2024,,08/02/2024,,Sepang International Circuit,Sepang MotoGP Official Test
+Qatar,MotoGP,Testing,Asia/Qatar,19/02/2024,,20/02/2024,,Losail International Circuit,Qatar MotoGP Official Test\
 Qatar,MotoGP,Placeholder,Asia/Qatar,08/03/2024,,10/03/2024,,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Portugal,MotoGP,Placeholder,Europe/Lisbon,22/03/2024,,24/03/2024,,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Argentina,MotoGP,Placeholder,America/Mendoza,05/04/2024,,07/04/2024,,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 USA,MotoGP,Placeholder,America/Chicago,12/04/2024,,14/04/2024,,Circuit of The Americas,Reb Bull Grand Prix of The Americas
 Spain,MotoGP,Placeholder,Europe/Madrid,26/04/2024,,28/04/2024,,Circuito de Jerez - Angel Nieto,Gran Premio de España
+Jerez,MotoGP,Testing,Europe/Madrid,29/04/2024,,29/04/2024,,Circuito de Jerez - Angel Nieto,Jerez MotoGP Official Test
 France,MotoGP,Placeholder,Europe/Paris,10/05/2024,,12/05/2024,,Le Mans,SHARK Grand Prix de France
 Catalunya,MotoGP,Placeholder,Europe/Madrid,24/05/2024,,26/05/2024,,Circuit de Barcelona-Catalunya,Gran Premi Monster Energy de Catalunya
 Italy,MotoGP,Placeholder,Europe/Rome,31/05/2024,,02/06/2024,,Autodromo Internazionale del Mugello,Gran Premio d’Italia Oakley
+Mugello,MotoGP,Testing,Europe/Rome,03/06/2024,,03/06/2024,,Autodromo Internazionale del Mugello,Mugello MotoGP Official Test
 Kazakhstan,MotoGP,Placeholder,Asia/Qyzylorda,14/06/2024,,16/06/2024,,Sokol International Racetrack,Grand Prix of Kazakhstan
 Netherlands,MotoGP,Placeholder,Europe/Amsterdam,28/06/2024,,30/06/2024,,TT Circuit Assen,Motul TT Assen
 Germany,MotoGP,Placeholder,Europe/Berlin,05/07/2024,,07/07/2024,,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
@@ -14,6 +20,7 @@ Great Britain,MotoGP,Placeholder,Europe/London,02/08/2024,,04/08/2024,,Silversto
 Austria,MotoGP,Placeholder,Europe/Vienna,16/08/2024,,18/08/2024,,Red Bull Ring - Spielberg,CryptoDATA Motorrad Grand Prix von Österreich
 Aragon,MotoGP,Placeholder,Europe/Madrid,30/08/2024,,01/09/2024,,MotorLand Aragón,Gran Premio de Aragón
 San Marino,MotoGP,Placeholder,Europe/Rome,06/09/2024,,08/09/2024,,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
+Misano,MotoGP,Testing,Europe/Rome,09/09/2024,,09/09/2024,,Misano World Circuit Marco Simoncelli,Misano MotoGP Official Test
 India,MotoGP,Placeholder,Asia/Kolkata,20/09/2024,,22/09/2024,,Buddh International Circuit,Grand Prix of India
 Indonesia,MotoGP,Placeholder,Asia/Jakarta,27/09/2024,,29/09/2024,,Mandalika International Street Circuit,Pertamina Grand Prix of Indonesia
 Japan,MotoGP,Placeholder,Asia/Tokyo,04/10/2024,,06/10/2024,,Mobility Resort Motegi,Motul Grand Prix of Japan
