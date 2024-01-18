@@ -52,7 +52,11 @@ Spain,Practice 3,Europe/Madrid,22/06/2024,12:30,22/06/2024,13:30,Circuit de Barc
 Spain,Qualifying,Europe/Madrid,22/06/2024,16:00,22/06/2024,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
 Spain,Race,Europe/Madrid,23/06/2024,15:00,23/06/2024,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
 Austria,Placeholder,Europe/Vienna,28/06/2024,,30/06/2024,,Red Bull Ring,Grosser Preis von Österreich
-Great Britain,Placeholder,Europe/London,05/07/2024,,07/07/2024,,Silverstone,Aramco British Grand Prix
+Great Britain,Practice 1,Europe/London,05/07/2024,12:30,07/07/2024,13:30,Silverstone,Aramco British Grand Prix
+Great Britain,Practice 2,Europe/London,05/07/2024,16:00,08/07/2024,17:00,Silverstone,Aramco British Grand Prix
+Great Britain,Practice 3,Europe/London,06/07/2024,11:30,08/07/2024,12:30,Silverstone,Aramco British Grand Prix
+Great Britain,Qualifying,Europe/London,06/07/2024,15:00,09/07/2024,16:00,Silverstone,Aramco British Grand Prix
+Great Britain,Race,Europe/London,07/07/2024,15:00,09/07/2024,17:00,Silverstone,Aramco British Grand Prix
 Hungary,Placeholder,Europe/Budapest,19/07/2024,,21/07/2024,,Hungaroring,Magyar Nagydíj
 Belgium,Placeholder,Europe/Brussels,26/07/2024,,28/07/2024,,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Netherlands,Placeholder,Europe/Amsterdam,23/08/2024,,25/08/2024,,Circuit Zandvoort,Heineken Dutch Grand Prix
