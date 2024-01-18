@@ -41,7 +41,11 @@ Monaco,Practice 2,Europe/Paris,24/05/2024,17:00,24/05/2024,18:00,Circuit de Mona
 Monaco,Practice 3,Europe/Paris,25/05/2024,12:30,25/05/2024,13:30,Circuit de Monaco,Grand Prix de Monaco
 Monaco,Qualifying,Europe/Paris,25/05/2024,16:00,25/05/2024,17:00,Circuit de Monaco,Grand Prix de Monaco
 Monaco,Race,Europe/Paris,26/05/2024,15:00,26/05/2024,17:00,Circuit de Monaco,Grand Prix de Monaco
-Canada,Placeholder,America/Montreal,07/06/2024,,09/06/2024,,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Practice 1,America/Montreal,07/06/2024,13:30,07/06/2024,14:30,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Practice 2,America/Montreal,07/06/2024,17:00,07/06/2024,18:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Practice 3,America/Montreal,08/06/2024,12:30,08/06/2024,13:30,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Qualifying,America/Montreal,08/06/2024,16:00,08/06/2024,17:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
+Canada,Race,America/Montreal,09/06/2024,14:00,09/06/2024,16:00,Circuit Gilles-Villeneuve,Grand Prix du Canada
 Spain,Placeholder,Europe/Madrid,21/06/2024,,23/06/2024,,Circuit de Barcelona-Catalunya,Gran Premio de España
 Austria,Placeholder,Europe/Vienna,28/06/2024,,30/06/2024,,Red Bull Ring,Grosser Preis von Österreich
 Great Britain,Placeholder,Europe/London,05/07/2024,,07/07/2024,,Silverstone,Aramco British Grand Prix
