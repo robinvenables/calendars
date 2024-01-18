@@ -31,7 +31,11 @@ Japan,Qualifying,Asia/Tokyo,06/04/2024,15:00,06/04/2024,,Suzuka International Ra
 Japan,Race,Asia/Tokyo,07/04/2024,14:00,07/04/2024,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 China,Placeholder,Asia/Shanghai,19/04/2024,,21/04/2024,,Shanghai International Circuit,Chinese Grand Prix
 Miami,Placeholder,America/New_York,03/05/2024,,05/05/2024,,Miami International Autodrome,crypto.com Miami Grand Prix
-Emilia Romagna,Placeholder,Europe/Rome,17/05/2024,,19/05/2024,,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Practice 1,Europe/Rome,17/05/2024,13:30,17/05/2024,14:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Practice 2,Europe/Rome,17/05/2024,17:00,17/05/2024,18:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Practice 3,Europe/Rome,18/05/2024,12:30,18/05/2024,13:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Qualifying,Europe/Rome,18/05/2024,16:00,18/05/2024,17:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Race,Europe/Rome,19/05/2024,15:00,19/05/2024,17:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
 Monaco,Placeholder,Europe/Paris,24/05/2024,,26/05/2024,,Circuit de Monaco,Grand Prix de Monaco
 Canada,Placeholder,America/Montreal,07/06/2024,,09/06/2024,,Circuit Gilles-Villeneuve,Grand Prix du Canada
 Spain,Placeholder,Europe/Madrid,21/06/2024,,23/06/2024,,Circuit de Barcelona-Catalunya,Gran Premio de España
