@@ -67,7 +67,11 @@ Belgium,Practice 2,Europe/Brussels,26/07/2024,18:00,26/07/2024,19:00,Circuit de 
 Belgium,Practice 3,Europe/Brussels,27/07/2024,12:30,27/07/2024,13:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Qualifying,Europe/Brussels,27/07/2024,16:00,27/07/2024,17:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Race,Europe/Brussels,28/07/2024,15:00,28/07/2024,17:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
-Netherlands,Placeholder,Europe/Amsterdam,23/08/2024,,25/08/2024,,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Practice 1,Europe/Amsterdam,23/08/2024,10:30,23/08/2024,11:30,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Practice 2,Europe/Amsterdam,23/08/2024,14:00,23/08/2024,15:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Practice 3,Europe/Amsterdam,24/08/2024,09:30,24/08/2024,10:30,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Qualifying,Europe/Amsterdam,24/08/2024,15:00,24/08/2024,16:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Race,Europe/Amsterdam,25/08/2024,15:00,25/08/2024,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
 Italy,Placeholder,Europe/Rome,30/08/2024,,01/09/2024,,Autodromo Nazionale Monza,Gran Premio d'Italia
 Azerbaijan,Placeholder,Asia/Baku,13/09/2024,,15/09/2024,,Baku City Circuit,Azerbaijan Grand Prix
 Singapore,Placeholder,Asia/Singapore,20/09/2024,,22/09/2024,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
