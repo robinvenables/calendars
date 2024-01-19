@@ -59,12 +59,12 @@ Great Britain,Qualifying,Europe/London,06/07/2024,15:00,06/07/2024,16:00,Silvers
 Great Britain,Race,Europe/London,07/07/2024,15:00,07/07/2024,17:00,Silverstone,Aramco British Grand Prix
 Hungary,Practice 1,Europe/Budapest,19/07/2024,14:30,19/07/2024,15:30,Hungaroring,Magyar Nagydíj
 Hungary,Practice 2,Europe/Budapest,19/07/2024,18:00,19/07/2024,19:00,Hungaroring,Magyar Nagydíj
-Hungary,Practice 3,Europe/Budapest,20/07/2024,12:30,20/07/2024,13:30,Hungaroring,Magyar Nagydíj
+Hungary,Practice 3,Europe/Budapest,20/07/2024,13:30,20/07/2024,14:30,Hungaroring,Magyar Nagydíj
 Hungary,Qualifying,Europe/Budapest,20/07/2024,16:00,20/07/2024,17:00,Hungaroring,Magyar Nagydíj
 Hungary,Race,Europe/Budapest,21/07/2024,15:00,21/07/2024,17:00,Hungaroring,Magyar Nagydíj
 Belgium,Practice 1,Europe/Brussels,26/07/2024,14:30,26/07/2024,15:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Practice 2,Europe/Brussels,26/07/2024,18:00,26/07/2024,19:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
-Belgium,Practice 3,Europe/Brussels,27/07/2024,12:30,27/07/2024,13:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
+Belgium,Practice 3,Europe/Brussels,27/07/2024,13:30,27/07/2024,14:30,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Qualifying,Europe/Brussels,27/07/2024,16:00,27/07/2024,17:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Belgium,Race,Europe/Brussels,28/07/2024,15:00,28/07/2024,17:00,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Netherlands,Practice 1,Europe/Amsterdam,23/08/2024,10:30,23/08/2024,11:30,Circuit Zandvoort,Heineken Dutch Grand Prix
@@ -72,7 +72,11 @@ Netherlands,Practice 2,Europe/Amsterdam,23/08/2024,14:00,23/08/2024,15:00,Circui
 Netherlands,Practice 3,Europe/Amsterdam,24/08/2024,09:30,24/08/2024,10:30,Circuit Zandvoort,Heineken Dutch Grand Prix
 Netherlands,Qualifying,Europe/Amsterdam,24/08/2024,15:00,24/08/2024,16:00,Circuit Zandvoort,Heineken Dutch Grand Prix
 Netherlands,Race,Europe/Amsterdam,25/08/2024,15:00,25/08/2024,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Italy,Placeholder,Europe/Rome,30/08/2024,,01/09/2024,,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Practice 1,Europe/Rome,30/08/2024,14:30,30/08/2024,15:30,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Practice 2,Europe/Rome,30/08/2024,18:00,30/08/2024,19:00,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Practice 3,Europe/Rome,31/08/2024,13:30,31/08/2024,14:30,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Qualifying,Europe/Rome,31/08/2024,16:00,31/08/2024,17:00,Autodromo Nazionale Monza,Gran Premio d'Italia
+Italy,Race,Europe/Rome,01/09/2024,15:00,01/09/2024,17:00,Autodromo Nazionale Monza,Gran Premio d'Italia
 Azerbaijan,Placeholder,Asia/Baku,13/09/2024,,15/09/2024,,Baku City Circuit,Azerbaijan Grand Prix
 Singapore,Placeholder,Asia/Singapore,20/09/2024,,22/09/2024,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 USA,Placeholder,America/Chicago,18/10/2024,,20/10/2024,,Circuit of The Americas,Lenovo United States Grand Prix
