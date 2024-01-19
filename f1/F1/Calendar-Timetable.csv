@@ -88,8 +88,16 @@ Singapore,Practice 3,Asia/Singapore,21/09/2024,15:30,21/09/2024,16:30,Marina Bay
 Singapore,Qualifying,Asia/Singapore,21/09/2024,21:00,21/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 Singapore,Race,Asia/Singapore,22/09/2024,20:00,22/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 USA,Placeholder,America/Chicago,18/10/2024,,20/10/2024,,Circuit of The Americas,Lenovo United States Grand Prix
-Mexico,Placeholder,America/Mexico_City,25/10/2024,,27/10/2024,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Practice 1,America/Mexico_City,25/10/2024,11:30,25/10/2024,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Practice 2,America/Mexico_City,25/10/2024,15:00,25/10/2024,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Practice 3,America/Mexico_City,26/10/2024,10:30,26/10/2024,11:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Qualifying,America/Mexico_City,26/10/2024,14:00,26/10/2024,15:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Race,America/Mexico_City,27/10/2024,12:00,27/10/2024,14:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Brazil,Placeholder,America/Sao_Paulo,01/11/2024,,03/11/2024,,Autódromo José Carlos Pace,Rolex Grande Prêmio de São Paulo
 Las Vegas,Placeholder,America/Los_Angeles,21/11/2024,,23/11/2024,,Las Vegas,Heineken Silver Las Vegas Grand Prix
 Qatar,Placeholder,Asia/Qatar,29/11/2024,,01/12/2024,,Lusail International Circuit,Qatar Grand Prix
-Abu Dhabi,Placeholder,Asia/Dubai,06/12/2024,,08/12/2024,,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Practice 1,Asia/Dubai,06/12/2024,13:30,06/12/2024,14:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Practice 2,Asia/Dubai,06/12/2024,17:00,06/12/2024,18:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Practice 3,Asia/Dubai,07/12/2024,14:30,07/12/2024,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Qualifying,Asia/Dubai,07/12/2024,18:00,07/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Abu Dhabi,Race,Asia/Dubai,08/12/2024,17:00,08/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
