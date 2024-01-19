@@ -52,12 +52,16 @@ Spain,Practice 3,Europe/Madrid,22/06/2024,12:30,22/06/2024,13:30,Circuit de Barc
 Spain,Qualifying,Europe/Madrid,22/06/2024,16:00,22/06/2024,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
 Spain,Race,Europe/Madrid,23/06/2024,15:00,23/06/2024,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
 Austria,Placeholder,Europe/Vienna,28/06/2024,,30/06/2024,,Red Bull Ring,Grosser Preis von Österreich
-Great Britain,Practice 1,Europe/London,05/07/2024,12:30,07/07/2024,13:30,Silverstone,Aramco British Grand Prix
-Great Britain,Practice 2,Europe/London,05/07/2024,16:00,08/07/2024,17:00,Silverstone,Aramco British Grand Prix
-Great Britain,Practice 3,Europe/London,06/07/2024,11:30,08/07/2024,12:30,Silverstone,Aramco British Grand Prix
-Great Britain,Qualifying,Europe/London,06/07/2024,15:00,09/07/2024,16:00,Silverstone,Aramco British Grand Prix
-Great Britain,Race,Europe/London,07/07/2024,15:00,09/07/2024,17:00,Silverstone,Aramco British Grand Prix
-Hungary,Placeholder,Europe/Budapest,19/07/2024,,21/07/2024,,Hungaroring,Magyar Nagydíj
+Great Britain,Practice 1,Europe/London,05/07/2024,12:30,05/07/2024,13:30,Silverstone,Aramco British Grand Prix
+Great Britain,Practice 2,Europe/London,05/07/2024,16:00,05/07/2024,17:00,Silverstone,Aramco British Grand Prix
+Great Britain,Practice 3,Europe/London,06/07/2024,11:30,06/07/2024,12:30,Silverstone,Aramco British Grand Prix
+Great Britain,Qualifying,Europe/London,06/07/2024,15:00,06/07/2024,16:00,Silverstone,Aramco British Grand Prix
+Great Britain,Race,Europe/London,07/07/2024,15:00,07/07/2024,17:00,Silverstone,Aramco British Grand Prix
+Hungary,Practice 1,Europe/Budapest,19/07/2024,14:30,19/07/2024,15:30,Hungaroring,Magyar Nagydíj
+Hungary,Practice 2,Europe/Budapest,19/07/2024,18:00,19/07/2024,19:00,Hungaroring,Magyar Nagydíj
+Hungary,Practice 3,Europe/Budapest,20/07/2024,12:30,20/07/2024,13:30,Hungaroring,Magyar Nagydíj
+Hungary,Qualifying,Europe/Budapest,20/07/2024,16:00,20/07/2024,17:00,Hungaroring,Magyar Nagydíj
+Hungary,Race,Europe/Budapest,21/07/2024,15:00,21/07/2024,17:00,Hungaroring,Magyar Nagydíj
 Belgium,Placeholder,Europe/Brussels,26/07/2024,,28/07/2024,,Circuit de Spa-Francorchamps,Belgian Grand Prix
 Netherlands,Placeholder,Europe/Amsterdam,23/08/2024,,25/08/2024,,Circuit Zandvoort,Heineken Dutch Grand Prix
 Italy,Placeholder,Europe/Rome,30/08/2024,,01/09/2024,,Autodromo Nazionale Monza,Gran Premio d'Italia
