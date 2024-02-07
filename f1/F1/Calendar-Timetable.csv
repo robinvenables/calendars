@@ -25,11 +25,11 @@ Australia,Practice 2,Australia/Melbourne,22/03/2024,16:00,22/03/2024,17:00,Melbo
 Australia,Practice 3,Australia/Melbourne,23/03/2024,12:30,23/03/2024,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
 Australia,Qualifying,Australia/Melbourne,23/03/2024,16:00,23/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
 Australia,Race,Australia/Melbourne,24/03/2024,15:00,24/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-Japan,Practice 1,Asia/Tokyo,05/04/2024,11:30,05/04/2024,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Practice 2,Asia/Tokyo,05/04/2024,15:00,05/04/2024,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Practice 3,Asia/Tokyo,06/04/2024,11:30,06/04/2024,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Qualifying,Asia/Tokyo,06/04/2024,15:00,06/04/2024,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Race,Asia/Tokyo,07/04/2024,14:00,07/04/2024,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Practice 1,Asia/Tokyo,05/04/2024,11:30,05/04/2024,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Practice 2,Asia/Tokyo,05/04/2024,15:00,05/04/2024,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Practice 3,Asia/Tokyo,06/04/2024,11:30,06/04/2024,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Qualifying,Asia/Tokyo,06/04/2024,15:00,06/04/2024,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Race,Asia/Tokyo,07/04/2024,14:00,07/04/2024,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 China,Placeholder,Asia/Shanghai,19/04/2024,,21/04/2024,,Shanghai International Circuit,Chinese Grand Prix
 Miami,Placeholder,America/New_York,03/05/2024,,05/05/2024,,Miami International Autodrome,crypto.com Miami Grand Prix
 Emilia Romagna,Practice 1,Europe/Rome,17/05/2024,13:30,17/05/2024,14:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
