@@ -3,10 +3,29 @@ Valencia,MotoGP,Testing,Europe/Madrid,28/11/2023,,28/11/2023,,Circuit Ricardo To
 Sepang,MotoGP,Testing,Asia/Kuala_Lumpur,01/02/2024,,03/02/2024,,Sepang International Circuit,Sepang Shakedown MotoGP Official Test
 Sepang,MotoGP,Testing,Asia/Kuala_Lumpur,06/02/2024,,08/02/2024,,Sepang International Circuit,Sepang MotoGP Official Test
 Qatar,MotoGP,Testing,Asia/Qatar,19/02/2024,,20/02/2024,,Losail International Circuit,Qatar MotoGP Official Test\
-Qatar,MotoGP,Placeholder,Asia/Qatar,08/03/2024,,10/03/2024,,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto3,Free Practice,Asia/Qatar,08/03/2024,14:00,08/03/2024,14:35,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Free Practice,Asia/Qatar,08/03/2024,14:50,08/03/2024,15:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Free Practice 1,Asia/Qatar,08/03/2024,15:45,08/03/2024,16:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto3,Practice 1,Asia/Qatar,08/03/2024,18:15,08/03/2024,18:50,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Practice 1,Asia/Qatar,08/03/2024,19:05,08/03/2024,19:45,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Practice,Asia/Qatar,08/03/2024,20:00,08/03/2024,21:00,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto3,Practice 2,Asia/Qatar,09/03/2024,12:30,09/03/2024,13:00,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Practice 2,Asia/Qatar,09/03/2024,13:15,09/03/2024,13:45,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Free Practice 2,Asia/Qatar,09/03/2024,14:00,09/03/2024,14:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Qualifying 1,Asia/Qatar,09/03/2024,14:40,09/03/2024,14:55,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Qualifying 2,Asia/Qatar,09/03/2024,15:05,09/03/2024,15:20,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto3,Qualifying 1,Asia/Qatar,09/03/2024,16:50,09/03/2024,17:05,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto3,Qualifying 2,Asia/Qatar,09/03/2024,17:15,09/03/2024,17:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Qualifying 1,Asia/Qatar,09/03/2024,17:45,09/03/2024,18:00,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Qualifying 2,Asia/Qatar,09/03/2024,18:10,09/03/2024,18:25,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Tissot Sprint,Asia/Qatar,09/03/2024,19:00,09/03/2024,19:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Warm Up,Asia/Qatar,10/03/2024,15:40,10/03/2024,15:50,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto3,Race,Asia/Qatar,10/03/2024,17:00,10/03/2024,17:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Race,Asia/Qatar,10/03/2024,18:15,10/03/2024,18:55,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Race,Asia/Qatar,10/03/2024,20:00,10/03/2024,20:50,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Portugal,MotoGP,Placeholder,Europe/Lisbon,22/03/2024,,24/03/2024,,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Argentina,MotoGP,Placeholder,America/Mendoza,05/04/2024,,07/04/2024,,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
-USA,MotoGP,Placeholder,America/Chicago,12/04/2024,,14/04/2024,,Circuit of The Americas,Reb Bull Grand Prix of The Americas
+USA,MotoGP,Placeholder,America/Chicago,12/04/2024,,14/04/2024,,Circuit of The Americas,Red Bull Grand Prix of The Americas
 Spain,MotoGP,Placeholder,Europe/Madrid,26/04/2024,,28/04/2024,,Circuito de Jerez - Angel Nieto,Gran Premio de España
 Jerez,MotoGP,Testing,Europe/Madrid,29/04/2024,,29/04/2024,,Circuito de Jerez - Angel Nieto,Jerez MotoGP Official Test
 France,MotoGP,Placeholder,Europe/Paris,10/05/2024,,12/05/2024,,Le Mans,SHARK Grand Prix de France
