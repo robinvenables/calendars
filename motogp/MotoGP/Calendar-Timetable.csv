@@ -84,7 +84,26 @@ Spain,Moto3,Race,Europe/Madrid,28/04/2024,11:00,28/04/2024,11:30,Circuito de Jer
 Spain,Moto2,Race,Europe/Madrid,28/04/2024,12:15,28/04/2024,12:55,Circuito de Jerez - Angel Nieto,Gran Premio de España
 Spain,MotoGP,Race,Europe/Madrid,28/04/2024,14:00,28/04/2024,14:50,Circuito de Jerez - Angel Nieto,Gran Premio de España
 Jerez,MotoGP,Testing,Europe/Madrid,29/04/2024,,29/04/2024,,Circuito de Jerez - Angel Nieto,Jerez MotoGP Official Test
-France,MotoGP,Placeholder,Europe/Paris,10/05/2024,,12/05/2024,,Le Mans,SHARK Grand Prix de France
+France,Moto3,Free Practice,Europe/Paris,10/05/2024,09:00,10/05/2024,09:35,Le Mans,SHARK Grand Prix de France
+France,Moto2,Free Practice,Europe/Paris,10/05/2024,09:50,10/05/2024,10:30,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Free Practice 1,Europe/Paris,10/05/2024,10:45,10/05/2024,11:30,Le Mans,SHARK Grand Prix de France
+France,Moto3,Practice 1,Europe/Paris,10/05/2024,13:15,10/05/2024,13:50,Le Mans,SHARK Grand Prix de France
+France,Moto2,Practice 1,Europe/Paris,10/05/2024,14:05,10/05/2024,14:45,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Practice,Europe/Paris,10/05/2024,15:00,10/05/2024,16:00,Le Mans,SHARK Grand Prix de France
+France,Moto3,Practice 2,Europe/Paris,11/05/2024,08:40,11/05/2024,09:10,Le Mans,SHARK Grand Prix de France
+France,Moto2,Practice 2,Europe/Paris,11/05/2024,09:25,11/05/2024,09:55,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Free Practice 2,Europe/Paris,11/05/2024,10:10,11/05/2024,10:40,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Qualifying 1,Europe/Paris,11/05/2024,10:50,11/05/2024,11:05,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Qualifying 2,Europe/Paris,11/05/2024,11:15,11/05/2024,11:30,Le Mans,SHARK Grand Prix de France
+France,Moto3,Qualifying 1,Europe/Paris,11/05/2024,12:50,11/05/2024,13:05,Le Mans,SHARK Grand Prix de France
+France,Moto3,Qualifying 2,Europe/Paris,11/05/2024,13:15,11/05/2024,13:30,Le Mans,SHARK Grand Prix de France
+France,Moto2,Qualifying 1,Europe/Paris,11/05/2024,13:45,11/05/2024,14:00,Le Mans,SHARK Grand Prix de France
+France,Moto2,Qualifying 2,Europe/Paris,11/05/2024,14:10,11/05/2024,14:25,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Tissot Sprint,Europe/Paris,11/05/2024,15:00,11/05/2024,15:30,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Warm Up,Europe/Paris,12/05/2024,09:40,12/05/2024,09:50,Le Mans,SHARK Grand Prix de France
+France,Moto3,Race,Europe/Paris,12/05/2024,11:00,12/05/2024,11:30,Le Mans,SHARK Grand Prix de France
+France,Moto2,Race,Europe/Paris,12/05/2024,12:15,12/05/2024,12:55,Le Mans,SHARK Grand Prix de France
+France,MotoGP,Race,Europe/Paris,12/05/2024,14:00,12/05/2024,14:50,Le Mans,SHARK Grand Prix de France
 Catalunya,MotoGP,Placeholder,Europe/Madrid,24/05/2024,,26/05/2024,,Circuit de Barcelona-Catalunya,Gran Premi Monster Energy de Catalunya
 Italy,MotoGP,Placeholder,Europe/Rome,31/05/2024,,02/06/2024,,Autodromo Internazionale del Mugello,Gran Premio d’Italia Oakley
 Mugello,MotoGP,Testing,Europe/Rome,03/06/2024,,03/06/2024,,Autodromo Internazionale del Mugello,Mugello MotoGP Official Test
