@@ -205,9 +205,26 @@ Germany,MotoGP,Warm Up,Europe/Berlin,07/07/2024,09:40,07/07/2024,09:50,Sachsenri
 Germany,Moto3,Race,Europe/Berlin,07/07/2024,11:00,07/07/2024,11:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,Moto2,Race,Europe/Berlin,07/07/2024,12:15,07/07/2024,12:55,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,MotoGP,Race,Europe/Berlin,07/07/2024,14:00,07/07/2024,14:50,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
-Great Britain,MotoGP,Placeholder,Europe/London,02/08/2024,,04/08/2024,,Silverstone,Monster Energy British Grand Prix
-Austria,MotoGP,Placeholder,Europe/Vienna,16/08/2024,,18/08/2024,,Red Bull Ring - Spielberg,CryptoDATA Motorrad Grand Prix von Österreich
-Aragon,MotoGP,Placeholder,Europe/Madrid,30/08/2024,,01/09/2024,,MotorLand Aragón,Gran Premio de Aragón
+Great Britain,Moto3,Free Practice,Europe/London,02/08/2024,09:00,02/08/2024,09:35,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto2,Free Practice,Europe/London,02/08/2024,09:50,02/08/2024,10:30,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Free Practice 1,Europe/London,02/08/2024,10:45,02/08/2024,11:30,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto3,Practice 1,Europe/London,02/08/2024,13:15,02/08/2024,13:50,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto2,Practice 1,Europe/London,02/08/2024,14:05,02/08/2024,14:45,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Practice,Europe/London,02/08/2024,15:00,02/08/2024,16:00,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto3,Practice 2,Europe/London,03/08/2024,08:40,03/08/2024,09:10,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto2,Practice 2,Europe/London,03/08/2024,09:25,03/08/2024,09:55,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Free Practice 2,Europe/London,03/08/2024,10:10,03/08/2024,10:40,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Qualifying 1,Europe/London,03/08/2024,10:50,03/08/2024,11:05,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Qualifying 2,Europe/London,03/08/2024,11:15,03/08/2024,11:30,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto3,Qualifying 1,Europe/London,03/08/2024,12:50,03/08/2024,13:05,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto3,Qualifying 2,Europe/London,03/08/2024,13:15,03/08/2024,13:30,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto2,Qualifying 1,Europe/London,03/08/2024,13:45,03/08/2024,14:00,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto2,Qualifying 2,Europe/London,03/08/2024,14:10,03/08/2024,14:25,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Tissot Sprint,Europe/London,03/08/2024,15:00,03/08/2024,15:30,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Warm Up,Europe/London,04/08/2024,09:40,04/08/2024,09:50,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto3,Race,Europe/London,04/08/2024,11:15,04/08/2024,11:45,Silverstone,Monster Energy British Grand Prix
+Great Britain,Moto2,Race,Europe/London,04/08/2024,13:00,04/08/2024,13:40,Silverstone,Monster Energy British Grand Prix
+Great Britain,MotoGP,Race,Europe/London,04/08/2024,14:30,04/08/2024,15:20,Silverstone,Monster Energy British Grand Prix
 San Marino,MotoGP,Placeholder,Europe/Rome,06/09/2024,,08/09/2024,,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 Misano,MotoGP,Testing,Europe/Rome,09/09/2024,,09/09/2024,,Misano World Circuit Marco Simoncelli,Misano MotoGP Official Test
 India,MotoGP,Placeholder,Asia/Kolkata,20/09/2024,,22/09/2024,,Buddh International Circuit,Grand Prix of India
