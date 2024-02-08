@@ -245,6 +245,26 @@ Austria,MotoGP,Warm Up,Europe/Vienna,18/08/2024,09:40,18/08/2024,09:50,Red Bull 
 Austria,Moto3,Race,Europe/Vienna,18/08/2024,11:00,18/08/2024,11:30,Red Bull Ring - Spielberg,CryptoDATA Motorrad Grand Prix von Österreich
 Austria,Moto2,Race,Europe/Vienna,18/08/2024,12:15,18/08/2024,12:55,Red Bull Ring - Spielberg,CryptoDATA Motorrad Grand Prix von Österreich
 Austria,MotoGP,Race,Europe/Vienna,18/08/2024,14:00,18/08/2024,14:50,Red Bull Ring - Spielberg,CryptoDATA Motorrad Grand Prix von Österreich
+Aragon,Moto3,Free Practice,Europe/Madrid,30/08/2024,09:00,30/08/2024,09:35,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Free Practice,Europe/Madrid,30/08/2024,09:50,30/08/2024,10:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Free Practice 1,Europe/Madrid,30/08/2024,10:45,30/08/2024,11:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Practice 1,Europe/Madrid,30/08/2024,13:15,30/08/2024,13:50,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Practice 1,Europe/Madrid,30/08/2024,14:05,30/08/2024,14:45,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Practice,Europe/Madrid,30/08/2024,15:00,30/08/2024,16:00,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Practice 2,Europe/Madrid,31/08/2024,08:40,31/08/2024,09:10,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Practice 2,Europe/Madrid,31/08/2024,09:25,31/08/2024,09:55,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Free Practice 2,Europe/Madrid,31/08/2024,10:10,31/08/2024,10:40,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Qualifying 1,Europe/Madrid,31/08/2024,10:50,31/08/2024,11:05,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Qualifying 2,Europe/Madrid,31/08/2024,11:15,31/08/2024,11:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Qualifying 1,Europe/Madrid,31/08/2024,12:50,31/08/2024,13:05,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Qualifying 2,Europe/Madrid,31/08/2024,13:15,31/08/2024,13:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Qualifying 1,Europe/Madrid,31/08/2024,13:45,31/08/2024,14:00,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Qualifying 2,Europe/Madrid,31/08/2024,14:10,31/08/2024,14:25,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Tissot Sprint,Europe/Madrid,31/08/2024,15:00,31/08/2024,15:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Warm Up,Europe/Madrid,01/09/2024,09:40,01/09/2024,09:50,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Race,Europe/Madrid,01/09/2024,11:00,01/09/2024,11:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Race,Europe/Madrid,01/09/2024,12:15,01/09/2024,12:55,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Race,Europe/Madrid,01/09/2024,14:00,01/09/2024,14:50,MotorLand Aragón,Gran Premio de Aragón
 San Marino,Moto3,Free Practice,Europe/Rome,06/09/2024,09:00,06/09/2024,09:35,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,Moto2,Free Practice,Europe/Rome,06/09/2024,09:50,06/09/2024,10:30,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,MotoGP,Free Practice 1,Europe/Rome,06/09/2024,10:45,06/09/2024,11:30,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
@@ -266,7 +286,26 @@ San Marino,Moto3,Race,Europe/Rome,08/09/2024,11:00,08/09/2024,11:30,Misano World
 San Marino,Moto2,Race,Europe/Rome,08/09/2024,12:15,08/09/2024,12:55,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,MotoGP,Race,Europe/Rome,08/09/2024,14:00,08/09/2024,14:50,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 Misano,MotoGP,Testing,Europe/Rome,09/09/2024,,09/09/2024,,Misano World Circuit Marco Simoncelli,Misano MotoGP Official Test
-India,MotoGP,Placeholder,Asia/Kolkata,20/09/2024,,22/09/2024,,Buddh International Circuit,Grand Prix of India
+India,Moto3,Free Practice,Asia/Kolkata,20/09/2024,09:30,20/09/2024,10:20,Buddh International Circuit,Grand Prix of India
+India,Moto2,Free Practice,Asia/Kolkata,20/09/2024,10:35,20/09/2024,11:30,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Free Practice 1,Asia/Kolkata,20/09/2024,11:45,20/09/2024,12:55,Buddh International Circuit,Grand Prix of India
+India,Moto3,Practice 1,Asia/Kolkata,20/09/2024,13:45,20/09/2024,14:35,Buddh International Circuit,Grand Prix of India
+India,Moto2,Practice 1,Asia/Kolkata,20/09/2024,14:50,20/09/2024,15:45,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Practice,Asia/Kolkata,20/09/2024,16:00,20/09/2024,17:10,Buddh International Circuit,Grand Prix of India
+India,Moto3,Practice 2,Asia/Kolkata,21/09/2024,09:10,21/09/2024,09:40,Buddh International Circuit,Grand Prix of India
+India,Moto2,Practice 2,Asia/Kolkata,21/09/2024,09:55,21/09/2024,10:25,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Free Practice 2,Asia/Kolkata,21/09/2024,10:40,21/09/2024,11:10,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Qualifying 1,Asia/Kolkata,21/09/2024,11:15,21/09/2024,11:30,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Qualifying 2,Asia/Kolkata,21/09/2024,11:45,21/09/2024,12:00,Buddh International Circuit,Grand Prix of India
+India,Moto3,Qualifying 1,Asia/Kolkata,21/09/2024,13:20,21/09/2024,13:35,Buddh International Circuit,Grand Prix of India
+India,Moto3,Qualifying 2,Asia/Kolkata,21/09/2024,13:45,21/09/2024,14:00,Buddh International Circuit,Grand Prix of India
+India,Moto2,Qualifying 1,Asia/Kolkata,21/09/2024,14:15,21/09/2024,14:30,Buddh International Circuit,Grand Prix of India
+India,Moto2,Qualifying 2,Asia/Kolkata,21/09/2024,14:40,21/09/2024,14:55,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Tissot Sprint,Asia/Kolkata,21/09/2024,15:30,21/09/2024,16:00,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Warm Up,Asia/Kolkata,22/09/2024,11:10,22/09/2024,11:20,Buddh International Circuit,Grand Prix of India
+India,Moto3,Race,Asia/Kolkata,22/09/2024,12:30,22/09/2024,13:00,Buddh International Circuit,Grand Prix of India
+India,Moto2,Race,Asia/Kolkata,22/09/2024,13:45,22/09/2024,14:25,Buddh International Circuit,Grand Prix of India
+India,MotoGP,Race,Asia/Kolkata,22/09/2024,15:30,22/09/2024,16:20,Buddh International Circuit,Grand Prix of India
 Indonesia,MotoGP,Placeholder,Asia/Jakarta,27/09/2024,,29/09/2024,,Mandalika International Street Circuit,Pertamina Grand Prix of Indonesia
 Japan,MotoGP,Placeholder,Asia/Tokyo,04/10/2024,,06/10/2024,,Mobility Resort Motegi,Motul Grand Prix of Japan
 Australia,MotoGP,Placeholder,Australia/Melbourne,18/10/2024,,20/10/2024,,Phillip Island,MotoGP Guru by Gryfyn Australian Motorcycle Grand Prix
