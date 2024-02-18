@@ -48,9 +48,9 @@ Date,Round,Home,Away,Kick-Off,End,Location,Time Zone,Home Score,Away Score
 02/02/2024,1,FRA,IRE,20:00,21:30,Stade de France,Europe/Paris,17,38
 03/02/2024,1,ITA,ENG,14:15,15:45,Stadio Olimpico,Europe/Rome,24,27
 03/02/2024,1,WAL,SCO,16:45,18:15,Principality Stadium,Europe/London,26,27
-10/02/2024,2,SCO,FRA,14:15,15:45,BT Murrayfield,Europe/London,,
-10/02/2024,2,ENG,WAL,16:45,18:15,Twickenham Stadium,Europe/London,,
-11/02/2024,2,IRE,ITA,15:00,16:30,Aviva Stadium,Europe/Dublin,,
+10/02/2024,2,SCO,FRA,14:15,15:45,BT Murrayfield,Europe/London,16,20
+10/02/2024,2,ENG,WAL,16:45,18:15,Twickenham Stadium,Europe/London,16,14
+11/02/2024,2,IRE,ITA,15:00,16:30,Aviva Stadium,Europe/Dublin,36,0
 24/02/2024,3,IRE,WAL,14:15,15:45,Aviva Stadium,Europe/Dublin,,
 24/02/2024,3,SCO,ENG,16:45,18:15,BT Murrayfield,Europe/London,,
 25/02/2024,3,FRA,ITA,15:00,16:30,Stade de France,Europe/Paris,,
