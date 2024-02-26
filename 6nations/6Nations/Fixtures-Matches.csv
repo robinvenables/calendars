@@ -48,12 +48,12 @@ Date,Round,Home,Away,Kick-Off,End,Location,Time Zone,Home Score,Away Score
 02/02/2024,1,France,Ireland,20:00,21:30,Stade Vélodrome,Europe/Paris,17,38
 03/02/2024,1,Italy,England,14:15,15:45,Stadio Olimpico,Europe/Rome,24,27
 03/02/2024,1,Wales,Scotland,16:45,18:15,Principality Stadium,Europe/London,26,27
-10/02/2024,2,Scotland,France,14:15,15:45,BT Murrayfield,Europe/London,16,20
+10/02/2024,2,Scotland,France,14:15,15:45,Scottish Gas Murrayfield,Europe/London,16,20
 10/02/2024,2,England,Wales,16:45,18:15,Twickenham Stadium,Europe/London,16,14
 11/02/2024,2,Ireland,Italy,15:00,16:30,Aviva Stadium,Europe/Dublin,36,0
-24/02/2024,3,Ireland,Wales,14:15,15:45,Aviva Stadium,Europe/Dublin,,
-24/02/2024,3,Scotland,England,16:45,18:15,BT Murrayfield,Europe/London,,
-25/02/2024,3,France,Italy,15:00,16:30,Stade de France,Europe/Paris,,
+24/02/2024,3,Ireland,Wales,14:15,15:45,Aviva Stadium,Europe/Dublin,31,7
+24/02/2024,3,Scotland,England,16:45,18:15,Scottish Gas Murrayfield,Europe/London,30,21
+25/02/2024,3,France,Italy,15:00,16:30,Stade Pierre Mauroy,Europe/Paris,13,13
 09/03/2024,4,Italy,Scotland,14:15,15:45,Stadio Olimpico,Europe/Rome,,
 09/03/2024,4,England,Ireland,16:45,18:15,Twickenham Stadium,Europe/London,,
 10/03/2024,4,Wales,France,15:00,16:30,Principality Stadium,Europe/London,,
