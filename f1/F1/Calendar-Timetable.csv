@@ -65,7 +65,11 @@ Spain,Practice 2,Europe/Madrid,21/06/2024,17:00,21/06/2024,18:00,Circuit de Barc
 Spain,Practice 3,Europe/Madrid,22/06/2024,12:30,22/06/2024,13:30,Circuit de Barcelona-Catalunya,Gran Premio de España
 Spain,Qualifying,Europe/Madrid,22/06/2024,16:00,22/06/2024,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
 Spain,Race,Europe/Madrid,23/06/2024,15:00,23/06/2024,17:00,Circuit de Barcelona-Catalunya,Gran Premio de España
-Austria,Placeholder,Europe/Vienna,28/06/2024,,30/06/2024,,Red Bull Ring,Grosser Preis von Österreich
+Austria,Practice 1,Europe/Vienna,28/06/2024,12:30,28/06/2024,13:30,Red Bull Ring,Grosser Preis von Österreich
+Austria,Sprint Qualifying,Europe/Vienna,28/06/2024,16:30,28/06/2024,17:14,Red Bull Ring,Grosser Preis von Österreich
+Austria,Sprint,Europe/Vienna,29/06/2024,12:00,29/06/2024,13:00,Red Bull Ring,Grosser Preis von Österreich
+Austria,Qualifying,Europe/Vienna,29/06/2024,16:00,29/06/2024,17:00,Red Bull Ring,Grosser Preis von Österreich
+Austria,Race,Europe/Vienna,30/06/2024,15:00,30/06/2024,17:00,Red Bull Ring,Grosser Preis von Österreich
 Great Britain,Practice 1,Europe/London,05/07/2024,12:30,05/07/2024,13:30,Silverstone,Aramco British Grand Prix
 Great Britain,Practice 2,Europe/London,05/07/2024,16:00,05/07/2024,17:00,Silverstone,Aramco British Grand Prix
 Great Britain,Practice 3,Europe/London,06/07/2024,11:30,06/07/2024,12:30,Silverstone,Aramco British Grand Prix
