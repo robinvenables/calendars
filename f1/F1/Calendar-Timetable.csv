@@ -35,8 +35,12 @@ Japan,Practice 2,Asia/Tokyo,05/04/2024,15:00,05/04/2024,16:00,Suzuka Internation
 Japan,Practice 3,Asia/Tokyo,06/04/2024,11:30,06/04/2024,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Japan,Qualifying,Asia/Tokyo,06/04/2024,15:00,06/04/2024,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Japan,Race,Asia/Tokyo,07/04/2024,14:00,07/04/2024,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-China,Placeholder,Asia/Shanghai,19/04/2024,,21/04/2024,,Shanghai International Circuit,Chinese Grand Prix
-Miami,Placeholder,America/New_York,03/05/2024,,05/05/2024,,Miami International Autodrome,crypto.com Miami Grand Prix
+China,Practice 1,Asia/Shanghai,19/04/2024,11:30,19/04/2024,12:30,Shanghai International Circuit,Chinese Grand Prix
+China,Sprint Qualifying,Asia/Shanghai,19/04/2024,15:30,19/04/2024,16:14,Shanghai International Circuit,Chinese Grand Prix
+China,Sprint,Asia/Shanghai,20/04/2024,11:00,20/04/2024,12:00,Shanghai International Circuit,Chinese Grand Prix
+China,Qualifying,Asia/Shanghai,20/04/2024,15:00,20/04/2024,16:00,Shanghai International Circuit,Chinese Grand Prix
+China,Race,Asia/Shanghai,21/04/2024,15:00,21/04/2024,17:00,Shanghai International Circuit,Chinese Grand Prix
+Miami,Race,America/New_York,03/05/2024,,03/05/2024,,Miami International Autodrome,crypto.com Miami Grand Prix
 Emilia Romagna,Practice 1,Europe/Rome,17/05/2024,13:30,17/05/2024,14:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
 Emilia Romagna,Practice 2,Europe/Rome,17/05/2024,17:00,17/05/2024,18:00,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
 Emilia Romagna,Practice 3,Europe/Rome,18/05/2024,12:30,18/05/2024,13:30,Autodromo Enzo e Dino Ferrari,Gran Premio del Made In Italy e dell'Emilia Romagna
