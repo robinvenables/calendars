@@ -105,7 +105,11 @@ Singapore,Practice 2,Asia/Singapore,20/09/2024,19:00,20/09/2024,20:00,Marina Bay
 Singapore,Practice 3,Asia/Singapore,21/09/2024,15:30,21/09/2024,16:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 Singapore,Qualifying,Asia/Singapore,21/09/2024,21:00,21/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 Singapore,Race,Asia/Singapore,22/09/2024,20:00,22/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-USA,Placeholder,America/Chicago,18/10/2024,,20/10/2024,,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Practice 1,America/Chicago,18/10/2024,12:30,18/10/2024,13:30,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Sprint Qualifying,America/Chicago,18/10/2024,16:30,18/10/2024,17:14,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Sprint,America/Chicago,19/10/2024,13:00,19/10/2024,14:00,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Qualifying,America/Chicago,19/10/2024,17:00,19/10/2024,18:00,Circuit of The Americas,Lenovo United States Grand Prix
+USA,Race,America/Chicago,20/10/2024,14:00,20/10/2024,16:00,Circuit of The Americas,Lenovo United States Grand Prix
 Mexico,Practice 1,America/Mexico_City,25/10/2024,11:30,25/10/2024,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Mexico,Practice 2,America/Mexico_City,25/10/2024,15:00,25/10/2024,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Mexico,Practice 3,America/Mexico_City,26/10/2024,10:30,26/10/2024,11:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
