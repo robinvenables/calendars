@@ -4,3 +4,4 @@ output/*.ics
 f1/F1/Data-*.csv
 6nations/6Nations/Data-*.csv
 motogp/MotoGP/Data-*.csv
+wec/WEC/Data-*.csv

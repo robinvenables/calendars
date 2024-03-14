@@ -1,4 +1,4 @@
-all: output/6Nations.ics output/F1.ics output/Lions.ics output/MotoGP.ics
+all: output/6Nations.ics output/F1.ics output/Lions.ics output/MotoGP.ics output/WEC.ics
 
 output/6Nations.ics: 6nations/6Nations/Fixtures-Matches.csv
 	./mk6nations
@@ -11,3 +11,6 @@ output/Lions.ics: lions/Lions.ics
 
 output/MotoGP.ics: motogp/MotoGP/Calendar-Timetable.csv
 	./mkmotogp
+
+output/WEC.ics: wec/WEC/Calendar-Timetable.csv
+	./mkwec
