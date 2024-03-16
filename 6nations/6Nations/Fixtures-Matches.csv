@@ -7,7 +7,7 @@ Date,Round,Home,Away,Kick-Off,End,Location,Time Zone,Home Score,Away Score
 14/02/2021,2,Ireland,France,15:00,16:30,Aviva Stadium,Europe/Dublin,13,15
 27/02/2021,3,Italy,Ireland,15:15,16:45,Stadio Olimpico,Europe/Rome,10,48
 27/02/2021,3,Wales,England,16:45,18:15,Principality Stadium,Europe/London,40,24
-28/02/2021,3,France,Scotland,1600,1600.0625,Stade de France,Europe/Paris,P,P
+28/02/2021,3,France,Scotland,16:00,17:30,Stade de France,Europe/Paris,P,P
 13/03/2021,4,Italy,Wales,15:15,16:45,Stadio Olimpico,Europe/Rome,7,48
 13/03/2021,4,England,France,16:45,18:15,Twickenham Stadium,Europe/London,23,20
 14/03/2021,4,Scotland,Ireland,15:00,16:30,BT Murrayfield,Europe/London,24,27
@@ -54,9 +54,9 @@ Date,Round,Home,Away,Kick-Off,End,Location,Time Zone,Home Score,Away Score
 24/02/2024,3,Ireland,Wales,14:15,15:45,Aviva Stadium,Europe/Dublin,31,7
 24/02/2024,3,Scotland,England,16:45,18:15,Scottish Gas Murrayfield,Europe/London,30,21
 25/02/2024,3,France,Italy,15:00,16:30,Stade Pierre Mauroy,Europe/Paris,13,13
-09/03/2024,4,Italy,Scotland,14:15,15:45,Stadio Olimpico,Europe/Rome,,
-09/03/2024,4,England,Ireland,16:45,18:15,Twickenham Stadium,Europe/London,,
-10/03/2024,4,Wales,France,15:00,16:30,Principality Stadium,Europe/London,,
+09/03/2024,4,Italy,Scotland,14:15,15:45,Stadio Olimpico,Europe/Rome,31,29
+09/03/2024,4,England,Ireland,16:45,18:15,Twickenham Stadium,Europe/London,23,22
+10/03/2024,4,Wales,France,15:00,16:30,Principality Stadium,Europe/London,24,45
 16/03/2024,5,Wales,Italy,14:15,15:45,Principality Stadium,Europe/London,,
 16/03/2024,5,Ireland,Scotland,16:45,18:15,Aviva Stadium,Europe/Dublin,,
-16/03/2024,5,France,England,20:00,21:30,Stade de France,Europe/Paris,,
+16/03/2024,5,France,England,21:00,22:30,Stade de France,Europe/Paris,,
