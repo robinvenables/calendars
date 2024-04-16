@@ -70,7 +70,7 @@ DTEND;TZID=$timezone:$dtend
 UID:$uuid
 END:VEVENT
 EOE
-  } elsif ($session eq "Testing"|| $session eq "Placeholder") {
+  } elsif ($session eq "Testing") {
     my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
     my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
 
@@ -79,6 +79,20 @@ BEGIN:VEVENT
 DTSTAMP;TZID=Europe/Athens:$UPDATE_STAMP
 SUMMARY:$summary
 DESCRIPTION:$title
+LOCATION:$circuit
+DTSTART;VALUE=DATE:$dtstart
+DTEND;VALUE=DATE:$dtend
+UID:$uuid
+END:VEVENT
+EOE
+  } elsif ($session eq "Placeholder") {
+    my $dtstart = sprintf("%4d%02d%02d", substr($startdate, 6), substr($startdate, 3, 2), substr($startdate, 0, 2));
+    my $dtend = sprintf("%4d%02d%02d", substr($enddate, 6), substr($enddate, 3, 2), substr($enddate, 0, 2) + 1);
+
+    print $of <<EOE;
+BEGIN:VEVENT
+DTSTAMP;TZID=Europe/Athens:$UPDATE_STAMP
+SUMMARY:$summary
 LOCATION:$circuit
 DTSTART;VALUE=DATE:$dtstart
 DTEND;VALUE=DATE:$dtend
