@@ -28,7 +28,14 @@ Le Mans,Qualifying 1,Europe/Paris,12/06/2024,22:00,13/06/2024,00:00,Circuit de l
 Le Mans,Qualifying 2,Europe/Paris,13/06/2024,19:00,13/06/2024,21:00,Circuit de la Sarthe,24 Hours of Le Mans
 Le Mans,Qualifying 3,Europe/Paris,13/06/2024,22:00,14/06/2024,00:00,Circuit de la Sarthe,24 Hours of Le Mans
 Le Mans,Race,Europe/Paris,15/06/2024,15:00,16/06/2024,15:00,Circuit de la Sarthe,24 Hours of Le Mans
-São Paulo,Placeholder,America/Sao_Paulo,12/07/2024,,14/07/2024,,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Free Practice 1,America/Sao_Paulo,12/07/2024,10:45,12/07/2024,12:15,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Free Practice 2,America/Sao_Paulo,12/07/2024,15:15,12/07/2024,16:45,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Free Practice 3,America/Sao_Paulo,13/07/2024,10:30,13/07/2024,11:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Qualifying - LMGT3,America/Sao_Paulo,13/07/2024,14:30,13/07/2024,14:42,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Qualifying - Hypercar,America/Sao_Paulo,13/07/2024,14:50,13/07/2024,15:02,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Qualifying - Hyperpole LMGT3,America/Sao_Paulo,13/07/2024,15:10,13/07/2024,15:20,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Qualifying - Hyperpole Hypercar,America/Sao_Paulo,13/07/2024,15:30,13/07/2024,15:40,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
+São Paulo,Race,America/Sao_Paulo,14/07/2024,11:30,14/07/2024,17:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
 Lone Star Le Mans,Placeholder,America/Chicago,30/08/2024,,01/09/2024,,Circuit of The Americas,Lone Star Le Mans
 Fuji,Placeholder,Asia/Tokyo,13/09/2024,,15/09/2024,,Fuji Speedway,6 Hours of Fuji
 Bahrain,Placeholder,Asia/Qatar,31/10/2024,,02/11/2024,,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
