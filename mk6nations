@@ -16,7 +16,7 @@ my (
 $COUNT = 0;
 
 $INPUT_FILE    = "6nations/6Nations/Fixtures-Matches.csv";
-$OUTPUT_FILE   = "output/6Nations.ics";
+$OUTPUT_FILE   = "output/calendars/6Nations.ics";
 
 # Open input and output files
 open(my $if, "<", $INPUT_FILE) or die "Can't open < $INPUT_FILE: $!";

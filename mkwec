@@ -16,7 +16,7 @@ my (
 $COUNT = 0;
 
 $INPUT_FILE    = "wec/WEC/Calendar-Timetable.csv";
-$OUTPUT_FILE   = "output/WEC.ics";
+$OUTPUT_FILE   = "output/calendars/WEC.ics";
 
 # Open input and output files
 open(my $if, "<", $INPUT_FILE) or die "Can't open < $INPUT_FILE: $!";

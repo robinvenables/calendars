@@ -16,7 +16,7 @@ my (
 $COUNT = 0;
 
 $INPUT_FILE  = "motogp/MotoGP/Calendar-Timetable.csv";
-$OUTPUT_FILE = "output/MotoGP.ics";
+$OUTPUT_FILE = "output/calendars/MotoGP.ics";
 
 # Open input, output and timezone files
 open(my $if, "<", $INPUT_FILE) or die "Can't open < $INPUT_FILE: $!";
