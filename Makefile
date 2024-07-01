@@ -1,4 +1,4 @@
-all: output/calendars/6Nations.ics output/calendars/F1.ics output/calendars/Lions.ics outputcalendars//MotoGP.ics output/calendars/WEC.ics
+all: output/calendars/6Nations.ics output/calendars/F1.ics output/calendars/Lions.ics output/calendars/MotoGP.ics output/calendars/WEC.ics
 
 output/calendars/6Nations.ics: 6nations/6Nations/Fixtures-Matches.csv
 	./mk6nations
