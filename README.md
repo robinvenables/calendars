@@ -2,21 +2,30 @@
 Robin's iCalendar Repository
 
 ## Description
-Scripts for the creation of various calendars that are published at https://robinvenables.com/calendars/
+Scripts for the creation of various calendars that are published at https://data.robinvenables.com/calendars/
 
 ## Calendars
 
-- Formula 1 2024 season testing dates and placeholders for race weekends
-- MotoGP 2024 season testing dates and placeholders for race weekends
-- 6 Nations 2024 fixtures and results from the 2021, 2022 and 2023 tournaments
-- British and Irish Lions 2021 tour results
+- Formula 1 2024 season testing and race dates
+- MotoGP 2024 season testing and race dates
+- 6 Nations 2025 fixtures and results from the 2021 - 24 tournaments
+- British and Irish Lions 2025 tour fixtures and 2021 tour results
+- WEC 2024 season race dates
 
 ## Scripts
 
 ### mkf1
 
-Reads input from f1/F1.csv and generates output/F1.ics
+Reads input from f1/F1/Calendar-Timetable.csv and generates output/F1.ics
 
 ## mkmotogp
 
-Very similar to mkf1. Reads input from motogp/MotoGP.csv and generates output/MotoGP.ics
+Reads input from motogp/MotoGP/Calendar-Timetable.csv and generates output/MotoGP.ics
+
+## mk6nations
+
+Reads input from 6nations/6Nations/Fixtures-Matches.csv and generates output/6Nations.ics
+
+## mkwec
+
+Reads inpout from wec/WEC/Calendar-Timetable.csv and generates output/WEC.ics
