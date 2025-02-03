@@ -416,17 +416,24 @@ Argentina,MotoGP,Placeholder,America/Mendoza,14/03/2025,,16/03/2025,,Termas de R
 USA,MotoGP,Placeholder,America/Chicago,28/03/2025,,30/03/2025,,Circuit of The Americas,Red Bull Grand Prix of The Americas
 Qatar,MotoGP,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Jerez,MotoGP,Placeholder,Europe/Madrid,25/04/2025,,27/04/2025,,Circuito de Jerez - Angel Nieto,
+Spain,MotoGP,Testing,Europe/Madrid,28/04/2025,,28/04/2025,,Circuito de Jerez - Angel Nieto,Spain MotoGP Test
 France,MotoGP,Placeholder,Europe/Paris,09/05/2025,,11/05/2025,,Le Mans,Grand Prix de France
+France,MotoGP,Testing,Europe/Paris,12/05/2025,,12/05/2025,,Le Mans,France Moto3 Test
+France,MotoGP,Testing,Europe/Paris,13/05/2025,,13/05/2025,,Le Mans,France Moto2 Test
 Great Britain,MotoGP,Placeholder,Europe/London,23/05/2025,,25/05/2025,,Silverstone,Monster Energy British Grand Prix
 Aragon,MotoGP,Placeholder,Europe/Madrid,06/06/2025,,08/06/2025,,MotorLand Aragón,Gran Premio GoPro de Aragón
+Aragon,MotoGP,Testing,Europe/Madrid,09/06/2025,,09/06/2025,,MotorLand Aragón,Aragon MotoGP Test
 Italy,MotoGP,Placeholder,Europe/Rome,20/06/2025,,22/06/2025,,Autodromo Internazionale del Mugello,Gran Premio d’Italia
 Netherlands,MotoGP,Placeholder,Europe/Amsterdam,27/06/2025,,29/06/2025,,TT Circuit Assen,Motul TT Assen
 Germany,MotoGP,Placeholder,Europe/Berlin,11/07/2025,,13/07/2025,,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Czechia,MotoGP,Placeholder,Europe/Prague,18/07/2025,,20/07/2025,,Automotodrom Brno,
+Aragon,MotoGP,Testing,Europe/Madrid,21/07/2025,,21/07/2025,,MotorLand Aragón,Czechia Moto2 Test
+Aragon,MotoGP,Testing,Europe/Madrid,22/07/2025,,22/07/2025,,MotorLand Aragón,Czechia Moto3 Test
 Austria,MotoGP,Placeholder,Europe/Vienna,15/08/2025,,17/08/2025,,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Hungary,MotoGP,Placeholder,Europe/Budapest,22/08/2025,,24/08/2025,,Balaton Park,
 Catalunya,MotoGP,Placeholder,Europe/Madrid,05/09/2025,,07/09/2025,,Circuit de Barcelona-Catalunya,Gran Premi Monster Energy de Catalunya
 San Marino,MotoGP,Placeholder,Europe/Rome,12/09/2025,,14/09/2025,,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
+San Marino,MotoGP,Testing,Europe/Rome,15/09/2025,,15/09/2025,,Misano World Circuit Marco Simoncelli,San Marino MotoGP Test
 Japan,MotoGP,Placeholder,Asia/Tokyo,26/09/2025,,28/09/2025,,Mobility Resort Motegi,Motul Grand Prix of Japan
 Indonesia,MotoGP,Placeholder,Asia/Makassar,03/10/2025,,05/10/2025,,Mandalika International Street Circuit,Pertamina Grand Prix of Indonesia
 Australia,MotoGP,Placeholder,Australia/Melbourne,17/10/2025,,19/10/2025,,Phillip Island,Australian Motorcycle Grand Prix
