@@ -407,6 +407,10 @@ Barcelona,Moto3,Race,Europe/Madrid,17/11/2024,11:00,17/11/2024,11:30,Circuit de 
 Barcelona,Moto2,Race,Europe/Madrid,17/11/2024,12:15,17/11/2024,12:55,Circuit de Barcelona-Catalunya,Motul Solidarity Grand Prix of Barcelona
 Barcelona,MotoGP,Race,Europe/Madrid,17/11/2024,14:00,17/11/2024,14:50,Circuit de Barcelona-Catalunya,Motul Solidarity Grand Prix of Barcelona
 Barcelona,MotoGP,Testing,Europe/Madrid,19/11/2024,10:00,19/11/2024,18:00,Circuit de Barcelona-Catalunya,Barcelona MotoGP Official Test
+Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,31/01/2025,,02/02/2025,,Sepang International Circuit,Shakedown MotoGP Test
+Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,05/02/2025,,07/02/2025,,Sepang International Circuit,Malaysia MotoGP Test
+Thailand,MotoGP,Testing,Asia/Bangkok,12/02/2025,,13/02/2025,,Chang International Circuit,Thailand MotoGP Test
+Spain,MotoGP,Testing,Europe/Madrid,18/02/2025,,20/02/2025,,Circuito de Jerez - Angel Nieto,Spain Moto2 and Moto3 Test
 Thailand,MotoGP,Placeholder,Asia/Bangkok,28/02/2025,,02/03/2025,,Chang International Circuit,OR Thailand Grand Prix
 Argentina,MotoGP,Placeholder,America/Mendoza,14/03/2025,,16/03/2025,,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 USA,MotoGP,Placeholder,America/Chicago,28/03/2025,,30/03/2025,,Circuit of The Americas,Red Bull Grand Prix of The Americas
