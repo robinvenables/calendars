@@ -431,7 +431,26 @@ Thailand,MotoGP,Warm Up,Asia/Bangkok,02/03/2025,09:40,02/03/2025,09:50,Chang Int
 Thailand,Moto3,Race,Asia/Bangkok,02/03/2025,12:00,02/03/2025,12:30,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,Moto2,Race,Asia/Bangkok,02/03/2025,13:15,02/03/2025,13:55,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,MotoGP,Race,Asia/Bangkok,02/03/2025,15:00,02/03/2025,15:50,Chang International Circuit,PT Grand Prix of Thailand
-Argentina,MotoGP,Placeholder,America/Mendoza,14/03/2025,,16/03/2025,,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Free Practice 1,America/Mendoza,14/03/2025,09:00,14/03/2025,09:35,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Free Practice 1,America/Mendoza,14/03/2025,09:50,14/03/2025,10:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Free Practice 1,America/Mendoza,14/03/2025,10:45,14/03/2025,11:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Practice,America/Mendoza,14/03/2025,13:15,14/03/2025,13:50,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Practice,America/Mendoza,14/03/2025,14:05,14/03/2025,14:45,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Practice,America/Mendoza,14/03/2025,15:00,14/03/2025,16:00,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Free Practice 2,America/Mendoza,15/03/2025,08:40,15/03/2025,09:10,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Free Practice 2,America/Mendoza,15/03/2025,09:25,15/03/2025,09:55,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Free Practice 2,America/Mendoza,15/03/2025,10:10,15/03/2025,10:40,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Qualifying 1,America/Mendoza,15/03/2025,10:50,15/03/2025,11:05,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Qualifying 2,America/Mendoza,15/03/2025,11:15,15/03/2025,11:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Qualifying 1,America/Mendoza,15/03/2025,12:50,15/03/2025,13:05,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Qualifying 2,America/Mendoza,15/03/2025,13:15,15/03/2025,13:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Qualifying 1,America/Mendoza,15/03/2025,13:45,15/03/2025,14:00,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Qualifying 2,America/Mendoza,15/03/2025,14:10,15/03/2025,14:25,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Tissot Sprint,America/Mendoza,15/03/2025,15:00,15/03/2025,15:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Warm Up,America/Mendoza,16/03/2025,09:40,16/03/2025,09:50,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Race,America/Mendoza,16/03/2025,12:00,16/03/2025,12:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Race,America/Mendoza,16/03/2025,13:15,16/03/2025,13:55,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Race,America/Mendoza,16/03/2025,15:00,16/03/2025,15:50,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 USA,MotoGP,Placeholder,America/Chicago,28/03/2025,,30/03/2025,,Circuit of The Americas,Red Bull Grand Prix of The Americas
 Qatar,MotoGP,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Jerez,MotoGP,Placeholder,Europe/Madrid,25/04/2025,,27/04/2025,,Circuito de Jerez - Angel Nieto,
