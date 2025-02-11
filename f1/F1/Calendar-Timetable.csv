@@ -147,8 +147,16 @@ Bahrain,Morning Session,Asia/Qatar,27/02/2025,10:00,27/02/2025,14:00,Bahrain Int
 Bahrain,Afternoon Session,Asia/Qatar,27/02/2025,15:00,27/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing
 Bahrain,Morning Session,Asia/Qatar,28/02/2025,10:00,28/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing
 Bahrain,Afternoon Session,Asia/Qatar,28/02/2025,15:00,28/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing
-Australia,Placeholder,Australia/Melbourne,14/03/2025,,16/03/2025,,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-China,Placeholder,Asia/Shanghai,21/03/2025,,23/03/2025,,Shanghai International Circuit,Lenovo Chinese Grand Prix
+Australia,Practice 1,Australia/Melbourne,14/03/2025,12:30,14/03/2025,13:30,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
+Australia,Practice 2,Australia/Melbourne,14/03/2025,16:00,14/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
+Australia,Practice 3,Australia/Melbourne,15/03/2025,12:30,15/03/2025,13:30,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
+Australia,Qualifying,Australia/Melbourne,15/03/2025,16:00,15/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
+Australia,Race,Australia/Melbourne,16/03/2025,15:00,16/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
+China,Practice 1,Asia/Shanghai,21/03/2025,12:30,21/03/2025,13:30,Shanghai International Circuit,Heineken Chinese Grand Prix
+China,Sprint Qualifying,Asia/Shanghai,21/03/2025,15:30,21/03/2025,16:15,Shanghai International Circuit,Heineken Chinese Grand Prix
+China,Sprint,Asia/Shanghai,22/03/2025,11:00,22/03/2025,12:00,Shanghai International Circuit,Heineken Chinese Grand Prix
+China,Qualifying,Asia/Shanghai,22/03/2025,15:00,22/03/2025,16:00,Shanghai International Circuit,Heineken Chinese Grand Prix
+China,Race,Asia/Shanghai,23/03/2025,15:00,23/03/2025,17:00,Shanghai International Circuit,Heineken Chinese Grand Prix
 Japan,Placeholder,Asia/Tokyo,04/04/2025,,06/04/2025,,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
 Bahrain,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
 Saudi Arabia,Placeholder,Asia/Riyadh,18/04/2025,,20/04/2025,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
