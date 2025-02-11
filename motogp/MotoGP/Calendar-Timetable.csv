@@ -411,7 +411,26 @@ Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,31/01/2025,,02/02/2025,,Sepang Interna
 Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,05/02/2025,,07/02/2025,,Sepang International Circuit,Malaysia MotoGP Test
 Thailand,MotoGP,Testing,Asia/Bangkok,12/02/2025,,13/02/2025,,Chang International Circuit,Thailand MotoGP Test
 Spain,MotoGP,Testing,Europe/Madrid,18/02/2025,,20/02/2025,,Circuito de Jerez - Angel Nieto,Spain Moto2 and Moto3 Test
-Thailand,MotoGP,Placeholder,Asia/Bangkok,28/02/2025,,02/03/2025,,Chang International Circuit,OR Thailand Grand Prix
+Thailand,Moto3,Free Practice 1,Asia/Bangkok,28/02/2025,09:00,28/02/2025,09:35,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto2,Free Practice 1,Asia/Bangkok,28/02/2025,09:50,28/02/2025,10:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Free Practice 1,Asia/Bangkok,28/02/2025,10:45,28/02/2025,11:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto3,Practice,Asia/Bangkok,28/02/2025,13:15,28/02/2025,13:50,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto2,Practice,Asia/Bangkok,28/02/2025,14:05,28/02/2025,14:45,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Practice,Asia/Bangkok,28/02/2025,15:00,28/02/2025,16:00,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto3,Free Practice 2,Asia/Bangkok,01/03/2025,08:40,01/03/2025,09:10,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto2,Free Practice 2,Asia/Bangkok,01/03/2025,09:25,01/03/2025,09:55,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Free Practice 2,Asia/Bangkok,01/03/2025,10:10,01/03/2025,10:40,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Qualifying 1,Asia/Bangkok,01/03/2025,10:50,01/03/2025,11:05,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Qualifying 2,Asia/Bangkok,01/03/2025,11:15,01/03/2025,11:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto3,Qualifying 1,Asia/Bangkok,01/03/2025,12:50,01/03/2025,13:05,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto3,Qualifying 2,Asia/Bangkok,01/03/2025,13:15,01/03/2025,13:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto2,Qualifying 1,Asia/Bangkok,01/03/2025,13:45,01/03/2025,14:00,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto2,Qualifying 2,Asia/Bangkok,01/03/2025,14:10,01/03/2025,14:25,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Tissot Sprint,Asia/Bangkok,01/03/2025,15:00,01/03/2025,15:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Warm Up,Asia/Bangkok,02/03/2025,09:40,02/03/2025,09:50,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto3,Race,Asia/Bangkok,02/03/2025,12:00,02/03/2025,12:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,Moto2,Race,Asia/Bangkok,02/03/2025,13:15,02/03/2025,13:55,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Race,Asia/Bangkok,02/03/2025,15:00,02/03/2025,15:50,Chang International Circuit,PT Grand Prix of Thailand
 Argentina,MotoGP,Placeholder,America/Mendoza,14/03/2025,,16/03/2025,,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 USA,MotoGP,Placeholder,America/Chicago,28/03/2025,,30/03/2025,,Circuit of The Americas,Red Bull Grand Prix of The Americas
 Qatar,MotoGP,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Losail International Circuit,Qatar Airways Grand Prix of Qatar
@@ -427,8 +446,8 @@ Italy,MotoGP,Placeholder,Europe/Rome,20/06/2025,,22/06/2025,,Autodromo Internazi
 Netherlands,MotoGP,Placeholder,Europe/Amsterdam,27/06/2025,,29/06/2025,,TT Circuit Assen,Motul TT Assen
 Germany,MotoGP,Placeholder,Europe/Berlin,11/07/2025,,13/07/2025,,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Czechia,MotoGP,Placeholder,Europe/Prague,18/07/2025,,20/07/2025,,Automotodrom Brno,
-Aragon,MotoGP,Testing,Europe/Madrid,21/07/2025,,21/07/2025,,MotorLand Aragón,Czechia Moto2 Test
-Aragon,MotoGP,Testing,Europe/Madrid,22/07/2025,,22/07/2025,,MotorLand Aragón,Czechia Moto3 Test
+Czechia,MotoGP,Testing,Europe/Prague,21/07/2025,,21/07/2025,,Automotodrom Brno,Czechia Moto2 Test
+Czechia,MotoGP,Testing,Europe/Prague,22/07/2025,,22/07/2025,,Automotodrom Brno,Czechia Moto3 Test
 Austria,MotoGP,Placeholder,Europe/Vienna,15/08/2025,,17/08/2025,,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Hungary,MotoGP,Placeholder,Europe/Budapest,22/08/2025,,24/08/2025,,Balaton Park,
 Catalunya,MotoGP,Placeholder,Europe/Madrid,05/09/2025,,07/09/2025,,Circuit de Barcelona-Catalunya,Gran Premi Monster Energy de Catalunya
