@@ -451,7 +451,26 @@ Argentina,MotoGP,Warm Up,America/Mendoza,16/03/2025,09:40,16/03/2025,09:50,Terma
 Argentina,Moto3,Race,America/Mendoza,16/03/2025,12:00,16/03/2025,12:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,Moto2,Race,America/Mendoza,16/03/2025,13:15,16/03/2025,13:55,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,MotoGP,Race,America/Mendoza,16/03/2025,15:00,16/03/2025,15:50,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
-USA,MotoGP,Placeholder,America/Chicago,28/03/2025,,30/03/2025,,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto3,Free Practice 1,America/Chicago,28/03/2025,09:00,28/03/2025,09:35,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto2,Free Practice 1,America/Chicago,28/03/2025,09:50,28/03/2025,10:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Free Practice 1,America/Chicago,28/03/2025,10:45,28/03/2025,11:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto3,Practice,America/Chicago,28/03/2025,13:15,28/03/2025,13:50,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto2,Practice,America/Chicago,28/03/2025,14:05,28/03/2025,14:45,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Practice,America/Chicago,28/03/2025,15:00,28/03/2025,16:00,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto3,Free Practice 2,America/Chicago,29/03/2025,08:40,29/03/2025,09:10,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto2,Free Practice 2,America/Chicago,29/03/2025,09:25,29/03/2025,09:55,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Free Practice 2,America/Chicago,29/03/2025,10:10,29/03/2025,10:40,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Qualifying 1,America/Chicago,29/03/2025,10:50,29/03/2025,11:05,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Qualifying 2,America/Chicago,29/03/2025,11:15,29/03/2025,11:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto3,Qualifying 1,America/Chicago,29/03/2025,12:50,29/03/2025,13:05,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto3,Qualifying 2,America/Chicago,29/03/2025,13:15,29/03/2025,13:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto2,Qualifying 1,America/Chicago,29/03/2025,13:45,29/03/2025,14:00,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto2,Qualifying 2,America/Chicago,29/03/2025,14:10,29/03/2025,14:25,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Tissot Sprint,America/Chicago,29/03/2025,15:00,29/03/2025,15:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Warm Up,America/Chicago,30/03/2025,09:40,30/03/2025,09:50,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto3,Race,America/Chicago,30/03/2025,11:00,30/03/2025,11:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,Moto2,Race,America/Chicago,30/03/2025,12:15,30/03/2025,12:55,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Race,America/Chicago,30/03/2025,14:00,30/03/2025,14:50,Circuit of The Americas,Red Bull Grand Prix of The Americas
 Qatar,MotoGP,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Jerez,MotoGP,Placeholder,Europe/Madrid,25/04/2025,,27/04/2025,,Circuito de Jerez - Angel Nieto,
 Spain,MotoGP,Testing,Europe/Madrid,28/04/2025,,28/04/2025,,Circuito de Jerez - Angel Nieto,Spain MotoGP Test
