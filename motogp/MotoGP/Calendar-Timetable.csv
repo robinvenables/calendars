@@ -512,7 +512,26 @@ Spain,Moto3,Race,Europe/Madrid,27/04/2025,11:00,27/04/2025,11:30,Circuito de Jer
 Spain,Moto2,Race,Europe/Madrid,27/04/2025,12:15,27/04/2025,12:55,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,MotoGP,Race,Europe/Madrid,27/04/2025,14:00,27/04/2025,14:50,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,MotoGP,Testing,Europe/Madrid,28/04/2025,,28/04/2025,,Circuito de Jerez - Angel Nieto,Spain MotoGP Test
-France,MotoGP,Placeholder,Europe/Paris,09/05/2025,,11/05/2025,,Le Mans,Grand Prix de France
+France,Moto3,Free Practice 1,Europe/Paris,09/05/2025,09:00,09/05/2025,09:35,Le Mans,Michelin Grand Prix de France
+France,Moto2,Free Practice 1,Europe/Paris,09/05/2025,09:50,09/05/2025,10:30,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Free Practice 1,Europe/Paris,09/05/2025,10:45,09/05/2025,11:30,Le Mans,Michelin Grand Prix de France
+France,Moto3,Practice,Europe/Paris,09/05/2025,13:15,09/05/2025,13:50,Le Mans,Michelin Grand Prix de France
+France,Moto2,Practice,Europe/Paris,09/05/2025,14:05,09/05/2025,14:45,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Practice,Europe/Paris,09/05/2025,15:00,09/05/2025,16:00,Le Mans,Michelin Grand Prix de France
+France,Moto3,Free Practice 2,Europe/Paris,10/05/2025,08:40,10/05/2025,09:10,Le Mans,Michelin Grand Prix de France
+France,Moto2,Free Practice 2,Europe/Paris,10/05/2025,09:25,10/05/2025,09:55,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Free Practice 2,Europe/Paris,10/05/2025,10:10,10/05/2025,10:40,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Qualifying 1,Europe/Paris,10/05/2025,10:50,10/05/2025,11:05,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Qualifying 2,Europe/Paris,10/05/2025,11:15,10/05/2025,11:30,Le Mans,Michelin Grand Prix de France
+France,Moto3,Qualifying 1,Europe/Paris,10/05/2025,12:50,10/05/2025,13:05,Le Mans,Michelin Grand Prix de France
+France,Moto3,Qualifying 2,Europe/Paris,10/05/2025,13:15,10/05/2025,13:30,Le Mans,Michelin Grand Prix de France
+France,Moto2,Qualifying 1,Europe/Paris,10/05/2025,13:45,10/05/2025,14:00,Le Mans,Michelin Grand Prix de France
+France,Moto2,Qualifying 2,Europe/Paris,10/05/2025,14:10,10/05/2025,14:25,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Tissot Sprint,Europe/Paris,10/05/2025,15:00,10/05/2025,15:30,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Warm Up,Europe/Paris,11/05/2025,09:40,11/05/2025,09:50,Le Mans,Michelin Grand Prix de France
+France,Moto3,Race,Europe/Paris,11/05/2025,11:00,11/05/2025,11:30,Le Mans,Michelin Grand Prix de France
+France,Moto2,Race,Europe/Paris,11/05/2025,12:15,11/05/2025,12:55,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Race,Europe/Paris,11/05/2025,14:00,11/05/2025,14:50,Le Mans,Michelin Grand Prix de France
 France,MotoGP,Testing,Europe/Paris,12/05/2025,,12/05/2025,,Le Mans,France Moto3 Test
 France,MotoGP,Testing,Europe/Paris,13/05/2025,,13/05/2025,,Le Mans,France Moto2 Test
 Great Britain,MotoGP,Placeholder,Europe/London,23/05/2025,,25/05/2025,,Silverstone,Monster Energy British Grand Prix
