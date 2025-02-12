@@ -554,7 +554,26 @@ Great Britain,MotoGP,Warm Up,Europe/London,25/05/2025,09:40,25/05/2025,09:50,Sil
 Great Britain,Moto2,Race,Europe/London,25/05/2025,12:15,25/05/2025,12:45,Silverstone,Tissot British Grand Prix
 Great Britain,MotoGP,Race,Europe/London,25/05/2025,13:00,25/05/2025,13:40,Silverstone,Tissot British Grand Prix
 Great Britain,Moto3,Race,Europe/London,25/05/2025,14:30,25/05/2025,15:20,Silverstone,Tissot British Grand Prix
-Aragon,MotoGP,Placeholder,Europe/Madrid,06/06/2025,,08/06/2025,,MotorLand Aragón,Gran Premio GoPro de Aragón
+Aragon,Moto3,Free Practice 1,Europe/Madrid,06/06/2025,09:00,06/06/2025,09:35,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Free Practice 1,Europe/Madrid,06/06/2025,09:50,06/06/2025,10:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Free Practice 1,Europe/Madrid,06/06/2025,10:45,06/06/2025,11:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Practice,Europe/Madrid,06/06/2025,13:15,06/06/2025,13:50,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Practice,Europe/Madrid,06/06/2025,14:05,06/06/2025,14:45,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Practice,Europe/Madrid,06/06/2025,15:00,06/06/2025,16:00,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Free Practice 2,Europe/Madrid,07/06/2025,08:40,07/06/2025,09:10,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Free Practice 2,Europe/Madrid,07/06/2025,09:25,07/06/2025,09:55,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Free Practice 2,Europe/Madrid,07/06/2025,10:10,07/06/2025,10:40,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Qualifying 1,Europe/Madrid,07/06/2025,10:50,07/06/2025,11:05,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Qualifying 2,Europe/Madrid,07/06/2025,11:15,07/06/2025,11:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Qualifying 1,Europe/Madrid,07/06/2025,12:50,07/06/2025,13:05,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Qualifying 2,Europe/Madrid,07/06/2025,13:15,07/06/2025,13:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Qualifying 1,Europe/Madrid,07/06/2025,13:45,07/06/2025,14:00,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Qualifying 2,Europe/Madrid,07/06/2025,14:10,07/06/2025,14:25,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Tissot Sprint,Europe/Madrid,07/06/2025,15:00,07/06/2025,15:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Warm Up,Europe/Madrid,08/06/2025,09:40,08/06/2025,09:50,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto3,Race,Europe/Madrid,08/06/2025,11:00,08/06/2025,11:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,Moto2,Race,Europe/Madrid,08/06/2025,12:15,08/06/2025,12:55,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Race,Europe/Madrid,08/06/2025,14:00,08/06/2025,14:50,MotorLand Aragón,Gran Premio de Aragón
 Aragon,MotoGP,Testing,Europe/Madrid,09/06/2025,,09/06/2025,,MotorLand Aragón,Aragon MotoGP Test
 Italy,MotoGP,Placeholder,Europe/Rome,20/06/2025,,22/06/2025,,Autodromo Internazionale del Mugello,Gran Premio d’Italia
 Netherlands,MotoGP,Placeholder,Europe/Amsterdam,27/06/2025,,29/06/2025,,TT Circuit Assen,Motul TT Assen
