@@ -135,7 +135,7 @@ Abu Dhabi,Practice 2,Asia/Dubai,06/12/2024,17:00,06/12/2024,18:00,Yas Marina Cir
 Abu Dhabi,Practice 3,Asia/Dubai,07/12/2024,14:30,07/12/2024,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
 Abu Dhabi,Qualifying,Asia/Dubai,07/12/2024,18:00,07/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
 Abu Dhabi,Race,Asia/Dubai,08/12/2024,17:00,08/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Williams,Car Launch,Europe/London,14/02/2025,,14/02/2025,,Silverstone,Williams Racing
+Williams,Car Launch,Europe/London,14/02/2025,,14/02/2025,,Silverstone,Atlassian Williams Racing
 Haas F1 Team,Car Launch,Europe/London,16/02/2025,,16/02/2025,,Silverstone,MoneyGram Haas F1 Team
 London,Season Launch,Europe/London,18/02/2025,20:00,18/02/2025,22:00,The O2 arena,F1 75 Live
 Ferrari,Car Launch,Europe/Rome,19/02/2025,,19/02/2025,,Fiorano,Scuderia Ferrari HP
@@ -157,7 +157,11 @@ China,Sprint Qualifying,Asia/Shanghai,21/03/2025,15:30,21/03/2025,16:15,Shanghai
 China,Sprint,Asia/Shanghai,22/03/2025,11:00,22/03/2025,12:00,Shanghai International Circuit,Heineken Chinese Grand Prix
 China,Qualifying,Asia/Shanghai,22/03/2025,15:00,22/03/2025,16:00,Shanghai International Circuit,Heineken Chinese Grand Prix
 China,Race,Asia/Shanghai,23/03/2025,15:00,23/03/2025,17:00,Shanghai International Circuit,Heineken Chinese Grand Prix
-Japan,Placeholder,Asia/Tokyo,04/04/2025,,06/04/2025,,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
+Japan,Practice 1,Asia/Tokyo,04/04/2025,11:30,04/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Practice 2,Asia/Tokyo,04/04/2025,15:00,04/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Practice 3,Asia/Tokyo,05/04/2025,11:30,05/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Qualifying,Asia/Tokyo,05/04/2025,15:00,05/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Japan,Race,Asia/Tokyo,06/04/2025,14:00,06/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Bahrain,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
 Saudi Arabia,Placeholder,Asia/Riyadh,18/04/2025,,20/04/2025,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
 Miami,Placeholder,America/New_York,02/05/2025,,04/05/2025,,Miami International Autodrome,crypto.com Miami Grand Prix
