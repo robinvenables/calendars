@@ -167,7 +167,11 @@ Bahrain,Practice 2,Asia/Qatar,11/04/2025,18:00,11/04/2025,19:00,Bahrain Internat
 Bahrain,Practice 3,Asia/Qatar,12/04/2025,15:30,12/04/2025,16:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
 Bahrain,Qualifying,Asia/Qatar,12/04/2025,19:00,12/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
 Bahrain,Race,Asia/Qatar,13/04/2025,18:00,13/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Saudi Arabia,Placeholder,Asia/Riyadh,18/04/2025,,20/04/2025,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Practice 1,Asia/Riyadh,18/04/2025,16:30,18/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Practice 2,Asia/Riyadh,18/04/2025,20:00,18/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Practice 3,Asia/Riyadh,19/04/2025,16:30,19/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Qualifying,Asia/Riyadh,19/04/2025,20:00,19/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Saudi Arabia,Race,Asia/Riyadh,20/04/2025,20:00,20/04/2025,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
 Miami,Placeholder,America/New_York,02/05/2025,,04/05/2025,,Miami International Autodrome,crypto.com Miami Grand Prix
 Italy,Placeholder,Europe/Rome,16/05/2025,,18/05/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
 Monaco,Placeholder,Europe/Paris,23/05/2025,,25/05/2025,,Circuit de Monaco,Grand Prix de Monaco
