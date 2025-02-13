@@ -162,7 +162,11 @@ Japan,Practice 2,Asia/Tokyo,04/04/2025,15:00,04/04/2025,16:00,Suzuka Internation
 Japan,Practice 3,Asia/Tokyo,05/04/2025,11:30,05/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Japan,Qualifying,Asia/Tokyo,05/04/2025,15:00,05/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
 Japan,Race,Asia/Tokyo,06/04/2025,14:00,06/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Bahrain,Placeholder,Asia/Qatar,11/04/2025,,13/04/2025,,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Practice 1,Asia/Qatar,11/04/2025,14:30,11/04/2025,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Practice 2,Asia/Qatar,11/04/2025,18:00,11/04/2025,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Practice 3,Asia/Qatar,12/04/2025,15:30,12/04/2025,16:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Qualifying,Asia/Qatar,12/04/2025,19:00,12/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Bahrain,Race,Asia/Qatar,13/04/2025,18:00,13/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
 Saudi Arabia,Placeholder,Asia/Riyadh,18/04/2025,,20/04/2025,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
 Miami,Placeholder,America/New_York,02/05/2025,,04/05/2025,,Miami International Autodrome,crypto.com Miami Grand Prix
 Italy,Placeholder,Europe/Rome,16/05/2025,,18/05/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
