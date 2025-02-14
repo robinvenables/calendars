@@ -197,7 +197,11 @@ Canada,Practice 2,America/Montreal,13/06/2025,17:00,13/06/2025,18:00,Circuit Gil
 Canada,Practice 3,America/Montreal,14/06/2025,12:30,14/06/2025,13:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
 Canada,Qualifying,America/Montreal,14/06/2025,16:00,14/06/2025,17:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
 Canada,Race,America/Montreal,15/06/2025,14:00,15/06/2025,16:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Austria,Placeholder,Europe/Vienna,27/06/2025,,29/06/2025,,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
+Austria,Practice 1,Europe/Vienna,27/06/2025,13:30,27/06/2025,14:30,Red Bull Ring,MSC Cruises Austrian Grand Prix
+Austria,Practice 2,Europe/Vienna,27/06/2025,17:00,27/06/2025,18:00,Red Bull Ring,MSC Cruises Austrian Grand Prix
+Austria,Practice 3,Europe/Vienna,28/06/2025,12:30,28/06/2025,13:30,Red Bull Ring,MSC Cruises Austrian Grand Prix
+Austria,Qualifying,Europe/Vienna,28/06/2025,16:00,28/06/2025,17:00,Red Bull Ring,MSC Cruises Austrian Grand Prix
+Austria,Race,Europe/Vienna,29/06/2025,15:00,29/06/2025,17:00,Red Bull Ring,MSC Cruises Austrian Grand Prix
 Great Britain,Placeholder,Europe/London,04/07/2025,,06/07/2025,,Silverstone,Qatar Airways British Grand Prix
 Belgium,Placeholder,Europe/Brussels,25/07/2025,,27/07/2025,,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
 Hungary,Placeholder,Europe/Budapest,01/08/2025,,03/08/2025,,Hungaroring,Magyar Nagydíj
