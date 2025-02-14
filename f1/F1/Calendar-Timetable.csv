@@ -217,7 +217,11 @@ Hungary,Practice 2,Europe/Budapest,01/08/2025,17:00,01/08/2025,18:00,Hungaroring
 Hungary,Practice 3,Europe/Budapest,02/08/2025,12:30,02/08/2025,13:30,Hungaroring,Lenovo Hungarian Grand Prix
 Hungary,Qualifying,Europe/Budapest,02/08/2025,16:00,02/08/2025,17:00,Hungaroring,Lenovo Hungarian Grand Prix
 Hungary,Race,Europe/Budapest,03/08/2025,15:00,03/08/2025,17:00,Hungaroring,Lenovo Hungarian Grand Prix
-Netherlands,Placeholder,Europe/Amsterdam,29/08/2025,,31/08/2025,,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Practice 1,Europe/Amsterdam,29/08/2025,13:30,29/08/2025,14:30,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Practice 2,Europe/Amsterdam,29/08/2025,17:00,29/08/2025,18:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Practice 3,Europe/Amsterdam,30/08/2025,12:30,30/08/2025,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Qualifying,Europe/Amsterdam,30/08/2025,16:00,30/08/2025,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
+Netherlands,Race,Europe/Amsterdam,31/08/2025,16:00,31/08/2025,18:00,Circuit Zandvoort,Heineken Dutch Grand Prix
 Italy,Placeholder,Europe/Rome,05/09/2025,,07/09/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
 Azerbaijan,Placeholder,Asia/Baku,19/09/2025,,21/09/2025,,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
 Singapore,Placeholder,Asia/Singapore,03/10/2025,,05/10/2025,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
