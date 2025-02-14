@@ -227,7 +227,11 @@ Italy,Practice 2,Europe/Rome,05/09/2025,17:00,05/09/2025,18:00,Autodromo Naziona
 Italy,Practice 3,Europe/Rome,06/09/2025,12:30,06/09/2025,13:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
 Italy,Qualifying,Europe/Rome,06/09/2025,16:00,06/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
 Italy,Race,Europe/Rome,07/09/2025,15:00,07/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Azerbaijan,Placeholder,Asia/Baku,19/09/2025,,21/09/2025,,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
+Azerbaijan,Practice 1,Asia/Baku,19/09/2025,12:30,19/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
+Azerbaijan,Practice 2,Asia/Baku,19/09/2025,16:00,19/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
+Azerbaijan,Practice 3,Asia/Baku,20/09/2025,12:30,20/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
+Azerbaijan,Qualifying,Asia/Baku,20/09/2025,16:00,20/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
+Azerbaijan,Race,Asia/Baku,21/09/2025,15:00,21/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
 Singapore,Placeholder,Asia/Singapore,03/10/2025,,05/10/2025,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 USA,Placeholder,America/Chicago,17/10/2025,,19/10/2025,,Circuit of The Americas,Pirelli United States Grand Prix
 Mexico,Placeholder,America/Mexico_City,24/10/2025,,26/10/2025,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
