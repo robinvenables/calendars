@@ -177,7 +177,11 @@ Miami,Sprint Qualifying,America/New_York,02/05/2025,16:30,02/05/2025,17:15,Miami
 Miami,Sprint,America/New_York,03/05/2025,12:00,03/05/2025,13:00,Miami International Autodrome,crypto.com Miami Grand Prix
 Miami,Qualifying,America/New_York,03/05/2025,16:00,03/05/2025,17:00,Miami International Autodrome,crypto.com Miami Grand Prix
 Miami,Race,America/New_York,04/05/2025,16:00,04/05/2025,18:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Italy,Placeholder,Europe/Rome,16/05/2025,,18/05/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Emilia Romagna,Practice 1,Europe/Rome,16/05/2025,14:30,16/05/2025,15:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Practice 2,Europe/Rome,16/05/2025,18:00,16/05/2025,19:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Practice 3,Europe/Rome,17/05/2025,13:30,17/05/2025,14:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Qualifying,Europe/Rome,17/05/2025,17:00,17/05/2025,18:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
+Emilia Romagna,Race,Europe/Rome,18/05/2025,16:00,18/05/2025,18:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
 Monaco,Placeholder,Europe/Paris,23/05/2025,,25/05/2025,,Circuit de Monaco,Grand Prix de Monaco
 Spain,Placeholder,Europe/Madrid,30/05/2025,,01/06/2025,,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
 Canada,Placeholder,America/Montreal,13/06/2025,,15/06/2025,,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
