@@ -247,7 +247,11 @@ Mexico,Practice 2,America/Mexico_City,24/10/2025,16:00,24/10/2025,17:00,Autódro
 Mexico,Practice 3,America/Mexico_City,25/10/2025,11:30,25/10/2025,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Mexico,Qualifying,America/Mexico_City,25/10/2025,15:00,25/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Mexico,Race,America/Mexico_City,26/10/2025,14:00,26/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Brazil,Placeholder,America/Sao_Paulo,07/11/2025,,09/11/2025,,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
+Brazil,Practice 1,America/Sao_Paulo,07/11/2025,11:30,07/11/2025,12:30,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
+Brazil,Sprint Qualifying,America/Sao_Paulo,07/11/2025,15:30,07/11/2025,16:15,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
+Brazil,Sprint,America/Sao_Paulo,08/11/2025,11:00,08/11/2025,12:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
+Brazil,Qualifying,America/Sao_Paulo,08/11/2025,15:00,08/11/2025,16:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
+Brazil,Race,America/Sao_Paulo,09/11/2025,14:00,09/11/2025,16:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
 Las Vegas,Placeholder,America/Los_Angeles,20/11/2025,,22/11/2025,,Las Vegas,Heineken Silver Las Vegas Grand Prix
 Qatar,Placeholder,Asia/Qatar,28/11/2025,,30/11/2025,,Lusail International Circuit,Qatar Airways Qatar Grand Prix
 Abu Dhabi,Placeholder,Asia/Dubai,05/12/2025,,07/12/2025,,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
