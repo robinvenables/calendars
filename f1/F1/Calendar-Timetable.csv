@@ -232,7 +232,11 @@ Azerbaijan,Practice 2,Asia/Baku,19/09/2025,16:00,19/09/2025,17:00,Baku City Circ
 Azerbaijan,Practice 3,Asia/Baku,20/09/2025,12:30,20/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
 Azerbaijan,Qualifying,Asia/Baku,20/09/2025,16:00,20/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
 Azerbaijan,Race,Asia/Baku,21/09/2025,15:00,21/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Singapore,Placeholder,Asia/Singapore,03/10/2025,,05/10/2025,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Practice 1,Asia/Singapore,03/10/2025,17:30,03/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Practice 2,Asia/Singapore,03/10/2025,21:00,03/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Practice 3,Asia/Singapore,04/10/2025,17:30,04/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Qualifying,Asia/Singapore,04/10/2025,21:00,04/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+Singapore,Race,Asia/Singapore,05/10/2025,20:00,05/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 USA,Placeholder,America/Chicago,17/10/2025,,19/10/2025,,Circuit of The Americas,Pirelli United States Grand Prix
 Mexico,Placeholder,America/Mexico_City,24/10/2025,,26/10/2025,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Brazil,Placeholder,America/Sao_Paulo,07/11/2025,,09/11/2025,,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
