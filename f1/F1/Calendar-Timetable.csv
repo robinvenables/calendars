@@ -187,7 +187,11 @@ Monaco,Practice 2,Europe/Paris,23/05/2025,18:00,23/05/2025,19:00,Circuit de Mona
 Monaco,Practice 3,Europe/Paris,24/05/2025,13:30,24/05/2025,14:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
 Monaco,Qualifying,Europe/Paris,24/05/2025,17:00,24/05/2025,18:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
 Monaco,Race,Europe/Paris,25/05/2025,16:00,25/05/2025,18:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Spain,Placeholder,Europe/Madrid,30/05/2025,,01/06/2025,,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
+Spain,Practice 1,Europe/Madrid,30/05/2025,14:30,30/05/2025,15:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
+Spain,Practice 2,Europe/Madrid,30/05/2025,18:00,30/05/2025,19:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
+Spain,Practice 3,Europe/Madrid,31/05/2025,13:30,31/05/2025,14:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
+Spain,Qualifying,Europe/Madrid,31/05/2025,17:00,31/05/2025,18:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
+Spain,Race,Europe/Madrid,01/06/2025,16:00,01/06/2025,18:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
 Canada,Placeholder,America/Montreal,13/06/2025,,15/06/2025,,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
 Austria,Placeholder,Europe/Vienna,27/06/2025,,29/06/2025,,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
 Great Britain,Placeholder,Europe/London,04/07/2025,,06/07/2025,,Silverstone,Qatar Airways British Grand Prix
