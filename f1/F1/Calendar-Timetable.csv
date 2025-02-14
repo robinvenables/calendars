@@ -222,7 +222,11 @@ Netherlands,Practice 2,Europe/Amsterdam,29/08/2025,17:00,29/08/2025,18:00,Circui
 Netherlands,Practice 3,Europe/Amsterdam,30/08/2025,12:30,30/08/2025,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix
 Netherlands,Qualifying,Europe/Amsterdam,30/08/2025,16:00,30/08/2025,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
 Netherlands,Race,Europe/Amsterdam,31/08/2025,16:00,31/08/2025,18:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Italy,Placeholder,Europe/Rome,05/09/2025,,07/09/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Italy,Practice 1,Europe/Rome,05/09/2025,13:30,05/09/2025,14:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Italy,Practice 2,Europe/Rome,05/09/2025,17:00,05/09/2025,18:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Italy,Practice 3,Europe/Rome,06/09/2025,12:30,06/09/2025,13:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Italy,Qualifying,Europe/Rome,06/09/2025,16:00,06/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Italy,Race,Europe/Rome,07/09/2025,15:00,07/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
 Azerbaijan,Placeholder,Asia/Baku,19/09/2025,,21/09/2025,,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
 Singapore,Placeholder,Asia/Singapore,03/10/2025,,05/10/2025,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 USA,Placeholder,America/Chicago,17/10/2025,,19/10/2025,,Circuit of The Americas,Pirelli United States Grand Prix
