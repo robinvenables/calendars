@@ -615,8 +615,27 @@ Netherlands,MotoGP,Warm Up,Europe/Amsterdam,29/06/2025,09:40,29/06/2025,09:50,TT
 Netherlands,Moto3,Race,Europe/Amsterdam,29/06/2025,11:00,29/06/2025,11:30,TT Circuit Assen,Motul TT Assen
 Netherlands,Moto2,Race,Europe/Amsterdam,29/06/2025,12:15,29/06/2025,12:55,TT Circuit Assen,Motul TT Assen
 Netherlands,MotoGP,Race,Europe/Amsterdam,29/06/2025,14:00,29/06/2025,14:50,TT Circuit Assen,Motul TT Assen
-Germany,MotoGP,Placeholder,Europe/Berlin,11/07/2025,,13/07/2025,,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
-Czechia,MotoGP,Placeholder,Europe/Prague,18/07/2025,,20/07/2025,,Automotodrom Brno,
+Germany,Moto3,Free Practice 1,Europe/Berlin,11/07/2025,09:00,11/07/2025,09:35,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto2,Free Practice 1,Europe/Berlin,11/07/2025,09:50,11/07/2025,10:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Free Practice 1,Europe/Berlin,11/07/2025,10:45,11/07/2025,11:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto3,Practice,Europe/Berlin,11/07/2025,13:15,11/07/2025,13:50,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto2,Practice,Europe/Berlin,11/07/2025,14:05,11/07/2025,14:45,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Practice,Europe/Berlin,11/07/2025,15:00,11/07/2025,16:00,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto3,Free Practice 2,Europe/Berlin,12/07/2025,08:40,12/07/2025,09:10,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto2,Free Practice 2,Europe/Berlin,12/07/2025,09:25,12/07/2025,09:55,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Free Practice 2,Europe/Berlin,12/07/2025,10:10,12/07/2025,10:40,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Qualifying 1,Europe/Berlin,12/07/2025,10:50,12/07/2025,11:05,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Qualifying 2,Europe/Berlin,12/07/2025,11:15,12/07/2025,11:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto3,Qualifying 1,Europe/Berlin,12/07/2025,12:50,12/07/2025,13:05,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto3,Qualifying 2,Europe/Berlin,12/07/2025,13:15,12/07/2025,13:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto2,Qualifying 1,Europe/Berlin,12/07/2025,13:45,12/07/2025,14:00,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto2,Qualifying 2,Europe/Berlin,12/07/2025,14:10,12/07/2025,14:25,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Tissot Sprint,Europe/Berlin,12/07/2025,15:00,12/07/2025,15:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Warm Up,Europe/Berlin,13/07/2025,09:40,13/07/2025,09:50,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto3,Race,Europe/Berlin,13/07/2025,11:00,13/07/2025,11:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,Moto2,Race,Europe/Berlin,13/07/2025,12:15,13/07/2025,12:55,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Race,Europe/Berlin,13/07/2025,14:00,13/07/2025,14:50,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Czechia,MotoGP,Placeholder,Europe/Prague,18/07/2025,,18/07/2025,,Automotodrom Brno,
 Czechia,MotoGP,Testing,Europe/Prague,21/07/2025,,21/07/2025,,Automotodrom Brno,Czechia Moto2 Test
 Czechia,MotoGP,Testing,Europe/Prague,22/07/2025,,22/07/2025,,Automotodrom Brno,Czechia Moto3 Test
 Austria,MotoGP,Placeholder,Europe/Vienna,15/08/2025,,17/08/2025,,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
