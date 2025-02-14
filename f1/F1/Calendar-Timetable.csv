@@ -237,7 +237,11 @@ Singapore,Practice 2,Asia/Singapore,03/10/2025,21:00,03/10/2025,22:00,Marina Bay
 Singapore,Practice 3,Asia/Singapore,04/10/2025,17:30,04/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 Singapore,Qualifying,Asia/Singapore,04/10/2025,21:00,04/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
 Singapore,Race,Asia/Singapore,05/10/2025,20:00,05/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-USA,Placeholder,America/Chicago,17/10/2025,,19/10/2025,,Circuit of The Americas,Pirelli United States Grand Prix
+United States,Practice 1,America/Chicago,17/10/2025,12:30,17/10/2025,13:30,Circuit of The Americas,MSC Cruises United States Grand Prix
+United States,Sprint Qualifying,America/Chicago,17/10/2025,16:30,17/10/2025,17:15,Circuit of The Americas,MSC Cruises United States Grand Prix
+United States,Sprint,America/Chicago,18/10/2025,12:00,18/10/2025,13:00,Circuit of The Americas,MSC Cruises United States Grand Prix
+United States,Qualifying,America/Chicago,18/10/2025,16:00,18/10/2025,17:00,Circuit of The Americas,MSC Cruises United States Grand Prix
+United States,Race,America/Chicago,19/10/2025,14:00,19/10/2025,16:00,Circuit of The Americas,MSC Cruises United States Grand Prix
 Mexico,Placeholder,America/Mexico_City,24/10/2025,,26/10/2025,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Brazil,Placeholder,America/Sao_Paulo,07/11/2025,,09/11/2025,,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
 Las Vegas,Placeholder,America/Los_Angeles,20/11/2025,,22/11/2025,,Las Vegas,Heineken Silver Las Vegas Grand Prix
