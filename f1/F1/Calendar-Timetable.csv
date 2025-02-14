@@ -242,7 +242,11 @@ United States,Sprint Qualifying,America/Chicago,17/10/2025,16:30,17/10/2025,17:1
 United States,Sprint,America/Chicago,18/10/2025,12:00,18/10/2025,13:00,Circuit of The Americas,MSC Cruises United States Grand Prix
 United States,Qualifying,America/Chicago,18/10/2025,16:00,18/10/2025,17:00,Circuit of The Americas,MSC Cruises United States Grand Prix
 United States,Race,America/Chicago,19/10/2025,14:00,19/10/2025,16:00,Circuit of The Americas,MSC Cruises United States Grand Prix
-Mexico,Placeholder,America/Mexico_City,24/10/2025,,26/10/2025,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Practice 1,America/Mexico_City,24/10/2025,12:30,24/10/2025,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Practice 2,America/Mexico_City,24/10/2025,16:00,24/10/2025,17:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Practice 3,America/Mexico_City,25/10/2025,11:30,25/10/2025,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Qualifying,America/Mexico_City,25/10/2025,15:00,25/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Mexico,Race,America/Mexico_City,26/10/2025,14:00,26/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
 Brazil,Placeholder,America/Sao_Paulo,07/11/2025,,09/11/2025,,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
 Las Vegas,Placeholder,America/Los_Angeles,20/11/2025,,22/11/2025,,Las Vegas,Heineken Silver Las Vegas Grand Prix
 Qatar,Placeholder,Asia/Qatar,28/11/2025,,30/11/2025,,Lusail International Circuit,Qatar Airways Qatar Grand Prix
