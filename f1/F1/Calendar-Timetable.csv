@@ -182,7 +182,11 @@ Emilia Romagna,Practice 2,Europe/Rome,16/05/2025,18:00,16/05/2025,19:00,Autodrom
 Emilia Romagna,Practice 3,Europe/Rome,17/05/2025,13:30,17/05/2025,14:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
 Emilia Romagna,Qualifying,Europe/Rome,17/05/2025,17:00,17/05/2025,18:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
 Emilia Romagna,Race,Europe/Rome,18/05/2025,16:00,18/05/2025,18:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
-Monaco,Placeholder,Europe/Paris,23/05/2025,,25/05/2025,,Circuit de Monaco,Grand Prix de Monaco
+Monaco,Practice 1,Europe/Paris,23/05/2025,14:30,23/05/2025,15:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
+Monaco,Practice 2,Europe/Paris,23/05/2025,18:00,23/05/2025,19:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
+Monaco,Practice 3,Europe/Paris,24/05/2025,13:30,24/05/2025,14:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
+Monaco,Qualifying,Europe/Paris,24/05/2025,17:00,24/05/2025,18:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
+Monaco,Race,Europe/Paris,25/05/2025,16:00,25/05/2025,18:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
 Spain,Placeholder,Europe/Madrid,30/05/2025,,01/06/2025,,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
 Canada,Placeholder,America/Montreal,13/06/2025,,15/06/2025,,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
 Austria,Placeholder,Europe/Vienna,27/06/2025,,29/06/2025,,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
