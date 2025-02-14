@@ -207,7 +207,11 @@ Great Britain,Practice 2,Europe/London,04/07/2025,16:00,04/07/2025,17:00,Silvers
 Great Britain,Practice 3,Europe/London,05/07/2025,11:30,05/07/2025,12:30,Silverstone,Qatar Airways British Grand Prix
 Great Britain,Qualifying,Europe/London,05/07/2025,15:00,05/07/2025,16:00,Silverstone,Qatar Airways British Grand Prix
 Great Britain,Race,Europe/London,06/07/2025,15:00,06/07/2025,17:00,Silverstone,Qatar Airways British Grand Prix
-Belgium,Placeholder,Europe/Brussels,25/07/2025,,27/07/2025,,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
+Belgium,Practice 1,Europe/Brussels,25/07/2025,12:30,25/07/2025,13:30,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
+Belgium,Sprint Qualifying,Europe/Brussels,25/07/2025,16:30,25/07/2025,17:15,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
+Belgium,Sprint,Europe/Brussels,26/07/2025,12:00,26/07/2025,13:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
+Belgium,Qualifying,Europe/Brussels,26/07/2025,16:00,26/07/2025,17:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
+Belgium,Race,Europe/Brussels,27/07/2025,15:00,27/07/2025,17:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
 Hungary,Placeholder,Europe/Budapest,01/08/2025,,03/08/2025,,Hungaroring,Magyar Nagydíj
 Netherlands,Placeholder,Europe/Amsterdam,29/08/2025,,31/08/2025,,Circuit Zandvoort,Heineken Dutch Grand Prix
 Italy,Placeholder,Europe/Rome,05/09/2025,,07/09/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
