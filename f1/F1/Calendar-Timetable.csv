@@ -172,7 +172,11 @@ Saudi Arabia,Practice 2,Asia/Riyadh,18/04/2025,20:00,18/04/2025,21:00,Jeddah Cor
 Saudi Arabia,Practice 3,Asia/Riyadh,19/04/2025,16:30,19/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
 Saudi Arabia,Qualifying,Asia/Riyadh,19/04/2025,20:00,19/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
 Saudi Arabia,Race,Asia/Riyadh,20/04/2025,20:00,20/04/2025,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Miami,Placeholder,America/New_York,02/05/2025,,04/05/2025,,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Practice 1,America/New_York,02/05/2025,12:30,02/05/2025,13:30,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Sprint Qualifying,America/New_York,02/05/2025,16:30,02/05/2025,17:15,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Sprint,America/New_York,03/05/2025,12:00,03/05/2025,13:00,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Qualifying,America/New_York,03/05/2025,16:00,03/05/2025,17:00,Miami International Autodrome,crypto.com Miami Grand Prix
+Miami,Race,America/New_York,04/05/2025,16:00,04/05/2025,18:00,Miami International Autodrome,crypto.com Miami Grand Prix
 Italy,Placeholder,Europe/Rome,16/05/2025,,18/05/2025,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
 Monaco,Placeholder,Europe/Paris,23/05/2025,,25/05/2025,,Circuit de Monaco,Grand Prix de Monaco
 Spain,Placeholder,Europe/Madrid,30/05/2025,,01/06/2025,,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
