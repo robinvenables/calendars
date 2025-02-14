@@ -257,5 +257,9 @@ Las Vegas,Practice 2,America/Los_Angeles,20/11/2025,20:00,20/11/2025,21:00,Las V
 Las Vegas,Practice 3,America/Los_Angeles,21/11/2025,16:30,21/11/2025,17:30,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
 Las Vegas,Qualifying,America/Los_Angeles,21/11/2025,20:00,21/11/2025,21:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
 Las Vegas,Race,America/Los_Angeles,22/11/2025,20:00,22/11/2025,22:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Qatar,Placeholder,Asia/Qatar,28/11/2025,,30/11/2025,,Lusail International Circuit,Qatar Airways Qatar Grand Prix
+Qatar,Practice 1,Asia/Qatar,28/11/2025,15:30,28/11/2025,16:30,Lusail International Circuit,Qatar Airways Qatar Grand Prix
+Qatar,Sprint Qualifying,Asia/Qatar,28/11/2025,19:30,28/11/2025,20:15,Lusail International Circuit,Qatar Airways Qatar Grand Prix
+Qatar,Sprint,Asia/Qatar,29/11/2025,16:00,29/11/2025,17:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
+Qatar,Qualifying,Asia/Qatar,29/11/2025,20:00,29/11/2025,21:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
+Qatar,Race,Asia/Qatar,30/11/2025,18:00,30/11/2025,20:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
 Abu Dhabi,Placeholder,Asia/Dubai,05/12/2025,,07/12/2025,,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
