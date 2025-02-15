@@ -818,5 +818,24 @@ Malaysia,MotoGP,Warm Up,Asia/Kuala_Lumpur,26/10/2025,09:40,26/10/2025,09:50,PETR
 Malaysia,Moto3,Race,Asia/Kuala_Lumpur,26/10/2025,12:00,26/10/2025,12:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
 Malaysia,Moto2,Race,Asia/Kuala_Lumpur,26/10/2025,13:15,26/10/2025,13:55,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
 Malaysia,MotoGP,Race,Asia/Kuala_Lumpur,26/10/2025,15:00,26/10/2025,15:50,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
-Portugal,MotoGP,Placeholder,Europe/Lisbon,07/11/2025,,09/11/2025,,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto3,Free Practice 1,Europe/Lisbon,07/11/2025,09:00,07/11/2025,09:35,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto2,Free Practice 1,Europe/Lisbon,,09:50,,10:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Free Practice 1,Europe/Lisbon,,10:45,,11:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto3,Practice,Europe/Lisbon,,13:15,,13:50,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto2,Practice,Europe/Lisbon,,14:05,,14:45,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Practice,Europe/Lisbon,,15:00,,16:00,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto3,Free Practice 2,Europe/Lisbon,,08:40,,09:10,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto2,Free Practice 2,Europe/Lisbon,,09:25,,09:55,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Free Practice 2,Europe/Lisbon,,10:10,,10:40,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Qualifying 1,Europe/Lisbon,,10:50,,11:05,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Qualifying 2,Europe/Lisbon,,11:15,,11:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto3,Qualifying 1,Europe/Lisbon,,12:50,,13:05,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto3,Qualifying 2,Europe/Lisbon,,13:15,,13:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto2,Qualifying 1,Europe/Lisbon,,13:45,,14:00,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto2,Qualifying 2,Europe/Lisbon,,14:10,,14:25,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Sprint,Europe/Lisbon,,15:00,,15:30,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Warm Up,Europe/Lisbon,,09:40,,09:50,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto2,Race,Europe/Lisbon,,12:15,,12:55,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,MotoGP,Race,Europe/Lisbon,,13:00,,13:50,Autódromo Internacional do Algarve,Grande Prémio de Portugal
+Portugal,Moto3,Race,Europe/Lisbon,,14:30,,15:00,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Valencia,MotoGP,Placeholder,Europe/Madrid,14/11/2025,,16/11/2025,,Circuit Ricardo Tormo,Gran Premio Motul de la Comunitat Valenciana
