@@ -407,8 +407,8 @@ Barcelona,Moto3,Race,Europe/Madrid,17/11/2024,11:00,17/11/2024,11:30,Circuit de 
 Barcelona,Moto2,Race,Europe/Madrid,17/11/2024,12:15,17/11/2024,12:55,Circuit de Barcelona-Catalunya,Motul Solidarity Grand Prix of Barcelona
 Barcelona,MotoGP,Race,Europe/Madrid,17/11/2024,14:00,17/11/2024,14:50,Circuit de Barcelona-Catalunya,Motul Solidarity Grand Prix of Barcelona
 Barcelona,MotoGP,Testing,Europe/Madrid,19/11/2024,10:00,19/11/2024,18:00,Circuit de Barcelona-Catalunya,Barcelona MotoGP Official Test
-Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,31/01/2025,,02/02/2025,,Sepang International Circuit,Shakedown MotoGP Test
-Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,05/02/2025,,07/02/2025,,Sepang International Circuit,Malaysia MotoGP Test
+Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,31/01/2025,,02/02/2025,,PETRONAS Sepang International Circuit,Shakedown MotoGP Test
+Malaysia,MotoGP,Testing,Asia/Kuala_Lumpur,05/02/2025,,07/02/2025,,PETRONAS Sepang International Circuit,Malaysia MotoGP Test
 Thailand,MotoGP,Testing,Asia/Bangkok,12/02/2025,,13/02/2025,,Chang International Circuit,Thailand MotoGP Test
 Spain,MotoGP,Testing,Europe/Madrid,18/02/2025,,20/02/2025,,Circuito de Jerez - Angel Nieto,Spain Moto2 and Moto3 Test
 Thailand,Moto3,Free Practice 1,Asia/Bangkok,28/02/2025,09:00,28/02/2025,09:35,Chang International Circuit,PT Grand Prix of Thailand
@@ -798,6 +798,25 @@ Australia,MotoGP,Warm Up,Australia/Melbourne,19/10/2025,09:40,19/10/2025,09:50,P
 Australia,Moto3,Race,Australia/Melbourne,19/10/2025,11:00,19/10/2025,11:30,Phillip Island,Australian Motorcycle Grand Prix
 Australia,Moto2,Race,Australia/Melbourne,19/10/2025,12:15,19/10/2025,12:55,Phillip Island,Australian Motorcycle Grand Prix
 Australia,MotoGP,Race,Australia/Melbourne,19/10/2025,14:00,19/10/2025,14:50,Phillip Island,Australian Motorcycle Grand Prix
-Malaysia,MotoGP,Placeholder,Asia/Kuala_Lumpur,24/10/2025,,26/10/2025,,Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto3,Free Practice 1,Asia/Kuala_Lumpur,24/10/2025,09:00,24/10/2025,09:35,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto2,Free Practice 1,Asia/Kuala_Lumpur,24/10/2025,09:50,24/10/2025,10:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Free Practice 1,Asia/Kuala_Lumpur,24/10/2025,10:45,24/10/2025,11:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto3,Practice,Asia/Kuala_Lumpur,24/10/2025,13:15,24/10/2025,13:50,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto2,Practice,Asia/Kuala_Lumpur,24/10/2025,14:05,24/10/2025,14:45,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Practice,Asia/Kuala_Lumpur,24/10/2025,15:00,24/10/2025,16:00,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto3,Free Practice 2,Asia/Kuala_Lumpur,25/10/2025,08:40,25/10/2025,09:10,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto2,Free Practice 2,Asia/Kuala_Lumpur,25/10/2025,09:25,25/10/2025,09:55,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Free Practice 2,Asia/Kuala_Lumpur,25/10/2025,10:10,25/10/2025,10:40,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Qualifying 1,Asia/Kuala_Lumpur,25/10/2025,10:50,25/10/2025,11:05,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Qualifying 2,Asia/Kuala_Lumpur,25/10/2025,11:15,25/10/2025,11:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto3,Qualifying 1,Asia/Kuala_Lumpur,25/10/2025,12:50,25/10/2025,13:05,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto3,Qualifying 2,Asia/Kuala_Lumpur,25/10/2025,13:15,25/10/2025,13:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto2,Qualifying 1,Asia/Kuala_Lumpur,25/10/2025,13:45,25/10/2025,14:00,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto2,Qualifying 2,Asia/Kuala_Lumpur,25/10/2025,14:10,25/10/2025,14:25,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Sprint,Asia/Kuala_Lumpur,25/10/2025,15:00,25/10/2025,15:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Warm Up,Asia/Kuala_Lumpur,26/10/2025,09:40,26/10/2025,09:50,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto3,Race,Asia/Kuala_Lumpur,26/10/2025,12:00,26/10/2025,12:30,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,Moto2,Race,Asia/Kuala_Lumpur,26/10/2025,13:15,26/10/2025,13:55,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
+Malaysia,MotoGP,Race,Asia/Kuala_Lumpur,26/10/2025,15:00,26/10/2025,15:50,PETRONAS Sepang International Circuit,PETRONAS Grand Prix of Malaysia
 Portugal,MotoGP,Placeholder,Europe/Lisbon,07/11/2025,,09/11/2025,,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Valencia,MotoGP,Placeholder,Europe/Madrid,14/11/2025,,16/11/2025,,Circuit Ricardo Tormo,Gran Premio Motul de la Comunitat Valenciana
