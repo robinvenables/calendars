@@ -738,7 +738,26 @@ San Marino,Moto3,Race,Europe/Rome,14/09/2025,11:00,14/09/2025,11:30,Misano World
 San Marino,Moto2,Race,Europe/Rome,14/09/2025,12:15,14/09/2025,12:55,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,MotoGP,Race,Europe/Rome,14/09/2025,14:00,14/09/2025,14:50,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,MotoGP,Testing,Europe/Rome,15/09/2025,,15/09/2025,,Misano World Circuit Marco Simoncelli,San Marino MotoGP Test
-Japan,MotoGP,Placeholder,Asia/Tokyo,26/09/2025,,28/09/2025,,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto3,Free Practice 1,Asia/Tokyo,26/09/2025,09:00,26/09/2025,09:35,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto2,Free Practice 1,Asia/Tokyo,26/09/2025,09:50,26/09/2025,10:30,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Free Practice 1,Asia/Tokyo,26/09/2025,10:45,26/09/2025,11:30,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto3,Practice,Asia/Tokyo,26/09/2025,13:15,26/09/2025,13:50,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto2,Practice,Asia/Tokyo,26/09/2025,14:05,26/09/2025,14:45,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Practice,Asia/Tokyo,26/09/2025,15:00,26/09/2025,16:00,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto3,Free Practice 2,Asia/Tokyo,27/09/2025,08:40,27/09/2025,09:10,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto2,Free Practice 2,Asia/Tokyo,27/09/2025,09:25,27/09/2025,09:55,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Free Practice 2,Asia/Tokyo,27/09/2025,10:10,27/09/2025,10:40,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Qualifying 1,Asia/Tokyo,27/09/2025,10:50,27/09/2025,11:05,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Qualifying 2,Asia/Tokyo,27/09/2025,11:15,27/09/2025,11:30,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto3,Qualifying 1,Asia/Tokyo,27/09/2025,12:50,27/09/2025,13:05,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto3,Qualifying 2,Asia/Tokyo,27/09/2025,13:15,27/09/2025,13:30,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto2,Qualifying 1,Asia/Tokyo,27/09/2025,13:45,27/09/2025,14:00,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto2,Qualifying 2,Asia/Tokyo,27/09/2025,14:10,27/09/2025,14:25,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Sprint,Asia/Tokyo,27/09/2025,15:00,27/09/2025,15:30,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Warm Up,Asia/Tokyo,28/09/2025,09:40,28/09/2025,09:50,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto3,Race,Asia/Tokyo,28/09/2025,11:00,28/09/2025,11:30,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,Moto2,Race,Asia/Tokyo,28/09/2025,12:15,28/09/2025,12:55,Mobility Resort Motegi,Motul Grand Prix of Japan
+Japan,MotoGP,Race,Asia/Tokyo,28/09/2025,14:00,28/09/2025,14:50,Mobility Resort Motegi,Motul Grand Prix of Japan
 Indonesia,MotoGP,Placeholder,Asia/Makassar,03/10/2025,,05/10/2025,,Mandalika International Street Circuit,Pertamina Grand Prix of Indonesia
 Australia,MotoGP,Placeholder,Australia/Melbourne,17/10/2025,,19/10/2025,,Phillip Island,Australian Motorcycle Grand Prix
 Malaysia,MotoGP,Placeholder,Asia/Kuala_Lumpur,24/10/2025,,26/10/2025,,Sepang International Circuit,PETRONAS Grand Prix of Malaysia
