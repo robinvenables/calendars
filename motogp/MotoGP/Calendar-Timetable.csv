@@ -778,7 +778,26 @@ Indonesia,MotoGP,Warm Up,Asia/Makassar,05/10/2025,09:40,05/10/2025,09:50,Pertami
 Indonesia,Moto3,Race,Asia/Makassar,05/10/2025,12:00,05/10/2025,12:30,Pertamina Mandalika Circuit,Pertamina Grand Prix of Indonesia
 Indonesia,Moto2,Race,Asia/Makassar,05/10/2025,13:15,05/10/2025,13:55,Pertamina Mandalika Circuit,Pertamina Grand Prix of Indonesia
 Indonesia,MotoGP,Race,Asia/Makassar,05/10/2025,15:00,05/10/2025,15:50,Pertamina Mandalika Circuit,Pertamina Grand Prix of Indonesia
-Australia,MotoGP,Placeholder,Australia/Melbourne,17/10/2025,,19/10/2025,,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto3,Free Practice 1,Australia/Melbourne,17/10/2025,09:00,17/10/2025,09:35,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto2,Free Practice 1,Australia/Melbourne,17/10/2025,09:50,17/10/2025,10:30,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Free Practice 1,Australia/Melbourne,17/10/2025,10:45,17/10/2025,11:30,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto3,Practice,Australia/Melbourne,17/10/2025,13:15,17/10/2025,13:50,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto2,Practice,Australia/Melbourne,17/10/2025,14:05,17/10/2025,14:45,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Practice,Australia/Melbourne,17/10/2025,15:00,17/10/2025,16:00,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto3,Free Practice 2,Australia/Melbourne,18/10/2025,08:40,18/10/2025,09:10,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto2,Free Practice 2,Australia/Melbourne,18/10/2025,09:25,18/10/2025,09:55,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Free Practice 2,Australia/Melbourne,18/10/2025,10:10,18/10/2025,10:40,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Qualifying 1,Australia/Melbourne,18/10/2025,10:50,18/10/2025,11:05,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Qualifying 2,Australia/Melbourne,18/10/2025,11:15,18/10/2025,11:30,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto3,Qualifying 1,Australia/Melbourne,18/10/2025,12:50,18/10/2025,13:05,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto3,Qualifying 2,Australia/Melbourne,18/10/2025,13:15,18/10/2025,13:30,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto2,Qualifying 1,Australia/Melbourne,18/10/2025,13:45,18/10/2025,14:00,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto2,Qualifying 2,Australia/Melbourne,18/10/2025,14:10,18/10/2025,14:25,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Sprint,Australia/Melbourne,18/10/2025,15:00,18/10/2025,15:30,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Warm Up,Australia/Melbourne,19/10/2025,09:40,19/10/2025,09:50,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto3,Race,Australia/Melbourne,19/10/2025,11:00,19/10/2025,11:30,Phillip Island,Australian Motorcycle Grand Prix
+Australia,Moto2,Race,Australia/Melbourne,19/10/2025,12:15,19/10/2025,12:55,Phillip Island,Australian Motorcycle Grand Prix
+Australia,MotoGP,Race,Australia/Melbourne,19/10/2025,14:00,19/10/2025,14:50,Phillip Island,Australian Motorcycle Grand Prix
 Malaysia,MotoGP,Placeholder,Asia/Kuala_Lumpur,24/10/2025,,26/10/2025,,Sepang International Circuit,PETRONAS Grand Prix of Malaysia
 Portugal,MotoGP,Placeholder,Europe/Lisbon,07/11/2025,,09/11/2025,,Autódromo Internacional do Algarve,Grande Prémio de Portugal
 Valencia,MotoGP,Placeholder,Europe/Madrid,14/11/2025,,16/11/2025,,Circuit Ricardo Tormo,Gran Premio Motul de la Comunitat Valenciana
