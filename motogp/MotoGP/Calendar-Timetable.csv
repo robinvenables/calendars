@@ -677,7 +677,26 @@ Austria,MotoGP,Warm Up,Europe/Vienna,17/08/2025,09:40,17/08/2025,09:50,Red Bull 
 Austria,Moto3,Race,Europe/Vienna,17/08/2025,11:00,17/08/2025,11:30,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,Moto2,Race,Europe/Vienna,17/08/2025,12:15,17/08/2025,12:55,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,MotoGP,Race,Europe/Vienna,17/08/2025,14:00,17/08/2025,14:50,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
-Hungary,MotoGP,Placeholder,Europe/Budapest,22/08/2025,,24/08/2025,,Balaton Park,
+Hungary,Moto3,Free Practice 1,Europe/Budapest,22/08/2025,09:00,22/08/2025,09:35,Balaton Park,Hungary Grand Prix
+Hungary,Moto2,Free Practice 1,Europe/Budapest,22/08/2025,09:50,22/08/2025,10:30,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Free Practice 1,Europe/Budapest,22/08/2025,10:45,22/08/2025,11:30,Balaton Park,Hungary Grand Prix
+Hungary,Moto3,Practice,Europe/Budapest,22/08/2025,13:15,22/08/2025,13:50,Balaton Park,Hungary Grand Prix
+Hungary,Moto2,Practice,Europe/Budapest,22/08/2025,14:05,22/08/2025,14:45,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Practice,Europe/Budapest,22/08/2025,15:00,22/08/2025,16:00,Balaton Park,Hungary Grand Prix
+Hungary,Moto3,Free Practice 2,Europe/Budapest,23/08/2025,08:40,23/08/2025,09:10,Balaton Park,Hungary Grand Prix
+Hungary,Moto2,Free Practice 2,Europe/Budapest,23/08/2025,09:25,23/08/2025,09:55,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Free Practice 2,Europe/Budapest,23/08/2025,10:10,23/08/2025,10:40,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Qualifying 1,Europe/Budapest,23/08/2025,10:50,23/08/2025,11:05,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Qualifying 2,Europe/Budapest,23/08/2025,11:15,23/08/2025,11:30,Balaton Park,Hungary Grand Prix
+Hungary,Moto3,Qualifying 1,Europe/Budapest,23/08/2025,12:50,23/08/2025,13:05,Balaton Park,Hungary Grand Prix
+Hungary,Moto3,Qualifying 2,Europe/Budapest,23/08/2025,13:15,23/08/2025,13:30,Balaton Park,Hungary Grand Prix
+Hungary,Moto2,Qualifying 1,Europe/Budapest,23/08/2025,13:45,23/08/2025,14:00,Balaton Park,Hungary Grand Prix
+Hungary,Moto2,Qualifying 2,Europe/Budapest,23/08/2025,14:10,23/08/2025,14:25,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Tissot Sprint,Europe/Budapest,23/08/2025,15:00,23/08/2025,15:30,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Warm Up,Europe/Budapest,24/08/2025,09:40,24/08/2025,09:50,Balaton Park,Hungary Grand Prix
+Hungary,Moto3,Race,Europe/Budapest,24/08/2025,11:00,24/08/2025,11:30,Balaton Park,Hungary Grand Prix
+Hungary,Moto2,Race,Europe/Budapest,24/08/2025,12:15,24/08/2025,12:55,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Race,Europe/Budapest,24/08/2025,14:00,24/08/2025,14:50,Balaton Park,Hungary Grand Prix
 Catalunya,MotoGP,Placeholder,Europe/Madrid,05/09/2025,,07/09/2025,,Circuit de Barcelona-Catalunya,Gran Premi Monster Energy de Catalunya
 San Marino,MotoGP,Placeholder,Europe/Rome,12/09/2025,,14/09/2025,,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,MotoGP,Testing,Europe/Rome,15/09/2025,,15/09/2025,,Misano World Circuit Marco Simoncelli,San Marino MotoGP Test
