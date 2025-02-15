@@ -426,7 +426,7 @@ Thailand,Moto3,Qualifying 1,Asia/Bangkok,01/03/2025,12:50,01/03/2025,13:05,Chang
 Thailand,Moto3,Qualifying 2,Asia/Bangkok,01/03/2025,13:15,01/03/2025,13:30,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,Moto2,Qualifying 1,Asia/Bangkok,01/03/2025,13:45,01/03/2025,14:00,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,Moto2,Qualifying 2,Asia/Bangkok,01/03/2025,14:10,01/03/2025,14:25,Chang International Circuit,PT Grand Prix of Thailand
-Thailand,MotoGP,Tissot Sprint,Asia/Bangkok,01/03/2025,15:00,01/03/2025,15:30,Chang International Circuit,PT Grand Prix of Thailand
+Thailand,MotoGP,Sprint,Asia/Bangkok,01/03/2025,15:00,01/03/2025,15:30,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,MotoGP,Warm Up,Asia/Bangkok,02/03/2025,09:40,02/03/2025,09:50,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,Moto3,Race,Asia/Bangkok,02/03/2025,12:00,02/03/2025,12:30,Chang International Circuit,PT Grand Prix of Thailand
 Thailand,Moto2,Race,Asia/Bangkok,02/03/2025,13:15,02/03/2025,13:55,Chang International Circuit,PT Grand Prix of Thailand
@@ -446,7 +446,7 @@ Argentina,Moto3,Qualifying 1,America/Mendoza,15/03/2025,12:50,15/03/2025,13:05,T
 Argentina,Moto3,Qualifying 2,America/Mendoza,15/03/2025,13:15,15/03/2025,13:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,Moto2,Qualifying 1,America/Mendoza,15/03/2025,13:45,15/03/2025,14:00,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,Moto2,Qualifying 2,America/Mendoza,15/03/2025,14:10,15/03/2025,14:25,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
-Argentina,MotoGP,Tissot Sprint,America/Mendoza,15/03/2025,15:00,15/03/2025,15:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
+Argentina,MotoGP,Sprint,America/Mendoza,15/03/2025,15:00,15/03/2025,15:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,MotoGP,Warm Up,America/Mendoza,16/03/2025,09:40,16/03/2025,09:50,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,Moto3,Race,America/Mendoza,16/03/2025,12:00,16/03/2025,12:30,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
 Argentina,Moto2,Race,America/Mendoza,16/03/2025,13:15,16/03/2025,13:55,Termas de Río Hondo,Gran Premio Michelin de la República Argentina
@@ -466,7 +466,7 @@ USA,Moto3,Qualifying 1,America/Chicago,29/03/2025,12:50,29/03/2025,13:05,Circuit
 USA,Moto3,Qualifying 2,America/Chicago,29/03/2025,13:15,29/03/2025,13:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
 USA,Moto2,Qualifying 1,America/Chicago,29/03/2025,13:45,29/03/2025,14:00,Circuit of The Americas,Red Bull Grand Prix of The Americas
 USA,Moto2,Qualifying 2,America/Chicago,29/03/2025,14:10,29/03/2025,14:25,Circuit of The Americas,Red Bull Grand Prix of The Americas
-USA,MotoGP,Tissot Sprint,America/Chicago,29/03/2025,15:00,29/03/2025,15:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
+USA,MotoGP,Sprint,America/Chicago,29/03/2025,15:00,29/03/2025,15:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
 USA,MotoGP,Warm Up,America/Chicago,30/03/2025,09:40,30/03/2025,09:50,Circuit of The Americas,Red Bull Grand Prix of The Americas
 USA,Moto3,Race,America/Chicago,30/03/2025,11:00,30/03/2025,11:30,Circuit of The Americas,Red Bull Grand Prix of The Americas
 USA,Moto2,Race,America/Chicago,30/03/2025,12:15,30/03/2025,12:55,Circuit of The Americas,Red Bull Grand Prix of The Americas
@@ -486,7 +486,7 @@ Qatar,Moto3,Qualifying 1,Asia/Qatar,12/04/2025,16:50,12/04/2025,17:05,Losail Int
 Qatar,Moto3,Qualifying 2,Asia/Qatar,12/04/2025,17:15,12/04/2025,17:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,Moto2,Qualifying 1,Asia/Qatar,12/04/2025,17:45,12/04/2025,18:00,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,Moto2,Qualifying 2,Asia/Qatar,12/04/2025,18:10,12/04/2025,18:25,Losail International Circuit,Qatar Airways Grand Prix of Qatar
-Qatar,MotoGP,Tissot Sprint,Asia/Qatar,12/04/2025,19:00,12/04/2025,15:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,MotoGP,Sprint,Asia/Qatar,12/04/2025,19:00,12/04/2025,15:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,MotoGP,Warm Up,Asia/Qatar,13/04/2025,15:40,13/04/2025,15:50,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,Moto3,Race,Asia/Qatar,13/04/2025,17:00,13/04/2025,17:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,Moto2,Race,Asia/Qatar,13/04/2025,18:15,13/04/2025,18:55,Losail International Circuit,Qatar Airways Grand Prix of Qatar
@@ -506,7 +506,7 @@ Spain,Moto3,Qualifying 1,Europe/Madrid,26/04/2025,12:50,26/04/2025,13:05,Circuit
 Spain,Moto3,Qualifying 2,Europe/Madrid,26/04/2025,13:15,26/04/2025,13:30,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,Moto2,Qualifying 1,Europe/Madrid,26/04/2025,13:45,26/04/2025,14:00,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,Moto2,Qualifying 2,Europe/Madrid,26/04/2025,14:10,26/04/2025,14:25,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
-Spain,MotoGP,Tissot Sprint,Europe/Madrid,26/04/2025,15:00,26/04/2025,15:30,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
+Spain,MotoGP,Sprint,Europe/Madrid,26/04/2025,15:00,26/04/2025,15:30,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,MotoGP,Warm Up,Europe/Madrid,27/04/2025,09:40,27/04/2025,09:50,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,Moto3,Race,Europe/Madrid,27/04/2025,11:00,27/04/2025,11:30,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,Moto2,Race,Europe/Madrid,27/04/2025,12:15,27/04/2025,12:55,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
@@ -527,7 +527,7 @@ France,Moto3,Qualifying 1,Europe/Paris,10/05/2025,12:50,10/05/2025,13:05,Le Mans
 France,Moto3,Qualifying 2,Europe/Paris,10/05/2025,13:15,10/05/2025,13:30,Le Mans,Michelin Grand Prix de France
 France,Moto2,Qualifying 1,Europe/Paris,10/05/2025,13:45,10/05/2025,14:00,Le Mans,Michelin Grand Prix de France
 France,Moto2,Qualifying 2,Europe/Paris,10/05/2025,14:10,10/05/2025,14:25,Le Mans,Michelin Grand Prix de France
-France,MotoGP,Tissot Sprint,Europe/Paris,10/05/2025,15:00,10/05/2025,15:30,Le Mans,Michelin Grand Prix de France
+France,MotoGP,Sprint,Europe/Paris,10/05/2025,15:00,10/05/2025,15:30,Le Mans,Michelin Grand Prix de France
 France,MotoGP,Warm Up,Europe/Paris,11/05/2025,09:40,11/05/2025,09:50,Le Mans,Michelin Grand Prix de France
 France,Moto3,Race,Europe/Paris,11/05/2025,11:00,11/05/2025,11:30,Le Mans,Michelin Grand Prix de France
 France,Moto2,Race,Europe/Paris,11/05/2025,12:15,11/05/2025,12:55,Le Mans,Michelin Grand Prix de France
@@ -549,7 +549,7 @@ Great Britain,Moto3,Qualifying 1,Europe/London,24/05/2025,13:50,24/05/2025,14:05
 Great Britain,Moto3,Qualifying 2,Europe/London,24/05/2025,14:15,24/05/2025,14:30,Silverstone,Tissot British Grand Prix
 Great Britain,Moto2,Qualifying 1,Europe/London,24/05/2025,14:45,24/05/2025,15:00,Silverstone,Tissot British Grand Prix
 Great Britain,Moto2,Qualifying 2,Europe/London,24/05/2025,15:10,24/05/2025,15:25,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Tissot Sprint,Europe/London,24/05/2025,16:00,24/05/2025,15:30,Silverstone,Tissot British Grand Prix
+Great Britain,MotoGP,Sprint,Europe/London,24/05/2025,16:00,24/05/2025,15:30,Silverstone,Tissot British Grand Prix
 Great Britain,MotoGP,Warm Up,Europe/London,25/05/2025,09:40,25/05/2025,09:50,Silverstone,Tissot British Grand Prix
 Great Britain,Moto2,Race,Europe/London,25/05/2025,12:15,25/05/2025,12:45,Silverstone,Tissot British Grand Prix
 Great Britain,MotoGP,Race,Europe/London,25/05/2025,13:00,25/05/2025,13:40,Silverstone,Tissot British Grand Prix
@@ -569,7 +569,7 @@ Aragon,Moto3,Qualifying 1,Europe/Madrid,07/06/2025,12:50,07/06/2025,13:05,MotorL
 Aragon,Moto3,Qualifying 2,Europe/Madrid,07/06/2025,13:15,07/06/2025,13:30,MotorLand Aragón,Gran Premio de Aragón
 Aragon,Moto2,Qualifying 1,Europe/Madrid,07/06/2025,13:45,07/06/2025,14:00,MotorLand Aragón,Gran Premio de Aragón
 Aragon,Moto2,Qualifying 2,Europe/Madrid,07/06/2025,14:10,07/06/2025,14:25,MotorLand Aragón,Gran Premio de Aragón
-Aragon,MotoGP,Tissot Sprint,Europe/Madrid,07/06/2025,15:00,07/06/2025,15:30,MotorLand Aragón,Gran Premio de Aragón
+Aragon,MotoGP,Sprint,Europe/Madrid,07/06/2025,15:00,07/06/2025,15:30,MotorLand Aragón,Gran Premio de Aragón
 Aragon,MotoGP,Warm Up,Europe/Madrid,08/06/2025,09:40,08/06/2025,09:50,MotorLand Aragón,Gran Premio de Aragón
 Aragon,Moto3,Race,Europe/Madrid,08/06/2025,11:00,08/06/2025,11:30,MotorLand Aragón,Gran Premio de Aragón
 Aragon,Moto2,Race,Europe/Madrid,08/06/2025,12:15,08/06/2025,12:55,MotorLand Aragón,Gran Premio de Aragón
@@ -590,7 +590,7 @@ Italy,Moto3,Qualifying 1,Europe/Rome,21/06/2025,12:50,21/06/2025,13:05,Autodromo
 Italy,Moto3,Qualifying 2,Europe/Rome,21/06/2025,13:15,21/06/2025,13:30,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
 Italy,Moto2,Qualifying 1,Europe/Rome,21/06/2025,13:45,21/06/2025,14:00,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
 Italy,Moto2,Qualifying 2,Europe/Rome,21/06/2025,14:10,21/06/2025,14:25,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
-Italy,MotoGP,Tissot Sprint,Europe/Rome,21/06/2025,15:00,21/06/2025,15:30,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
+Italy,MotoGP,Sprint,Europe/Rome,21/06/2025,15:00,21/06/2025,15:30,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
 Italy,MotoGP,Warm Up,Europe/Rome,22/06/2025,09:40,22/06/2025,09:50,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
 Italy,Moto3,Race,Europe/Rome,22/06/2025,11:00,22/06/2025,11:30,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
 Italy,Moto2,Race,Europe/Rome,22/06/2025,12:15,22/06/2025,12:55,Autodromo Internazionale del Mugello,Gran Premio d’Italia Brembo
@@ -610,7 +610,7 @@ Netherlands,Moto3,Qualifying 1,Europe/Amsterdam,28/06/2025,12:50,28/06/2025,13:0
 Netherlands,Moto3,Qualifying 2,Europe/Amsterdam,28/06/2025,13:15,28/06/2025,13:30,TT Circuit Assen,Motul TT Assen
 Netherlands,Moto2,Qualifying 1,Europe/Amsterdam,28/06/2025,13:45,28/06/2025,14:00,TT Circuit Assen,Motul TT Assen
 Netherlands,Moto2,Qualifying 2,Europe/Amsterdam,28/06/2025,14:10,28/06/2025,14:25,TT Circuit Assen,Motul TT Assen
-Netherlands,MotoGP,Tissot Sprint,Europe/Amsterdam,28/06/2025,15:00,28/06/2025,15:30,TT Circuit Assen,Motul TT Assen
+Netherlands,MotoGP,Sprint,Europe/Amsterdam,28/06/2025,15:00,28/06/2025,15:30,TT Circuit Assen,Motul TT Assen
 Netherlands,MotoGP,Warm Up,Europe/Amsterdam,29/06/2025,09:40,29/06/2025,09:50,TT Circuit Assen,Motul TT Assen
 Netherlands,Moto3,Race,Europe/Amsterdam,29/06/2025,11:00,29/06/2025,11:30,TT Circuit Assen,Motul TT Assen
 Netherlands,Moto2,Race,Europe/Amsterdam,29/06/2025,12:15,29/06/2025,12:55,TT Circuit Assen,Motul TT Assen
@@ -630,7 +630,7 @@ Germany,Moto3,Qualifying 1,Europe/Berlin,12/07/2025,12:50,12/07/2025,13:05,Sachs
 Germany,Moto3,Qualifying 2,Europe/Berlin,12/07/2025,13:15,12/07/2025,13:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,Moto2,Qualifying 1,Europe/Berlin,12/07/2025,13:45,12/07/2025,14:00,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,Moto2,Qualifying 2,Europe/Berlin,12/07/2025,14:10,12/07/2025,14:25,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
-Germany,MotoGP,Tissot Sprint,Europe/Berlin,12/07/2025,15:00,12/07/2025,15:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
+Germany,MotoGP,Sprint,Europe/Berlin,12/07/2025,15:00,12/07/2025,15:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,MotoGP,Warm Up,Europe/Berlin,13/07/2025,09:40,13/07/2025,09:50,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,Moto3,Race,Europe/Berlin,13/07/2025,11:00,13/07/2025,11:30,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
 Germany,Moto2,Race,Europe/Berlin,13/07/2025,12:15,13/07/2025,12:55,Sachsenring,Liqui Moly Motorrad Grand Prix Deutschland
@@ -650,7 +650,7 @@ Czechia,Moto3,Qualifying 1,Europe/Prague,19/07/2025,12:50,19/07/2025,13:05,Autom
 Czechia,Moto3,Qualifying 2,Europe/Prague,19/07/2025,13:15,19/07/2025,13:30,Automotodrom Brno,Grand Prix České Republiky
 Czechia,Moto2,Qualifying 1,Europe/Prague,19/07/2025,13:45,19/07/2025,14:00,Automotodrom Brno,Grand Prix České Republiky
 Czechia,Moto2,Qualifying 2,Europe/Prague,19/07/2025,14:10,19/07/2025,14:25,Automotodrom Brno,Grand Prix České Republiky
-Czechia,MotoGP,Tissot Sprint,Europe/Prague,19/07/2025,15:00,19/07/2025,15:30,Automotodrom Brno,Grand Prix České Republiky
+Czechia,MotoGP,Sprint,Europe/Prague,19/07/2025,15:00,19/07/2025,15:30,Automotodrom Brno,Grand Prix České Republiky
 Czechia,MotoGP,Warm Up,Europe/Prague,20/07/2025,09:40,20/07/2025,09:50,Automotodrom Brno,Grand Prix České Republiky
 Czechia,Moto3,Race,Europe/Prague,20/07/2025,11:00,20/07/2025,11:30,Automotodrom Brno,Grand Prix České Republiky
 Czechia,Moto2,Race,Europe/Prague,20/07/2025,12:15,20/07/2025,12:55,Automotodrom Brno,Grand Prix České Republiky
@@ -672,7 +672,7 @@ Austria,Moto3,Qualifying 1,Europe/Vienna,16/08/2025,12:50,16/08/2025,13:05,Red B
 Austria,Moto3,Qualifying 2,Europe/Vienna,16/08/2025,13:15,16/08/2025,13:30,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,Moto2,Qualifying 1,Europe/Vienna,16/08/2025,13:45,16/08/2025,14:00,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,Moto2,Qualifying 2,Europe/Vienna,16/08/2025,14:10,16/08/2025,14:25,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
-Austria,MotoGP,Tissot Sprint,Europe/Vienna,16/08/2025,15:00,16/08/2025,15:30,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
+Austria,MotoGP,Sprint,Europe/Vienna,16/08/2025,15:00,16/08/2025,15:30,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,MotoGP,Warm Up,Europe/Vienna,17/08/2025,09:40,17/08/2025,09:50,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,Moto3,Race,Europe/Vienna,17/08/2025,11:00,17/08/2025,11:30,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
 Austria,Moto2,Race,Europe/Vienna,17/08/2025,12:15,17/08/2025,12:55,Red Bull Ring - Spielberg,Motorrad Grand Prix von Österreich
@@ -692,12 +692,31 @@ Hungary,Moto3,Qualifying 1,Europe/Budapest,23/08/2025,12:50,23/08/2025,13:05,Bal
 Hungary,Moto3,Qualifying 2,Europe/Budapest,23/08/2025,13:15,23/08/2025,13:30,Balaton Park,Hungary Grand Prix
 Hungary,Moto2,Qualifying 1,Europe/Budapest,23/08/2025,13:45,23/08/2025,14:00,Balaton Park,Hungary Grand Prix
 Hungary,Moto2,Qualifying 2,Europe/Budapest,23/08/2025,14:10,23/08/2025,14:25,Balaton Park,Hungary Grand Prix
-Hungary,MotoGP,Tissot Sprint,Europe/Budapest,23/08/2025,15:00,23/08/2025,15:30,Balaton Park,Hungary Grand Prix
+Hungary,MotoGP,Sprint,Europe/Budapest,23/08/2025,15:00,23/08/2025,15:30,Balaton Park,Hungary Grand Prix
 Hungary,MotoGP,Warm Up,Europe/Budapest,24/08/2025,09:40,24/08/2025,09:50,Balaton Park,Hungary Grand Prix
 Hungary,Moto3,Race,Europe/Budapest,24/08/2025,11:00,24/08/2025,11:30,Balaton Park,Hungary Grand Prix
 Hungary,Moto2,Race,Europe/Budapest,24/08/2025,12:15,24/08/2025,12:55,Balaton Park,Hungary Grand Prix
 Hungary,MotoGP,Race,Europe/Budapest,24/08/2025,14:00,24/08/2025,14:50,Balaton Park,Hungary Grand Prix
-Catalunya,MotoGP,Placeholder,Europe/Madrid,05/09/2025,,07/09/2025,,Circuit de Barcelona-Catalunya,Gran Premi Monster Energy de Catalunya
+Catalunya,Moto3,Free Practice 1,Europe/Madrid,05/09/2025,09:00,05/09/2025,09:35,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto2,Free Practice 1,Europe/Madrid,05/09/2025,09:50,05/09/2025,10:30,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Free Practice 1,Europe/Madrid,05/09/2025,10:45,05/09/2025,11:30,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto3,Practice,Europe/Madrid,05/09/2025,13:15,05/09/2025,13:50,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto2,Practice,Europe/Madrid,05/09/2025,14:05,05/09/2025,14:45,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Practice,Europe/Madrid,05/09/2025,15:00,05/09/2025,16:00,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto3,Free Practice 2,Europe/Madrid,06/09/2025,08:40,06/09/2025,09:10,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto2,Free Practice 2,Europe/Madrid,06/09/2025,09:25,06/09/2025,09:55,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Free Practice 2,Europe/Madrid,06/09/2025,10:10,06/09/2025,10:40,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Qualifying 1,Europe/Madrid,06/09/2025,10:50,06/09/2025,11:05,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Qualifying 2,Europe/Madrid,06/09/2025,11:15,06/09/2025,11:30,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto3,Qualifying 1,Europe/Madrid,06/09/2025,12:50,06/09/2025,13:05,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto3,Qualifying 2,Europe/Madrid,06/09/2025,13:15,06/09/2025,13:30,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto2,Qualifying 1,Europe/Madrid,06/09/2025,13:45,06/09/2025,14:00,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto2,Qualifying 2,Europe/Madrid,06/09/2025,14:10,06/09/2025,14:25,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Sprint,Europe/Madrid,06/09/2025,15:00,06/09/2025,15:30,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Warm Up,Europe/Madrid,07/09/2025,09:40,07/09/2025,09:50,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto3,Race,Europe/Madrid,07/09/2025,11:00,07/09/2025,11:30,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,Moto2,Race,Europe/Madrid,07/09/2025,12:15,07/09/2025,12:55,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
+Catalunya,MotoGP,Race,Europe/Madrid,07/09/2025,14:00,07/09/2025,14:50,Circuit de Barcelona-Catalunya,Gran Premi de Catalunya
 San Marino,MotoGP,Placeholder,Europe/Rome,12/09/2025,,14/09/2025,,Misano World Circuit Marco Simoncelli,Gran Premio Red Bull di San Marino e della Riviera di Rimini
 San Marino,MotoGP,Testing,Europe/Rome,15/09/2025,,15/09/2025,,Misano World Circuit Marco Simoncelli,San Marino MotoGP Test
 Japan,MotoGP,Placeholder,Asia/Tokyo,26/09/2025,,28/09/2025,,Mobility Resort Motegi,Motul Grand Prix of Japan
