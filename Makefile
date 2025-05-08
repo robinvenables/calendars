@@ -7,7 +7,7 @@ output/calendars/F1.ics: f1/F1/Calendar-Timetable.csv
 	./mkf1
 
 output/calendars/Lions.ics: lions/Lions.ics
-	cp lions/Lions.ics output/calendars/Lions.ics
+	./mklions
 
 output/calendars/MotoGP.ics: motogp/MotoGP/Calendar-Timetable.csv
 	./mkmotogp

@@ -18,6 +18,10 @@ Scripts for the creation of various calendars that are published at https://data
 
 Reads input from f1/F1/Calendar-Timetable.csv and generates output/calendars/F1.ics
 
+### mklions
+
+Reads input from lions/Lions/Lions.csv and generates output/calendars/Lions.ics
+
 ## mkmotogp
 
 Reads input from motogp/MotoGP/Calendar-Timetable.csv and generates output/calendars/MotoGP.ics
