@@ -6,7 +6,7 @@ output/calendars/6Nations.ics: 6nations/6Nations/Fixtures-Matches.csv
 output/calendars/F1.ics: f1/F1/Calendar-Timetable.csv
 	./mkf1
 
-output/calendars/Lions.ics: lions/Lions.ics
+output/calendars/Lions.ics: lions/Lions/lions.csv
 	./mklions
 
 output/calendars/MotoGP.ics: motogp/MotoGP/Calendar-Timetable.csv
