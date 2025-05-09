@@ -58,9 +58,9 @@ while (my $line = <$if>) {
   my $summary;
 
   if ($homescore ne "") {
-    $summary = sprintf("Lions Tour: %s %d-%d %s", $home, $homescore, $awayscore, $away);
+    $summary = sprintf("B&IL %s %d-%d %s", $home, $homescore, $awayscore, $away);
   } else {
-    $summary = sprintf("Lions Tour: %s v %s", $home, $away);
+    $summary = sprintf("B&IL %s v %s", $home, $away);
   }
 
   my $title = sprintf("British & Irish Lions %d", $year);
