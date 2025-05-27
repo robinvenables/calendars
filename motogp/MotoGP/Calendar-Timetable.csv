@@ -489,7 +489,7 @@ Qatar,Moto2,Qualifying 2,Asia/Qatar,12/04/2025,19:10,12/04/2025,19:25,Losail Int
 Qatar,MotoGP,Sprint,Asia/Qatar,12/04/2025,20:00,12/04/2025,20:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,MotoGP,Warm Up,Asia/Qatar,13/04/2025,15:40,13/04/2025,15:50,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Qatar,Moto3,Race,Asia/Qatar,13/04/2025,17:00,13/04/2025,17:30,Losail International Circuit,Qatar Airways Grand Prix of Qatar
-Qatar,Moto2,Race,Asia/Qatar,13/04/2025,18:15,13/04/2025,18:55,Losail International Circuit,Qatar Airways Grand Prix of Qatar
+Qatar,Moto2,Race,Asia/Qatar,13/04/2025,18:15,13/04/2025,18:55,Losail International Circuit,
 Qatar,MotoGP,Race,Asia/Qatar,13/04/2025,20:00,13/04/2025,20:50,Losail International Circuit,Qatar Airways Grand Prix of Qatar
 Spain,Moto3,Free Practice 1,Europe/Madrid,25/04/2025,09:00,25/04/2025,09:35,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
 Spain,Moto2,Free Practice 1,Europe/Madrid,25/04/2025,09:50,25/04/2025,10:30,Circuito de Jerez - Angel Nieto,"Gran Premio Estrellla Galicia 0,0 de España"
@@ -534,26 +534,26 @@ France,Moto2,Race,Europe/Paris,11/05/2025,12:15,11/05/2025,12:55,Le Mans,Micheli
 France,MotoGP,Race,Europe/Paris,11/05/2025,14:00,11/05/2025,14:50,Le Mans,Michelin Grand Prix de France
 France,Moto3,Testing,Europe/Paris,12/05/2025,,12/05/2025,,Le Mans,France Moto3 Test
 France,Moto2,Testing,Europe/Paris,13/05/2025,,13/05/2025,,Le Mans,France Moto2 Test
-Great Britain,Moto3,Free Practice 1,Europe/London,23/05/2025,10:00,23/05/2025,10:35,Silverstone,Tissot British Grand Prix
-Great Britain,Moto2,Free Practice 1,Europe/London,23/05/2025,10:50,23/05/2025,11:30,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Free Practice 1,Europe/London,23/05/2025,11:45,23/05/2025,12:30,Silverstone,Tissot British Grand Prix
-Great Britain,Moto3,Practice,Europe/London,23/05/2025,14:15,23/05/2025,14:50,Silverstone,Tissot British Grand Prix
-Great Britain,Moto2,Practice,Europe/London,23/05/2025,15:05,23/05/2025,15:45,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Practice,Europe/London,23/05/2025,16:00,23/05/2025,17:00,Silverstone,Tissot British Grand Prix
-Great Britain,Moto3,Free Practice 2,Europe/London,24/05/2025,09:40,24/05/2025,10:10,Silverstone,Tissot British Grand Prix
-Great Britain,Moto2,Free Practice 2,Europe/London,24/05/2025,10:25,24/05/2025,10:55,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Free Practice 2,Europe/London,24/05/2025,11:10,24/05/2025,11:40,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Qualifying 1,Europe/London,24/05/2025,11:50,24/05/2025,12:05,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Qualifying 2,Europe/London,24/05/2025,12:15,24/05/2025,12:30,Silverstone,Tissot British Grand Prix
-Great Britain,Moto3,Qualifying 1,Europe/London,24/05/2025,13:50,24/05/2025,14:05,Silverstone,Tissot British Grand Prix
-Great Britain,Moto3,Qualifying 2,Europe/London,24/05/2025,14:15,24/05/2025,14:30,Silverstone,Tissot British Grand Prix
-Great Britain,Moto2,Qualifying 1,Europe/London,24/05/2025,14:45,24/05/2025,15:00,Silverstone,Tissot British Grand Prix
-Great Britain,Moto2,Qualifying 2,Europe/London,24/05/2025,15:10,24/05/2025,15:25,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Sprint,Europe/London,24/05/2025,16:00,24/05/2025,16:30,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Warm Up,Europe/London,25/05/2025,09:40,25/05/2025,09:50,Silverstone,Tissot British Grand Prix
-Great Britain,Moto2,Race,Europe/London,25/05/2025,12:15,25/05/2025,12:45,Silverstone,Tissot British Grand Prix
-Great Britain,MotoGP,Race,Europe/London,25/05/2025,13:00,25/05/2025,13:40,Silverstone,Tissot British Grand Prix
-Great Britain,Moto3,Race,Europe/London,25/05/2025,14:30,25/05/2025,15:20,Silverstone,Tissot British Grand Prix
+United Kingdom,Moto3,Free Practice 1,Europe/London,23/05/2025,10:00,23/05/2025,10:35,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto2,Free Practice 1,Europe/London,23/05/2025,10:50,23/05/2025,11:30,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Free Practice 1,Europe/London,23/05/2025,11:45,23/05/2025,12:30,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto3,Practice,Europe/London,23/05/2025,14:15,23/05/2025,14:50,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto2,Practice,Europe/London,23/05/2025,15:05,23/05/2025,15:45,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Practice,Europe/London,23/05/2025,16:00,23/05/2025,17:00,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto3,Free Practice 2,Europe/London,24/05/2025,09:40,24/05/2025,10:10,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto2,Free Practice 2,Europe/London,24/05/2025,10:25,24/05/2025,10:55,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Free Practice 2,Europe/London,24/05/2025,11:10,24/05/2025,11:40,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Qualifying 1,Europe/London,24/05/2025,11:50,24/05/2025,12:05,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Qualifying 2,Europe/London,24/05/2025,12:15,24/05/2025,12:30,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto3,Qualifying 1,Europe/London,24/05/2025,13:50,24/05/2025,14:05,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto3,Qualifying 2,Europe/London,24/05/2025,14:15,24/05/2025,14:30,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto2,Qualifying 1,Europe/London,24/05/2025,14:45,24/05/2025,15:00,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto2,Qualifying 2,Europe/London,24/05/2025,15:10,24/05/2025,15:25,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Sprint,Europe/London,24/05/2025,16:00,24/05/2025,16:30,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Warm Up,Europe/London,25/05/2025,09:40,25/05/2025,09:50,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto2,Race,Europe/London,25/05/2025,12:15,25/05/2025,12:45,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,MotoGP,Race,Europe/London,25/05/2025,13:00,25/05/2025,13:40,Silverstone,Tissot Grand Prix of the United Kingdom
+United Kingdom,Moto3,Race,Europe/London,25/05/2025,14:30,25/05/2025,15:20,Silverstone,Tissot Grand Prix of the United Kingdom
 Aragon,Moto3,Free Practice 1,Europe/Madrid,06/06/2025,09:00,06/06/2025,09:35,MotorLand Aragón,Gran Premio GoPro de Aragón
 Aragon,Moto2,Free Practice 1,Europe/Madrid,06/06/2025,09:50,06/06/2025,10:30,MotorLand Aragón,Gran Premio GoPro de Aragón
 Aragon,MotoGP,Free Practice 1,Europe/Madrid,06/06/2025,10:45,06/06/2025,11:30,MotorLand Aragón,Gran Premio GoPro de Aragón
