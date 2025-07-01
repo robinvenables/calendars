@@ -188,11 +188,11 @@ Monaco,Practice 2,Europe/Paris,23/05/2025,17:00,23/05/2025,18:00,Circuit de Mona
 Monaco,Practice 3,Europe/Paris,24/05/2025,12:30,24/05/2025,13:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
 Monaco,Qualifying,Europe/Paris,24/05/2025,16:00,24/05/2025,17:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
 Monaco,Race,Europe/Paris,25/05/2025,15:00,25/05/2025,17:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Spain,Practice 1,Europe/Madrid,30/05/2025,13:30,30/05/2025,14:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Practice 2,Europe/Madrid,30/05/2025,17:00,30/05/2025,18:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Practice 3,Europe/Madrid,31/05/2025,12:30,31/05/2025,13:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Qualifying,Europe/Madrid,31/05/2025,16:00,31/05/2025,17:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Race,Europe/Madrid,01/06/2025,15:00,01/06/2025,17:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
+Spain,Practice 1,Europe/Madrid,30/05/2025,13:30,30/05/2025,14:30,Madring,Gran Premio de España
+Spain,Practice 2,Europe/Madrid,30/05/2025,17:00,30/05/2025,18:00,Madring,Gran Premio de España
+Spain,Practice 3,Europe/Madrid,31/05/2025,12:30,31/05/2025,13:30,Madring,Gran Premio de España
+Spain,Qualifying,Europe/Madrid,31/05/2025,16:00,31/05/2025,17:00,Madring,Gran Premio de España
+Spain,Race,Europe/Madrid,01/06/2025,15:00,01/06/2025,17:00,Madring,Gran Premio de España
 Canada,Practice 1,America/Montreal,13/06/2025,13:30,13/06/2025,14:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
 Canada,Practice 2,America/Montreal,13/06/2025,17:00,13/06/2025,18:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
 Canada,Practice 3,America/Montreal,14/06/2025,12:30,14/06/2025,13:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
@@ -268,6 +268,30 @@ Abu Dhabi,Practice 2,Asia/Dubai,05/12/2025,17:00,05/12/2025,18:00,Yas Marina Cir
 Abu Dhabi,Practice 3,Asia/Dubai,06/12/2025,14:30,06/12/2025,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
 Abu Dhabi,Qualifying,Asia/Dubai,06/12/2025,18:00,06/12/2025,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
 Abu Dhabi,Race,Asia/Dubai,07/12/2025,17:00,07/12/2025,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Spain,Placeholder,Europe/Madrid,26/01/2026,,30/01/2026,,Circuit de Barcelona-Catalunya,Pre-Season Testing
+Barcelona-Catalunya,Placeholder,Europe/Madrid,26/01/2026,,30/01/2026,,Circuit de Barcelona-Catalunya,Pre-Season Testing
 Bahrain,Placeholder,Asia/Qatar,11/02/2026,,13/02/2026,,Bahrain International Circuit,Pre-Season Testing
 Bahrain,Placeholder,Asia/Qatar,18/02/2026,,20/02/2026,,Bahrain International Circuit,Pre-Season Testing
+Australia,Placeholder,Australia/Melbourne,06/03/2026,,08/03/2026,,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
+China,Placeholder,Asia/Shanghai,13/03/2026,,15/03/2026,,Shanghai International Circuit,Heineken Chinese Grand Prix
+Japan,Placeholder,Asia/Tokyo,27/03/2026,,29/03/2026,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
+Bahrain,Placeholder,Asia/Qatar,10/04/2026,,12/04/2026,,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
+Saudi Arabia,Placeholder,Asia/Riyadh,17/04/2026,,19/04/2026,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
+Miami,Placeholder,America/New_York,01/05/2026,,03/05/2026,,Miami International Autodrome,crypto.com Miami Grand Prix
+Canada,Placeholder,America/Montreal,22/05/2026,,24/05/2026,,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
+Monaco,Placeholder,Europe/Paris,05/06/2026,,07/06/2026,,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
+Barcelona-Catalunya,Placeholder,Europe/Madrid,12/06/2026,,14/06/2026,,Circuit de Barcelona-Catalunya,Gran Premio de Barcelona-Catalunya
+Austria,Placeholder,Europe/Vienna,26/06/2026,,28/06/2026,,Red Bull Ring,MSC Cruises Austrian Grand Prix
+Great Britain,Placeholder,Europe/London,03/07/2026,,05/07/2026,,Silverstone,Qatar Airways British Grand Prix
+Belgium,Placeholder,Europe/Brussels,17/07/2026,,19/07/2026,,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
+Hungary,Placeholder,Europe/Budapest,24/07/2026,,26/07/2026,,Hungaroring,Lenovo Hungarian Grand Prix
+Netherlands,Placeholder,Europe/Amsterdam,21/08/2026,,23/08/2026,,Circuit Zandvoort,Heineken Dutch Grand Prix
+Italy,Placeholder,Europe/Rome,04/09/2026,,06/09/2026,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
+Spain,Placeholder,Europe/Madrid,11/09/2026,,13/09/2026,,Madring,Gran Premio de España
+Azerbaijan,Placeholder,Asia/Baku,24/09/2026,,26/09/2026,,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
+Singapore,Placeholder,Asia/Singapore,09/10/2026,,11/10/2026,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
+United States,Placeholder,America/Chicago,23/10/2026,,25/10/2026,,Circuit of The Americas,MSC Cruises United States Grand Prix
+Mexico,Placeholder,America/Mexico_City,30/10/2026,,01/11/2026,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
+Brazil,Placeholder,America/Sao_Paulo,06/11/2026,,08/11/2026,,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
+Las Vegas,Placeholder,America/Los_Angeles,19/11/2026,,21/11/2026,,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
+Qatar,Placeholder,Asia/Qatar,27/11/2026,,29/11/2026,,Lusail International Circuit,Qatar Airways Qatar Grand Prix
+Abu Dhabi,Placeholder,Asia/Dubai,04/12/2026,,06/12/2026,,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
