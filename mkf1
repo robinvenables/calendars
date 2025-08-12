@@ -6,9 +6,9 @@ use Data::UUID;
 
 my (
   $COUNT,
+  $IGNORE,
   $INPUT_FILE,
   $OUTPUT_FILE,
-  $SALT,
   $UPDATE_STAMP,
   $UUID
 );
@@ -23,7 +23,7 @@ open(my $if, "<", $INPUT_FILE) or die "Can't open < $INPUT_FILE: $!";
 open(my $of, ">", $OUTPUT_FILE) or die "Can't open > $OUTPUT_FILE: $!";
 
 # Skip header
-$SALT = <$if>;
+$IGNORE = <$if>;
 
 # Generate the update date-time stamp for 'now'
 my ($a,$min,$hour,$mday,$mon,$year,$b,$c,$d) = localtime();
@@ -31,8 +31,6 @@ $UPDATE_STAMP = sprintf("%4d%02d%02dT%02d%02d00", $year + 1900, $mon + 1, $mday,
 
 # Instantiate the UUID object
 $UUID = Data::UUID->new;
-# Initialise the Namespace UUID. Returned with capital A-F (contrary to rfc4122) so convert to lowercase
-$SALT = lc($UUID->create_str());
 
 # Output the calendar header
 print $of <<EOH;
@@ -47,12 +45,12 @@ EOH
 while (my $line = <$if>) {
   chomp($line);
 
-  my ($country, $session, $timezone, $startdate, $starttime, $enddate, $endtime, $circuit, $title) = split(',', $line);
+  my ($country, $session, $timezone, $startdate, $starttime, $enddate, $endtime, $circuit, $title, $iso3166) = split(',', $line);
 
   my $summary = sprintf("F1 %s %s", $country, $session);
 
   # Generate a UUID for this event. Returned with capital A-F (contrary to rfc4122) so convert to lowercase
-  my $uuid = lc($UUID->create_from_name_str($SALT, sprintf("%s %s", $summary, $startdate)));
+  my $uuid = lc($UUID->create_from_name_str(NameSpace_OID, sprintf("F1%s%s%s", $iso3166, $startdate, $session)));
 
   # Check if we are dealing with a standard Race/Qualifying event, an all-day Testing event or a Car Launch
   if ($endtime ne "") {
