@@ -1,109 +1,109 @@
-Event,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title
-Qatar,Free Practice 1,Asia/Qatar,29/02/2024,12:20,29/02/2024,13:50,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Free Practice 2,Asia/Qatar,29/02/2024,17:30,29/02/2024,19:00,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Free Practice 3,Asia/Qatar,29/02/2024,11:00,29/02/2024,12:00,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - LMGT3,Asia/Qatar,01/03/2024,16:00,01/03/2024,16:12,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - Hypercar,Asia/Qatar,01/03/2024,16:20,01/03/2024,16:32,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - Hyperpole LMGT3,Asia/Qatar,01/03/2024,16:40,01/03/2024,16:50,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - Hyperpole Hypercar,Asia/Qatar,01/03/2024,16:58,01/03/2024,17:08,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Race,Asia/Qatar,02/03/2024,11:00,02/03/2024,21:00,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Imola,Free Practice 1,Europe/Rome,19/04/2024,13:00,19/04/2024,14:30,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Free Practice 2,Europe/Rome,19/04/2024,18:15,19/04/2024,19:45,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Free Practice 3,Europe/Rome,20/04/2024,12:10,20/04/2024,13:10,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - LMGT3,Europe/Rome,20/04/2024,15:45,20/04/2024,15:57,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - Hypercar,Europe/Rome,20/04/2024,16:05,20/04/2024,16:17,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - Hyperpole LMGT3,Europe/Rome,20/04/2024,16:25,20/04/2024,16:35,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - Hyperpole Hypercar,Europe/Rome,20/04/2024,16:43,20/04/2024,16:53,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Race,Europe/Rome,21/04/2024,14:00,21/04/2024,20:00,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Spa-Francorchamps,Free Practice 1,Europe/Brussels,09/05/2024,12:30,09/05/2024,14:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Free Practice 2,Europe/Brussels,09/05/2024,18:30,09/05/2024,20:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Free Practice 3,Europe/Brussels,10/05/2024,12:00,10/05/2024,13:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - LMGT3,Europe/Brussels,10/05/2024,15:45,10/05/2024,15:57,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - Hypercar,Europe/Brussels,10/05/2024,16:08,10/05/2024,16:20,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - Hyperpole LMGT3,Europe/Brussels,10/05/2024,16:31,10/05/2024,16:41,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - Hyperpole Hypercar,Europe/Brussels,10/05/2024,16:51,10/05/2024,17:01,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Race,Europe/Brussels,11/05/2024,14:00,11/05/2024,20:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Le Mans,Free Practice,Europe/Paris,12/06/2024,16:00,12/06/2024,20:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Qualifying 1,Europe/Paris,12/06/2024,22:00,13/06/2024,00:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Qualifying 2,Europe/Paris,13/06/2024,19:00,13/06/2024,21:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Qualifying 3,Europe/Paris,13/06/2024,22:00,14/06/2024,00:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Race,Europe/Paris,15/06/2024,15:00,16/06/2024,15:00,Circuit de la Sarthe,24 Hours of Le Mans
-São Paulo,Free Practice 1,America/Sao_Paulo,12/07/2024,10:45,12/07/2024,12:15,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Free Practice 2,America/Sao_Paulo,12/07/2024,15:15,12/07/2024,16:45,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Free Practice 3,America/Sao_Paulo,13/07/2024,10:30,13/07/2024,11:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - LMGT3,America/Sao_Paulo,13/07/2024,14:30,13/07/2024,14:42,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - Hypercar,America/Sao_Paulo,13/07/2024,14:50,13/07/2024,15:02,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - Hyperpole LMGT3,America/Sao_Paulo,13/07/2024,15:10,13/07/2024,15:20,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - Hyperpole Hypercar,America/Sao_Paulo,13/07/2024,15:30,13/07/2024,15:40,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Race,America/Sao_Paulo,14/07/2024,11:30,14/07/2024,17:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-Lone Star Le Mans,Free Practice 1,America/Chicago,30/08/2024,12:40,30/08/2024,14:10,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Free Practice 2,America/Chicago,30/08/2024,17:10,30/08/2024,18:40,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Free Practice 3,America/Chicago,31/08/2024,11:00,31/08/2024,12:00,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Qualifying - LMGT3,America/Chicago,31/08/2024,15:00,31/08/2024,15:12,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Qualifying - Hypercar,America/Chicago,31/08/2024,15:20,31/08/2024,15:32,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Qualifying - Hyperpole LMGT3,America/Chicago,31/08/2024,15:40,31/08/2024,15:50,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Qualifying - Hyperpole Hypercar,America/Chicago,31/08/2024,16:00,31/08/2024,16:10,Circuit of The Americas,Lone Star Le Mans
-Lone Star Le Mans,Race,America/Chicago,01/09/2024,13:00,01/09/2024,19:00,Circuit of The Americas,Lone Star Le Mans
-Fuji,Free Practice 1,Asia/Tokyo,13/09/2024,11:00,13/09/2024,12:30,Fuji Speedway,6 Hours of Fuji
-Fuji,Free Practice 2,Asia/Tokyo,13/09/2024,15:30,13/09/2024,17:00,Fuji Speedway,6 Hours of Fuji
-Fuji,Free Practice 3,Asia/Tokyo,14/09/2024,10:20,14/09/2024,11:20,Fuji Speedway,6 Hours of Fuji
-Fuji,Qualifying - LMGT3,Asia/Tokyo,14/09/2024,14:20,14/09/2024,14:32,Fuji Speedway,6 Hours of Fuji
-Fuji,Qualifying - Hypercar,Asia/Tokyo,14/09/2024,14:40,14/09/2024,14:52,Fuji Speedway,6 Hours of Fuji
-Fuji,Qualifying - Hyperpole LMGT3,Asia/Tokyo,14/09/2024,15:00,14/09/2024,15:10,Fuji Speedway,6 Hours of Fuji
-Fuji,Qualifying - Hyperpole Hypercar,Asia/Tokyo,14/09/2024,15:20,14/09/2024,15:30,Fuji Speedway,6 Hours of Fuji
-Fuji,Race,Asia/Tokyo,15/09/2024,11:00,15/09/2024,17:00,Fuji Speedway,6 Hours of Fuji
-Bahrain,Free Practice 1,Asia/Qatar,31/10/2024,12:15,31/10/2024,13:45,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Free Practice 2,Asia/Qatar,31/10/2024,17:30,31/10/2024,19:00,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Free Practice 3,Asia/Qatar,01/11/2024,12:00,01/11/2024,13:00,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Qualifying - LMGT3,Asia/Qatar,01/11/2024,16:00,01/11/2024,16:12,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Qualifying - Hypercar,Asia/Qatar,01/11/2024,16:20,01/11/2024,16:32,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Qualifying - Hyperpole LMGT3,Asia/Qatar,01/11/2024,16:40,01/11/2024,16:50,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Qualifying - Hyperpole Hypercar,Asia/Qatar,01/11/2024,17:00,01/11/2024,17:10,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Bahrain,Race,Asia/Qatar,02/11/2024,14:00,02/11/2024,22:00,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
-Qatar,Free Practice 1,Asia/Qatar,26/02/2025,12:20,26/02/2025,13:50,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Free Practice 2,Asia/Qatar,26/02/2025,17:30,26/02/2025,19:00,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Free Practice 3,Asia/Qatar,27/02/2025,11:30,27/02/2025,12:30,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - LMGT3,Asia/Qatar,27/02/2025,16:00,27/02/2025,16:12,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - Hypercar,Asia/Qatar,27/02/2025,16:20,27/02/2025,16:32,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - Hyperpole LMGT3,Asia/Qatar,27/02/2025,16:40,27/02/2025,16:50,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Qualifying - Hyperpole Hypercar,Asia/Qatar,27/02/2025,17:00,27/02/2025,17:10,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Qatar,Race,Asia/Qatar,28/02/2025,12:00,28/02/2025,21:00,Lusail International Circuit,Qatar Airways Qatar 1812 km
-Imola,Free Practice 1,Europe/Rome,18/04/2025,11:00,18/04/2025,12:30,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - LMGT3,Europe/Rome,18/04/2025,14:30,18/04/2025,14:42,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Free Practice 2,Europe/Rome,18/04/2025,15:50,18/04/2025,17:20,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Free Practice 3,Europe/Rome,19/04/2025,10:40,19/04/2025,11:40,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - Hyperpole LMGT3,Europe/Rome,19/04/2025,14:50,19/04/2025,15:00,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - Hypercar,Europe/Rome,19/04/2025,15:10,19/04/2025,15:22,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Qualifying - Hyperpole Hypercar,Europe/Rome,19/04/2025,15:30,19/04/2025,15:40,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Imola,Race,Europe/Rome,20/04/2025,13:00,20/04/2025,19:00,Autodromo Enzo e Dino Ferrari,6 Hours of Imola
-Spa-Francorchamps,Free Practice 1,Europe/Brussels,08/05/2025,11:30,08/05/2025,13:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Free Practice 2,Europe/Brussels,08/05/2025,16:50,08/05/2025,18:20,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Free Practice 3,Europe/Brussels,09/05/2025,11:00,09/05/2025,12:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - LMGT3,Europe/Brussels,09/05/2025,14:40,09/05/2025,14:52,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - Hyperpole LMGT3,Europe/Brussels,09/05/2025,15:03,09/05/2025,15:13,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - Hypercar,Europe/Brussels,09/05/2025,15:25,09/05/2025,15:37,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Qualifying - Hyperpole Hypercar,Europe/Brussels,09/05/2025,15:48,09/05/2025,15:58,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Spa-Francorchamps,Race,Europe/Brussels,10/05/2025,14:00,10/05/2025,20:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps
-Le Mans,Free Practice 1,Europe/Paris,11/06/2025,11:00,11/06/2025,14:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Qualifying - LMGT3 and LMP2,Europe/Paris,11/06/2025,18:45,11/06/2025,19:15,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Qualifying - Hypercar,Europe/Paris,11/06/2025,19:30,11/06/2025,20:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Free Practice 2,Europe/Paris,11/06/2025,21:00,11/06/2025,23:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Free Practice 3,Europe/Paris,12/06/2025,14:00,12/06/2025,17:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Hyperpole 1 - LMGT3 & LMP2,Europe/Paris,12/06/2025,20:00,12/06/2025,20:20,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Hyperpole 2 - LMGT3 & LMP2,Europe/Paris,12/06/2025,20:35,12/06/2025,20:50,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Hyperpole 1 - Hypercar,Europe/Paris,12/06/2025,21:05,12/06/2025,21:25,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Hyperpole 2 - Hypercar,Europe/Paris,12/06/2025,21:40,12/06/2025,21:55,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Free Practice 4,Europe/Paris,12/06/2025,22:00,12/06/2025,23:00,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Warm-Up,Europe/Paris,14/06/2025,12:00,14/06/2025,12:15,Circuit de la Sarthe,24 Hours of Le Mans
-Le Mans,Race,Europe/Paris,14/06/2025,16:00,15/06/2025,16:00,Circuit de la Sarthe,24 Hours of Le Mans
-São Paulo,Free Practice 1,America/Sao_Paulo,11/07/2025,11:00,11/07/2025,12:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Free Practice 2,America/Sao_Paulo,11/07/2025,15:15,11/07/2025,16:45,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Free Practice 3,America/Sao_Paulo,12/07/2025,10:30,12/07/2025,11:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - LMGT3,America/Sao_Paulo,12/07/2025,14:50,12/07/2025,15:02,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - Hyperpole LMGT3,America/Sao_Paulo,12/07/2025,15:10,12/07/2025,15:20,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - Hypercar,America/Sao_Paulo,12/07/2025,15:30,12/07/2025,15:42,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Qualifying - Hyperpole Hypercar,America/Sao_Paulo,12/07/2025,15:50,12/07/2025,16:00,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-São Paulo,Race,America/Sao_Paulo,13/07/2025,11:30,13/07/2025,17:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo
-Lone Star Le Mans,Placeholder,America/Chicago,05/09/2025,,07/09/2025,,Circuit of The Americas,Lone Star Le Mans
-Fuji,Placeholder,Asia/Tokyo,26/09/2025,,28/09/2025,,Fuji Speedway,6 Hours of Fuji
-Bahrain,Placeholder,Asia/Qatar,06/11/2025,,08/11/2025,,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain
+Event,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title,Country Code
+Qatar,Free Practice 1,Asia/Qatar,29/02/2024,12:20,29/02/2024,13:50,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Free Practice 2,Asia/Qatar,29/02/2024,17:30,29/02/2024,19:00,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Free Practice 3,Asia/Qatar,29/02/2024,11:00,29/02/2024,12:00,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - LMGT3,Asia/Qatar,01/03/2024,16:00,01/03/2024,16:12,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - Hypercar,Asia/Qatar,01/03/2024,16:20,01/03/2024,16:32,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - Hyperpole LMGT3,Asia/Qatar,01/03/2024,16:40,01/03/2024,16:50,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - Hyperpole Hypercar,Asia/Qatar,01/03/2024,16:58,01/03/2024,17:08,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Race,Asia/Qatar,02/03/2024,11:00,02/03/2024,21:00,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Imola,Free Practice 1,Europe/Rome,19/04/2024,13:00,19/04/2024,14:30,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Free Practice 2,Europe/Rome,19/04/2024,18:15,19/04/2024,19:45,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Free Practice 3,Europe/Rome,20/04/2024,12:10,20/04/2024,13:10,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - LMGT3,Europe/Rome,20/04/2024,15:45,20/04/2024,15:57,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - Hypercar,Europe/Rome,20/04/2024,16:05,20/04/2024,16:17,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - Hyperpole LMGT3,Europe/Rome,20/04/2024,16:25,20/04/2024,16:35,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - Hyperpole Hypercar,Europe/Rome,20/04/2024,16:43,20/04/2024,16:53,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Race,Europe/Rome,21/04/2024,14:00,21/04/2024,20:00,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Spa-Francorchamps,Free Practice 1,Europe/Brussels,09/05/2024,12:30,09/05/2024,14:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Free Practice 2,Europe/Brussels,09/05/2024,18:30,09/05/2024,20:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Free Practice 3,Europe/Brussels,10/05/2024,12:00,10/05/2024,13:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - LMGT3,Europe/Brussels,10/05/2024,15:45,10/05/2024,15:57,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - Hypercar,Europe/Brussels,10/05/2024,16:08,10/05/2024,16:20,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - Hyperpole LMGT3,Europe/Brussels,10/05/2024,16:31,10/05/2024,16:41,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - Hyperpole Hypercar,Europe/Brussels,10/05/2024,16:51,10/05/2024,17:01,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Race,Europe/Brussels,11/05/2024,14:00,11/05/2024,20:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Le Mans,Free Practice,Europe/Paris,12/06/2024,16:00,12/06/2024,20:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Qualifying 1,Europe/Paris,12/06/2024,22:00,13/06/2024,00:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Qualifying 2,Europe/Paris,13/06/2024,19:00,13/06/2024,21:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Qualifying 3,Europe/Paris,13/06/2024,22:00,14/06/2024,00:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Race,Europe/Paris,15/06/2024,15:00,16/06/2024,15:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+São Paulo,Free Practice 1,America/Sao_Paulo,12/07/2024,10:45,12/07/2024,12:15,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Free Practice 2,America/Sao_Paulo,12/07/2024,15:15,12/07/2024,16:45,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Free Practice 3,America/Sao_Paulo,13/07/2024,10:30,13/07/2024,11:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - LMGT3,America/Sao_Paulo,13/07/2024,14:30,13/07/2024,14:42,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - Hypercar,America/Sao_Paulo,13/07/2024,14:50,13/07/2024,15:02,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - Hyperpole LMGT3,America/Sao_Paulo,13/07/2024,15:10,13/07/2024,15:20,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - Hyperpole Hypercar,America/Sao_Paulo,13/07/2024,15:30,13/07/2024,15:40,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Race,America/Sao_Paulo,14/07/2024,11:30,14/07/2024,17:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+Lone Star Le Mans,Free Practice 1,America/Chicago,30/08/2024,12:40,30/08/2024,14:10,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Free Practice 2,America/Chicago,30/08/2024,17:10,30/08/2024,18:40,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Free Practice 3,America/Chicago,31/08/2024,11:00,31/08/2024,12:00,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Qualifying - LMGT3,America/Chicago,31/08/2024,15:00,31/08/2024,15:12,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Qualifying - Hypercar,America/Chicago,31/08/2024,15:20,31/08/2024,15:32,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Qualifying - Hyperpole LMGT3,America/Chicago,31/08/2024,15:40,31/08/2024,15:50,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Qualifying - Hyperpole Hypercar,America/Chicago,31/08/2024,16:00,31/08/2024,16:10,Circuit of The Americas,Lone Star Le Mans,USA
+Lone Star Le Mans,Race,America/Chicago,01/09/2024,13:00,01/09/2024,19:00,Circuit of The Americas,Lone Star Le Mans,USA
+Fuji,Free Practice 1,Asia/Tokyo,13/09/2024,11:00,13/09/2024,12:30,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Free Practice 2,Asia/Tokyo,13/09/2024,15:30,13/09/2024,17:00,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Free Practice 3,Asia/Tokyo,14/09/2024,10:20,14/09/2024,11:20,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Qualifying - LMGT3,Asia/Tokyo,14/09/2024,14:20,14/09/2024,14:32,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Qualifying - Hypercar,Asia/Tokyo,14/09/2024,14:40,14/09/2024,14:52,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Qualifying - Hyperpole LMGT3,Asia/Tokyo,14/09/2024,15:00,14/09/2024,15:10,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Qualifying - Hyperpole Hypercar,Asia/Tokyo,14/09/2024,15:20,14/09/2024,15:30,Fuji Speedway,6 Hours of Fuji,JPN
+Fuji,Race,Asia/Tokyo,15/09/2024,11:00,15/09/2024,17:00,Fuji Speedway,6 Hours of Fuji,JPN
+Bahrain,Free Practice 1,Asia/Qatar,31/10/2024,12:15,31/10/2024,13:45,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Free Practice 2,Asia/Qatar,31/10/2024,17:30,31/10/2024,19:00,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Free Practice 3,Asia/Qatar,01/11/2024,12:00,01/11/2024,13:00,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Qualifying - LMGT3,Asia/Qatar,01/11/2024,16:00,01/11/2024,16:12,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Qualifying - Hypercar,Asia/Qatar,01/11/2024,16:20,01/11/2024,16:32,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Qualifying - Hyperpole LMGT3,Asia/Qatar,01/11/2024,16:40,01/11/2024,16:50,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Qualifying - Hyperpole Hypercar,Asia/Qatar,01/11/2024,17:00,01/11/2024,17:10,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Bahrain,Race,Asia/Qatar,02/11/2024,14:00,02/11/2024,22:00,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
+Qatar,Free Practice 1,Asia/Qatar,26/02/2025,12:20,26/02/2025,13:50,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Free Practice 2,Asia/Qatar,26/02/2025,17:30,26/02/2025,19:00,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Free Practice 3,Asia/Qatar,27/02/2025,11:30,27/02/2025,12:30,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - LMGT3,Asia/Qatar,27/02/2025,16:00,27/02/2025,16:12,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - Hypercar,Asia/Qatar,27/02/2025,16:20,27/02/2025,16:32,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - Hyperpole LMGT3,Asia/Qatar,27/02/2025,16:40,27/02/2025,16:50,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Qualifying - Hyperpole Hypercar,Asia/Qatar,27/02/2025,17:00,27/02/2025,17:10,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Qatar,Race,Asia/Qatar,28/02/2025,12:00,28/02/2025,21:00,Lusail International Circuit,Qatar Airways Qatar 1812 km,QAT
+Imola,Free Practice 1,Europe/Rome,18/04/2025,11:00,18/04/2025,12:30,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - LMGT3,Europe/Rome,18/04/2025,14:30,18/04/2025,14:42,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Free Practice 2,Europe/Rome,18/04/2025,15:50,18/04/2025,17:20,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Free Practice 3,Europe/Rome,19/04/2025,10:40,19/04/2025,11:40,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - Hyperpole LMGT3,Europe/Rome,19/04/2025,14:50,19/04/2025,15:00,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - Hypercar,Europe/Rome,19/04/2025,15:10,19/04/2025,15:22,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Qualifying - Hyperpole Hypercar,Europe/Rome,19/04/2025,15:30,19/04/2025,15:40,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Imola,Race,Europe/Rome,20/04/2025,13:00,20/04/2025,19:00,Autodromo Enzo e Dino Ferrari,6 Hours of Imola,ITA
+Spa-Francorchamps,Free Practice 1,Europe/Brussels,08/05/2025,11:30,08/05/2025,13:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Free Practice 2,Europe/Brussels,08/05/2025,16:50,08/05/2025,18:20,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Free Practice 3,Europe/Brussels,09/05/2025,11:00,09/05/2025,12:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - LMGT3,Europe/Brussels,09/05/2025,14:40,09/05/2025,14:52,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - Hyperpole LMGT3,Europe/Brussels,09/05/2025,15:03,09/05/2025,15:13,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - Hypercar,Europe/Brussels,09/05/2025,15:25,09/05/2025,15:37,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Qualifying - Hyperpole Hypercar,Europe/Brussels,09/05/2025,15:48,09/05/2025,15:58,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Spa-Francorchamps,Race,Europe/Brussels,10/05/2025,14:00,10/05/2025,20:00,Circuit de Spa-Francorchamps,TotalEnergies 6 Hours of Spa-Francorchamps,BEL
+Le Mans,Free Practice 1,Europe/Paris,11/06/2025,11:00,11/06/2025,14:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Qualifying - LMGT3 and LMP2,Europe/Paris,11/06/2025,18:45,11/06/2025,19:15,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Qualifying - Hypercar,Europe/Paris,11/06/2025,19:30,11/06/2025,20:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Free Practice 2,Europe/Paris,11/06/2025,21:00,11/06/2025,23:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Free Practice 3,Europe/Paris,12/06/2025,14:00,12/06/2025,17:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Hyperpole 1 - LMGT3 & LMP2,Europe/Paris,12/06/2025,20:00,12/06/2025,20:20,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Hyperpole 2 - LMGT3 & LMP2,Europe/Paris,12/06/2025,20:35,12/06/2025,20:50,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Hyperpole 1 - Hypercar,Europe/Paris,12/06/2025,21:05,12/06/2025,21:25,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Hyperpole 2 - Hypercar,Europe/Paris,12/06/2025,21:40,12/06/2025,21:55,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Free Practice 4,Europe/Paris,12/06/2025,22:00,12/06/2025,23:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Warm-Up,Europe/Paris,14/06/2025,12:00,14/06/2025,12:15,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+Le Mans,Race,Europe/Paris,14/06/2025,16:00,15/06/2025,16:00,Circuit de la Sarthe,24 Hours of Le Mans,FRA
+São Paulo,Free Practice 1,America/Sao_Paulo,11/07/2025,11:00,11/07/2025,12:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Free Practice 2,America/Sao_Paulo,11/07/2025,15:15,11/07/2025,16:45,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Free Practice 3,America/Sao_Paulo,12/07/2025,10:30,12/07/2025,11:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - LMGT3,America/Sao_Paulo,12/07/2025,14:50,12/07/2025,15:02,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - Hyperpole LMGT3,America/Sao_Paulo,12/07/2025,15:10,12/07/2025,15:20,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - Hypercar,America/Sao_Paulo,12/07/2025,15:30,12/07/2025,15:42,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Qualifying - Hyperpole Hypercar,America/Sao_Paulo,12/07/2025,15:50,12/07/2025,16:00,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+São Paulo,Race,America/Sao_Paulo,13/07/2025,11:30,13/07/2025,17:30,Autódromo José Carlos Pace,Rolex 6 Hours of São Paulo,BRA
+Lone Star Le Mans,Placeholder,America/Chicago,05/09/2025,,07/09/2025,,Circuit of The Americas,Lone Star Le Mans,USA
+Fuji,Placeholder,Asia/Tokyo,26/09/2025,,28/09/2025,,Fuji Speedway,6 Hours of Fuji,JPN
+Bahrain,Placeholder,Asia/Qatar,06/11/2025,,08/11/2025,,Bahrain International Circuit,Bapco Energies 8 Hours of Bahrain,BHR
