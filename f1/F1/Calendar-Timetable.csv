@@ -1,297 +1,297 @@
-Event,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title
-Sauber,Car Launch,Europe/London,05/02/2024,,05/02/2024,,,Stake F1 Team Kick Sauber
-Williams,Car Launch,Europe/London,05/02/2024,,05/02/2024,,,Williams Racing
-Alpine,Car Launch,Europe/London,07/02/2024,,07/02/2024,,,BWT Alpine F1 Team
-RB,Car Launch,America/Los_Angeles,08/02/2024,,08/02/2024,,,Visa Cash App RB
-Haas,Car Launch,Europe/London,11/02/2024,,11/02/2024,,,MoneyGram Haas F1 Team
-Aston Martin,Car Launch,Europe/London,12/02/2024,,12/02/2024,,,Aston Martin Aramco Formula One Team
-Ferrari,Car Launch,Europe/Rome,13/02/2024,,13/02/2024,,,Scuderia Ferrari
-McLaren,Car Launch,Europe/London,14/02/2024,,14/02/2024,,,McLaren Formula 1 Team
-Mercedes,Car Launch,Europe/London,14/02/2024,,14/02/2024,,,Mercedes-AMG PETRONAS Formula One Team
-Red Bull,Car Launch,Europe/London,15/02/2024,,15/02/2024,,,Oracle Red Bull Racing
-Bahrain,Morning Session,Asia/Qatar,21/02/2024,10:00,21/02/2024,14:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Afternoon Session,Asia/Qatar,21/02/2024,15:00,21/02/2024,19:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Morning Session,Asia/Qatar,22/02/2024,10:00,22/02/2024,14:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Afternoon Session,Asia/Qatar,22/02/2024,15:00,22/02/2024,19:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Morning Session,Asia/Qatar,23/02/2024,10:00,23/02/2024,14:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Afternoon Session,Asia/Qatar,23/02/2024,15:00,23/02/2024,19:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Practice 1,Asia/Qatar,29/02/2024,14:30,29/02/2024,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Practice 2,Asia/Qatar,29/02/2024,18:00,29/02/2024,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Practice 3,Asia/Qatar,01/03/2024,15:30,01/03/2024,16:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Qualifying,Asia/Qatar,01/03/2024,19:00,01/03/2024,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Race,Asia/Qatar,02/03/2024,18:00,02/03/2024,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Saudi Arabia,Practice 1,Asia/Riyadh,07/03/2024,16:30,07/03/2024,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Practice 2,Asia/Riyadh,07/03/2024,20:00,07/03/2024,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Practice 3,Asia/Riyadh,08/03/2024,16:30,08/03/2024,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Qualifying,Asia/Riyadh,08/03/2024,20:00,08/03/2024,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Race,Asia/Riyadh,09/03/2024,20:00,09/03/2024,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Australia,Practice 1,Australia/Melbourne,22/03/2024,12:30,22/03/2024,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-Australia,Practice 2,Australia/Melbourne,22/03/2024,16:00,22/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-Australia,Practice 3,Australia/Melbourne,23/03/2024,12:30,23/03/2024,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-Australia,Qualifying,Australia/Melbourne,23/03/2024,16:00,23/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-Australia,Race,Australia/Melbourne,24/03/2024,15:00,24/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix
-Japan,Practice 1,Asia/Tokyo,05/04/2024,11:30,05/04/2024,12:30,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
-Japan,Practice 2,Asia/Tokyo,05/04/2024,15:00,05/04/2024,16:00,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
-Japan,Practice 3,Asia/Tokyo,06/04/2024,11:30,06/04/2024,12:30,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
-Japan,Qualifying,Asia/Tokyo,06/04/2024,15:00,06/04/2024,16:00,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
-Japan,Race,Asia/Tokyo,07/04/2024,14:00,07/04/2024,16:00,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix
-China,Practice 1,Asia/Shanghai,19/04/2024,11:30,19/04/2024,12:30,Shanghai International Circuit,Lenovo Chinese Grand Prix
-China,Sprint Qualifying,Asia/Shanghai,19/04/2024,15:30,19/04/2024,16:14,Shanghai International Circuit,Lenovo Chinese Grand Prix
-China,Sprint,Asia/Shanghai,20/04/2024,11:00,20/04/2024,12:00,Shanghai International Circuit,Lenovo Chinese Grand Prix
-China,Qualifying,Asia/Shanghai,20/04/2024,15:00,20/04/2024,16:00,Shanghai International Circuit,Lenovo Chinese Grand Prix
-China,Race,Asia/Shanghai,21/04/2024,15:00,21/04/2024,17:00,Shanghai International Circuit,Lenovo Chinese Grand Prix
-Miami,Practice 1,America/New_York,03/05/2024,12:30,03/05/2024,13:30,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Sprint Qualifying,America/New_York,03/05/2024,16:30,03/05/2024,17:14,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Sprint,America/New_York,04/05/2024,12:00,04/05/2024,13:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Qualifying,America/New_York,04/05/2024,16:00,04/05/2024,17:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Race,America/New_York,05/05/2024,16:00,05/05/2024,18:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Emilia Romagna,Practice 1,Europe/Rome,17/05/2024,13:30,17/05/2024,14:30,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Practice 2,Europe/Rome,17/05/2024,17:00,17/05/2024,18:00,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Practice 3,Europe/Rome,18/05/2024,12:30,18/05/2024,13:30,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Qualifying,Europe/Rome,18/05/2024,16:00,18/05/2024,17:00,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Race,Europe/Rome,19/05/2024,15:00,19/05/2024,17:00,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna
-Monaco,Practice 1,Europe/Paris,24/05/2024,13:30,24/05/2024,14:30,Circuit de Monaco,Grand Prix de Monaco
-Monaco,Practice 2,Europe/Paris,24/05/2024,17:00,24/05/2024,18:00,Circuit de Monaco,Grand Prix de Monaco
-Monaco,Practice 3,Europe/Paris,25/05/2024,12:30,25/05/2024,13:30,Circuit de Monaco,Grand Prix de Monaco
-Monaco,Qualifying,Europe/Paris,25/05/2024,16:00,25/05/2024,17:00,Circuit de Monaco,Grand Prix de Monaco
-Monaco,Race,Europe/Paris,26/05/2024,15:00,26/05/2024,17:00,Circuit de Monaco,Grand Prix de Monaco
-Canada,Practice 1,America/Montreal,07/06/2024,13:30,07/06/2024,14:30,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
-Canada,Practice 2,America/Montreal,07/06/2024,17:00,07/06/2024,18:00,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
-Canada,Practice 3,America/Montreal,08/06/2024,12:30,08/06/2024,13:30,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
-Canada,Qualifying,America/Montreal,08/06/2024,16:00,08/06/2024,17:00,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
-Canada,Race,America/Montreal,09/06/2024,14:00,09/06/2024,16:00,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada
-Spain,Practice 1,Europe/Madrid,21/06/2024,13:30,21/06/2024,14:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Practice 2,Europe/Madrid,21/06/2024,17:00,21/06/2024,18:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Practice 3,Europe/Madrid,22/06/2024,12:30,22/06/2024,13:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Qualifying,Europe/Madrid,22/06/2024,16:00,22/06/2024,17:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Spain,Race,Europe/Madrid,23/06/2024,15:00,23/06/2024,17:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España
-Austria,Practice 1,Europe/Vienna,28/06/2024,12:30,28/06/2024,13:30,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
-Austria,Sprint Qualifying,Europe/Vienna,28/06/2024,16:30,28/06/2024,17:14,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
-Austria,Sprint,Europe/Vienna,29/06/2024,12:00,29/06/2024,13:00,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
-Austria,Qualifying,Europe/Vienna,29/06/2024,16:00,29/06/2024,17:00,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
-Austria,Race,Europe/Vienna,30/06/2024,15:00,30/06/2024,17:00,Red Bull Ring,Qatar Airways Grosser Preis von Österreich
-Great Britain,Practice 1,Europe/London,05/07/2024,12:30,05/07/2024,13:30,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Practice 2,Europe/London,05/07/2024,16:00,05/07/2024,17:00,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Practice 3,Europe/London,06/07/2024,11:30,06/07/2024,12:30,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Qualifying,Europe/London,06/07/2024,15:00,06/07/2024,16:00,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Race,Europe/London,07/07/2024,15:00,07/07/2024,17:00,Silverstone,Qatar Airways British Grand Prix
-Hungary,Practice 1,Europe/Budapest,19/07/2024,13:30,19/07/2024,14:30,Hungaroring,Magyar Nagydíj
-Hungary,Practice 2,Europe/Budapest,19/07/2024,17:00,19/07/2024,18:00,Hungaroring,Magyar Nagydíj
-Hungary,Practice 3,Europe/Budapest,20/07/2024,12:30,20/07/2024,13:30,Hungaroring,Magyar Nagydíj
-Hungary,Qualifying,Europe/Budapest,20/07/2024,16:00,20/07/2024,17:00,Hungaroring,Magyar Nagydíj
-Hungary,Race,Europe/Budapest,21/07/2024,15:00,21/07/2024,17:00,Hungaroring,Magyar Nagydíj
-Belgium,Practice 1,Europe/Brussels,26/07/2024,13:30,26/07/2024,14:30,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
-Belgium,Practice 2,Europe/Brussels,26/07/2024,17:00,26/07/2024,18:00,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
-Belgium,Practice 3,Europe/Brussels,27/07/2024,12:30,27/07/2024,13:30,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
-Belgium,Qualifying,Europe/Brussels,27/07/2024,16:00,27/07/2024,17:00,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
-Belgium,Race,Europe/Brussels,28/07/2024,15:00,28/07/2024,17:00,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix
-Netherlands,Practice 1,Europe/Amsterdam,23/08/2024,12:30,23/08/2024,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Practice 2,Europe/Amsterdam,23/08/2024,16:00,23/08/2024,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Practice 3,Europe/Amsterdam,24/08/2024,11:30,24/08/2024,12:30,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Qualifying,Europe/Amsterdam,24/08/2024,15:00,24/08/2024,16:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Race,Europe/Amsterdam,25/08/2024,15:00,25/08/2024,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Italy,Practice 1,Europe/Rome,30/08/2024,13:30,30/08/2024,14:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Practice 2,Europe/Rome,30/08/2024,17:00,30/08/2024,18:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Practice 3,Europe/Rome,31/08/2024,12:30,31/08/2024,13:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Qualifying,Europe/Rome,31/08/2024,16:00,31/08/2024,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Race,Europe/Rome,01/09/2024,15:00,01/09/2024,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Azerbaijan,Practice 1,Asia/Baku,13/09/2024,13:30,13/09/2024,14:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Practice 2,Asia/Baku,13/09/2024,17:00,13/09/2024,18:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Practice 3,Asia/Baku,14/09/2024,12:30,14/09/2024,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Qualifying,Asia/Baku,14/09/2024,16:00,14/09/2024,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Race,Asia/Baku,15/09/2024,15:00,15/09/2024,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Singapore,Practice 1,Asia/Singapore,20/09/2024,17:30,20/09/2024,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Practice 2,Asia/Singapore,20/09/2024,21:00,20/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Practice 3,Asia/Singapore,21/09/2024,17:30,21/09/2024,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Qualifying,Asia/Singapore,21/09/2024,21:00,21/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Race,Asia/Singapore,22/09/2024,20:00,22/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-USA,Practice 1,America/Chicago,18/10/2024,12:30,18/10/2024,13:30,Circuit of The Americas,Pirelli United States Grand Prix
-USA,Sprint Qualifying,America/Chicago,18/10/2024,16:30,18/10/2024,17:14,Circuit of The Americas,Pirelli United States Grand Prix
-USA,Sprint,America/Chicago,19/10/2024,13:00,19/10/2024,14:00,Circuit of The Americas,Pirelli United States Grand Prix
-USA,Qualifying,America/Chicago,19/10/2024,17:00,19/10/2024,18:00,Circuit of The Americas,Pirelli United States Grand Prix
-USA,Race,America/Chicago,20/10/2024,14:00,20/10/2024,16:00,Circuit of The Americas,Pirelli United States Grand Prix
-Mexico,Practice 1,America/Mexico_City,25/10/2024,12:30,25/10/2024,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Practice 2,America/Mexico_City,25/10/2024,16:00,25/10/2024,17:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Practice 3,America/Mexico_City,26/10/2024,11:30,26/10/2024,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Qualifying,America/Mexico_City,26/10/2024,15:00,26/10/2024,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Race,America/Mexico_City,27/10/2024,14:00,27/10/2024,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Brazil,Practice 1,America/Sao_Paulo,01/11/2024,11:30,01/11/2024,12:30,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
-Brazil,Sprint Qualifying,America/Sao_Paulo,01/11/2024,15:30,01/11/2024,16:14,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
-Brazil,Sprint,America/Sao_Paulo,02/11/2024,11:00,02/11/2024,12:00,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
-Brazil,Qualifying,America/Sao_Paulo,03/11/2024,07:30,03/11/2024,08:30,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
-Brazil,Race,America/Sao_Paulo,03/11/2024,12:30,03/11/2024,14:30,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo
-Las Vegas,Practice 1,America/Los_Angeles,21/11/2024,18:30,21/11/2024,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix
-Las Vegas,Practice 2,America/Los_Angeles,21/11/2024,22:00,21/11/2024,23:00,Las Vegas,Heineken Silver Las Vegas Grand Prix
-Las Vegas,Practice 3,America/Los_Angeles,22/11/2024,18:30,22/11/2024,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix
-Las Vegas,Qualifying,America/Los_Angeles,22/11/2024,22:00,22/11/2024,23:00,Las Vegas,Heineken Silver Las Vegas Grand Prix
-Las Vegas,Race,America/Los_Angeles,23/11/2024,22:00,24/11/2024,00:00,Las Vegas,Heineken Silver Las Vegas Grand Prix
-Qatar,Practice 1,Asia/Qatar,29/11/2024,16:30,29/11/2024,17:30,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Sprint Qualifying,Asia/Qatar,29/11/2024,20:30,29/11/2024,21:14,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Sprint,Asia/Qatar,30/11/2024,17:00,30/11/2024,18:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Qualifying,Asia/Qatar,30/11/2024,21:00,30/11/2024,22:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Race,Asia/Qatar,01/12/2024,19:00,01/12/2024,21:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Abu Dhabi,Practice 1,Asia/Dubai,06/12/2024,13:30,06/12/2024,14:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Practice 2,Asia/Dubai,06/12/2024,17:00,06/12/2024,18:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Practice 3,Asia/Dubai,07/12/2024,14:30,07/12/2024,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Qualifying,Asia/Dubai,07/12/2024,18:00,07/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Race,Asia/Dubai,08/12/2024,17:00,08/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-McLaren,Car Launch,Europe/London,13/02/2025,,13/02/2025,,Silverstone,McLaren Formula 1 Team
-Williams,Car Launch,Europe/London,14/02/2025,,14/02/2025,,Silverstone,Atlassian Williams Racing
-Haas F1 Team,Car Launch,Europe/London,16/02/2025,,16/02/2025,,Silverstone,MoneyGram Haas F1 Team
-London,Season Launch,Europe/London,18/02/2025,20:00,18/02/2025,22:00,The O2 arena,F1 75 Live
-Ferrari,Car Launch,Europe/Rome,19/02/2025,,19/02/2025,,Fiorano,Scuderia Ferrari HP
-Aston Martin,Car Launch,Europe/London,23/02/2025,,23/02/2025,,Online,Aston Martin Aramco Formula One Team
-Mercedes,Car Launch,Europe/London,24/02/2025,,24/02/2025,,,Mercedes-AMG PETRONAS Formula One Team
-Bahrain,Morning Session,Asia/Qatar,26/02/2025,10:00,26/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Afternoon Session,Asia/Qatar,26/02/2025,15:00,26/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Morning Session,Asia/Qatar,27/02/2025,10:00,27/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Afternoon Session,Asia/Qatar,27/02/2025,15:00,27/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Morning Session,Asia/Qatar,28/02/2025,10:00,28/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Afternoon Session,Asia/Qatar,28/02/2025,15:00,28/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing
-Australia,Practice 1,Australia/Melbourne,14/03/2025,12:30,14/03/2025,13:30,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
-Australia,Practice 2,Australia/Melbourne,14/03/2025,16:00,14/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
-Australia,Practice 3,Australia/Melbourne,15/03/2025,12:30,15/03/2025,13:30,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
-Australia,Qualifying,Australia/Melbourne,15/03/2025,16:00,15/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
-Australia,Race,Australia/Melbourne,16/03/2025,15:00,16/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
-China,Practice 1,Asia/Shanghai,21/03/2025,12:30,21/03/2025,13:30,Shanghai International Circuit,Heineken Chinese Grand Prix
-China,Sprint Qualifying,Asia/Shanghai,21/03/2025,15:30,21/03/2025,16:15,Shanghai International Circuit,Heineken Chinese Grand Prix
-China,Sprint,Asia/Shanghai,22/03/2025,11:00,22/03/2025,12:00,Shanghai International Circuit,Heineken Chinese Grand Prix
-China,Qualifying,Asia/Shanghai,22/03/2025,15:00,22/03/2025,16:00,Shanghai International Circuit,Heineken Chinese Grand Prix
-China,Race,Asia/Shanghai,23/03/2025,15:00,23/03/2025,17:00,Shanghai International Circuit,Heineken Chinese Grand Prix
-Japan,Practice 1,Asia/Tokyo,04/04/2025,11:30,04/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Practice 2,Asia/Tokyo,04/04/2025,15:00,04/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Practice 3,Asia/Tokyo,05/04/2025,11:30,05/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Qualifying,Asia/Tokyo,05/04/2025,15:00,05/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Japan,Race,Asia/Tokyo,06/04/2025,14:00,06/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Bahrain,Practice 1,Asia/Qatar,11/04/2025,14:30,11/04/2025,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Practice 2,Asia/Qatar,11/04/2025,18:00,11/04/2025,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Practice 3,Asia/Qatar,12/04/2025,15:30,12/04/2025,16:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Qualifying,Asia/Qatar,12/04/2025,19:00,12/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Bahrain,Race,Asia/Qatar,13/04/2025,18:00,13/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Saudi Arabia,Practice 1,Asia/Riyadh,18/04/2025,16:30,18/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Practice 2,Asia/Riyadh,18/04/2025,20:00,18/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Practice 3,Asia/Riyadh,19/04/2025,16:30,19/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Qualifying,Asia/Riyadh,19/04/2025,20:00,19/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Saudi Arabia,Race,Asia/Riyadh,20/04/2025,20:00,20/04/2025,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Miami,Practice 1,America/New_York,02/05/2025,12:30,02/05/2025,13:30,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Sprint Qualifying,America/New_York,02/05/2025,16:30,02/05/2025,17:15,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Sprint,America/New_York,03/05/2025,12:00,03/05/2025,13:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Qualifying,America/New_York,03/05/2025,16:00,03/05/2025,17:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Miami,Race,America/New_York,04/05/2025,16:00,04/05/2025,18:00,Miami International Autodrome,crypto.com Miami Grand Prix
-Emilia Romagna,Practice 1,Europe/Rome,16/05/2025,13:30,16/05/2025,14:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Practice 2,Europe/Rome,16/05/2025,17:00,16/05/2025,18:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Practice 3,Europe/Rome,17/05/2025,12:30,17/05/2025,13:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Qualifying,Europe/Rome,17/05/2025,16:00,17/05/2025,17:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
-Emilia Romagna,Race,Europe/Rome,18/05/2025,15:00,18/05/2025,17:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna
-Monaco,Practice 1,Europe/Paris,23/05/2025,13:30,23/05/2025,14:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Monaco,Practice 2,Europe/Paris,23/05/2025,17:00,23/05/2025,18:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Monaco,Practice 3,Europe/Paris,24/05/2025,12:30,24/05/2025,13:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Monaco,Qualifying,Europe/Paris,24/05/2025,16:00,24/05/2025,17:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Monaco,Race,Europe/Paris,25/05/2025,15:00,25/05/2025,17:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Spain,Practice 1,Europe/Madrid,30/05/2025,13:30,30/05/2025,14:30,Madring,Gran Premio de España
-Spain,Practice 2,Europe/Madrid,30/05/2025,17:00,30/05/2025,18:00,Madring,Gran Premio de España
-Spain,Practice 3,Europe/Madrid,31/05/2025,12:30,31/05/2025,13:30,Madring,Gran Premio de España
-Spain,Qualifying,Europe/Madrid,31/05/2025,16:00,31/05/2025,17:00,Madring,Gran Premio de España
-Spain,Race,Europe/Madrid,01/06/2025,15:00,01/06/2025,17:00,Madring,Gran Premio de España
-Canada,Practice 1,America/Montreal,13/06/2025,13:30,13/06/2025,14:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Canada,Practice 2,America/Montreal,13/06/2025,17:00,13/06/2025,18:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Canada,Practice 3,America/Montreal,14/06/2025,12:30,14/06/2025,13:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Canada,Qualifying,America/Montreal,14/06/2025,16:00,14/06/2025,17:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Canada,Race,America/Montreal,15/06/2025,14:00,15/06/2025,16:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Austria,Practice 1,Europe/Vienna,27/06/2025,13:30,27/06/2025,14:30,Red Bull Ring,MSC Cruises Austrian Grand Prix
-Austria,Practice 2,Europe/Vienna,27/06/2025,17:00,27/06/2025,18:00,Red Bull Ring,MSC Cruises Austrian Grand Prix
-Austria,Practice 3,Europe/Vienna,28/06/2025,12:30,28/06/2025,13:30,Red Bull Ring,MSC Cruises Austrian Grand Prix
-Austria,Qualifying,Europe/Vienna,28/06/2025,16:00,28/06/2025,17:00,Red Bull Ring,MSC Cruises Austrian Grand Prix
-Austria,Race,Europe/Vienna,29/06/2025,15:00,29/06/2025,17:00,Red Bull Ring,MSC Cruises Austrian Grand Prix
-Great Britain,Practice 1,Europe/London,04/07/2025,12:30,04/07/2025,13:30,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Practice 2,Europe/London,04/07/2025,16:00,04/07/2025,17:00,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Practice 3,Europe/London,05/07/2025,11:30,05/07/2025,12:30,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Qualifying,Europe/London,05/07/2025,15:00,05/07/2025,16:00,Silverstone,Qatar Airways British Grand Prix
-Great Britain,Race,Europe/London,06/07/2025,15:00,06/07/2025,17:00,Silverstone,Qatar Airways British Grand Prix
-Belgium,Practice 1,Europe/Brussels,25/07/2025,12:30,25/07/2025,13:30,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
-Belgium,Sprint Qualifying,Europe/Brussels,25/07/2025,16:30,25/07/2025,17:15,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
-Belgium,Sprint,Europe/Brussels,26/07/2025,12:00,26/07/2025,13:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
-Belgium,Qualifying,Europe/Brussels,26/07/2025,16:00,26/07/2025,17:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
-Belgium,Race,Europe/Brussels,27/07/2025,15:00,27/07/2025,17:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
-Hungary,Practice 1,Europe/Budapest,01/08/2025,13:30,01/08/2025,14:30,Hungaroring,Lenovo Hungarian Grand Prix
-Hungary,Practice 2,Europe/Budapest,01/08/2025,17:00,01/08/2025,18:00,Hungaroring,Lenovo Hungarian Grand Prix
-Hungary,Practice 3,Europe/Budapest,02/08/2025,12:30,02/08/2025,13:30,Hungaroring,Lenovo Hungarian Grand Prix
-Hungary,Qualifying,Europe/Budapest,02/08/2025,16:00,02/08/2025,17:00,Hungaroring,Lenovo Hungarian Grand Prix
-Hungary,Race,Europe/Budapest,03/08/2025,15:00,03/08/2025,17:00,Hungaroring,Lenovo Hungarian Grand Prix
-Netherlands,Practice 1,Europe/Amsterdam,29/08/2025,13:30,29/08/2025,14:30,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Practice 2,Europe/Amsterdam,29/08/2025,17:00,29/08/2025,18:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Practice 3,Europe/Amsterdam,30/08/2025,12:30,30/08/2025,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Qualifying,Europe/Amsterdam,30/08/2025,16:00,30/08/2025,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Netherlands,Race,Europe/Amsterdam,31/08/2025,16:00,31/08/2025,18:00,Circuit Zandvoort,Heineken Dutch Grand Prix
-Italy,Practice 1,Europe/Rome,05/09/2025,13:30,05/09/2025,14:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Practice 2,Europe/Rome,05/09/2025,17:00,05/09/2025,18:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Practice 3,Europe/Rome,06/09/2025,12:30,06/09/2025,13:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Qualifying,Europe/Rome,06/09/2025,16:00,06/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Italy,Race,Europe/Rome,07/09/2025,15:00,07/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Azerbaijan,Practice 1,Asia/Baku,19/09/2025,12:30,19/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Practice 2,Asia/Baku,19/09/2025,16:00,19/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Practice 3,Asia/Baku,20/09/2025,12:30,20/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Qualifying,Asia/Baku,20/09/2025,16:00,20/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Azerbaijan,Race,Asia/Baku,21/09/2025,15:00,21/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Singapore,Practice 1,Asia/Singapore,03/10/2025,17:30,03/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Practice 2,Asia/Singapore,03/10/2025,21:00,03/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Practice 3,Asia/Singapore,04/10/2025,17:30,04/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Qualifying,Asia/Singapore,04/10/2025,21:00,04/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-Singapore,Race,Asia/Singapore,05/10/2025,20:00,05/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-United States,Practice 1,America/Chicago,17/10/2025,12:30,17/10/2025,13:30,Circuit of The Americas,MSC Cruises United States Grand Prix
-United States,Sprint Qualifying,America/Chicago,17/10/2025,16:30,17/10/2025,17:15,Circuit of The Americas,MSC Cruises United States Grand Prix
-United States,Sprint,America/Chicago,18/10/2025,12:00,18/10/2025,13:00,Circuit of The Americas,MSC Cruises United States Grand Prix
-United States,Qualifying,America/Chicago,18/10/2025,16:00,18/10/2025,17:00,Circuit of The Americas,MSC Cruises United States Grand Prix
-United States,Race,America/Chicago,19/10/2025,14:00,19/10/2025,16:00,Circuit of The Americas,MSC Cruises United States Grand Prix
-Mexico,Practice 1,America/Mexico_City,24/10/2025,12:30,24/10/2025,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Practice 2,America/Mexico_City,24/10/2025,16:00,24/10/2025,17:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Practice 3,America/Mexico_City,25/10/2025,11:30,25/10/2025,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Qualifying,America/Mexico_City,25/10/2025,15:00,25/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Mexico,Race,America/Mexico_City,26/10/2025,14:00,26/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Brazil,Practice 1,America/Sao_Paulo,07/11/2025,11:30,07/11/2025,12:30,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
-Brazil,Sprint Qualifying,America/Sao_Paulo,07/11/2025,15:30,07/11/2025,16:15,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
-Brazil,Sprint,America/Sao_Paulo,08/11/2025,11:00,08/11/2025,12:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
-Brazil,Qualifying,America/Sao_Paulo,08/11/2025,15:00,08/11/2025,16:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
-Brazil,Race,America/Sao_Paulo,09/11/2025,14:00,09/11/2025,16:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
-Las Vegas,Practice 1,America/Los_Angeles,20/11/2025,16:30,20/11/2025,17:30,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Las Vegas,Practice 2,America/Los_Angeles,20/11/2025,20:00,20/11/2025,21:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Las Vegas,Practice 3,America/Los_Angeles,21/11/2025,16:30,21/11/2025,17:30,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Las Vegas,Qualifying,America/Los_Angeles,21/11/2025,20:00,21/11/2025,21:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Las Vegas,Race,America/Los_Angeles,22/11/2025,20:00,22/11/2025,22:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Qatar,Practice 1,Asia/Qatar,28/11/2025,16:30,28/11/2025,17:30,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Sprint Qualifying,Asia/Qatar,28/11/2025,20:20,28/11/2025,21:05,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Sprint,Asia/Qatar,29/11/2025,17:00,29/11/2025,18:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Qualifying,Asia/Qatar,29/11/2025,21:00,29/11/2025,22:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Qatar,Race,Asia/Qatar,30/11/2025,19:00,30/11/2025,21:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Abu Dhabi,Practice 1,Asia/Dubai,05/12/2025,13:30,05/12/2025,14:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Practice 2,Asia/Dubai,05/12/2025,17:00,05/12/2025,18:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Practice 3,Asia/Dubai,06/12/2025,14:30,06/12/2025,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Qualifying,Asia/Dubai,06/12/2025,18:00,06/12/2025,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Abu Dhabi,Race,Asia/Dubai,07/12/2025,17:00,07/12/2025,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
-Barcelona-Catalunya,Placeholder,Europe/Madrid,26/01/2026,,30/01/2026,,Circuit de Barcelona-Catalunya,Pre-Season Testing
-Bahrain,Placeholder,Asia/Qatar,11/02/2026,,13/02/2026,,Bahrain International Circuit,Pre-Season Testing
-Bahrain,Placeholder,Asia/Qatar,18/02/2026,,20/02/2026,,Bahrain International Circuit,Pre-Season Testing
-Australia,Placeholder,Australia/Melbourne,06/03/2026,,08/03/2026,,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix
-China,Placeholder,Asia/Shanghai,13/03/2026,,15/03/2026,,Shanghai International Circuit,Heineken Chinese Grand Prix
-Japan,Placeholder,Asia/Tokyo,27/03/2026,,29/03/2026,,Suzuka International Racing Course,Lenovo Japanese Grand Prix
-Bahrain,Placeholder,Asia/Qatar,10/04/2026,,12/04/2026,,Bahrain International Circuit,Gulf Air Bahrain Grand Prix
-Saudi Arabia,Placeholder,Asia/Riyadh,17/04/2026,,19/04/2026,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix
-Miami,Placeholder,America/New_York,01/05/2026,,03/05/2026,,Miami International Autodrome,crypto.com Miami Grand Prix
-Canada,Placeholder,America/Montreal,22/05/2026,,24/05/2026,,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada
-Monaco,Placeholder,Europe/Paris,05/06/2026,,07/06/2026,,Circuit de Monaco,TAG Heuer Grand Prix de Monaco
-Barcelona-Catalunya,Placeholder,Europe/Madrid,12/06/2026,,14/06/2026,,Circuit de Barcelona-Catalunya,Gran Premio de Barcelona-Catalunya
-Austria,Placeholder,Europe/Vienna,26/06/2026,,28/06/2026,,Red Bull Ring,MSC Cruises Austrian Grand Prix
-Great Britain,Placeholder,Europe/London,03/07/2026,,05/07/2026,,Silverstone,Qatar Airways British Grand Prix
-Belgium,Placeholder,Europe/Brussels,17/07/2026,,19/07/2026,,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix
-Hungary,Placeholder,Europe/Budapest,24/07/2026,,26/07/2026,,Hungaroring,Lenovo Hungarian Grand Prix
-Netherlands,Placeholder,Europe/Amsterdam,21/08/2026,,23/08/2026,,Circuit Zandvoort,Heineken Dutch Grand Prix
-Italy,Placeholder,Europe/Rome,04/09/2026,,06/09/2026,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia
-Spain,Placeholder,Europe/Madrid,11/09/2026,,13/09/2026,,Madring,Gran Premio de España
-Azerbaijan,Placeholder,Asia/Baku,24/09/2026,,26/09/2026,,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix
-Singapore,Placeholder,Asia/Singapore,09/10/2026,,11/10/2026,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix
-United States,Placeholder,America/Chicago,23/10/2026,,25/10/2026,,Circuit of The Americas,MSC Cruises United States Grand Prix
-Mexico,Placeholder,America/Mexico_City,30/10/2026,,01/11/2026,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México
-Brazil,Placeholder,America/Sao_Paulo,06/11/2026,,08/11/2026,,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo
-Las Vegas,Placeholder,America/Los_Angeles,19/11/2026,,21/11/2026,,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix
-Qatar,Placeholder,Asia/Qatar,27/11/2026,,29/11/2026,,Lusail International Circuit,Qatar Airways Qatar Grand Prix
-Abu Dhabi,Placeholder,Asia/Dubai,04/12/2026,,06/12/2026,,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix
+Event,Session,Timezone,Start Date,Start Time,End Date,End Time,Circuit,Title,Country Code
+Sauber,Car Launch,Europe/London,05/02/2024,,05/02/2024,,,Stake F1 Team Kick Sauber,GBR
+Williams,Car Launch,Europe/London,05/02/2024,,05/02/2024,,,Williams Racing,GBR
+Alpine,Car Launch,Europe/London,07/02/2024,,07/02/2024,,,BWT Alpine F1 Team,GBR
+RB,Car Launch,America/Los_Angeles,08/02/2024,,08/02/2024,,,Visa Cash App RB,USA
+Haas,Car Launch,Europe/London,11/02/2024,,11/02/2024,,,MoneyGram Haas F1 Team,GBR
+Aston Martin,Car Launch,Europe/London,12/02/2024,,12/02/2024,,,Aston Martin Aramco Formula One Team,GBR
+Ferrari,Car Launch,Europe/Rome,13/02/2024,,13/02/2024,,,Scuderia Ferrari,ITA
+McLaren,Car Launch,Europe/London,14/02/2024,,14/02/2024,,,McLaren Formula 1 Team,GBR
+Mercedes,Car Launch,Europe/London,14/02/2024,,14/02/2024,,,Mercedes-AMG PETRONAS Formula One Team,GBR
+Red Bull,Car Launch,Europe/London,15/02/2024,,15/02/2024,,,Oracle Red Bull Racing,GBR
+Bahrain,Morning Session,Asia/Qatar,21/02/2024,10:00,21/02/2024,14:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Afternoon Session,Asia/Qatar,21/02/2024,15:00,21/02/2024,19:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Morning Session,Asia/Qatar,22/02/2024,10:00,22/02/2024,14:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Afternoon Session,Asia/Qatar,22/02/2024,15:00,22/02/2024,19:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Morning Session,Asia/Qatar,23/02/2024,10:00,23/02/2024,14:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Afternoon Session,Asia/Qatar,23/02/2024,15:00,23/02/2024,19:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Practice 1,Asia/Qatar,29/02/2024,14:30,29/02/2024,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Practice 2,Asia/Qatar,29/02/2024,18:00,29/02/2024,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Practice 3,Asia/Qatar,01/03/2024,15:30,01/03/2024,16:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Qualifying,Asia/Qatar,01/03/2024,19:00,01/03/2024,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Race,Asia/Qatar,02/03/2024,18:00,02/03/2024,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Saudi Arabia,Practice 1,Asia/Riyadh,07/03/2024,16:30,07/03/2024,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Practice 2,Asia/Riyadh,07/03/2024,20:00,07/03/2024,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Practice 3,Asia/Riyadh,08/03/2024,16:30,08/03/2024,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Qualifying,Asia/Riyadh,08/03/2024,20:00,08/03/2024,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Race,Asia/Riyadh,09/03/2024,20:00,09/03/2024,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Australia,Practice 1,Australia/Melbourne,22/03/2024,12:30,22/03/2024,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix,AUS
+Australia,Practice 2,Australia/Melbourne,22/03/2024,16:00,22/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix,AUS
+Australia,Practice 3,Australia/Melbourne,23/03/2024,12:30,23/03/2024,13:30,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix,AUS
+Australia,Qualifying,Australia/Melbourne,23/03/2024,16:00,23/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix,AUS
+Australia,Race,Australia/Melbourne,24/03/2024,15:00,24/03/2024,17:00,Melbourne Grand Prix Circuit,Rolex Australian Grand Prix,AUS
+Japan,Practice 1,Asia/Tokyo,05/04/2024,11:30,05/04/2024,12:30,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix,JPN
+Japan,Practice 2,Asia/Tokyo,05/04/2024,15:00,05/04/2024,16:00,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix,JPN
+Japan,Practice 3,Asia/Tokyo,06/04/2024,11:30,06/04/2024,12:30,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix,JPN
+Japan,Qualifying,Asia/Tokyo,06/04/2024,15:00,06/04/2024,16:00,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix,JPN
+Japan,Race,Asia/Tokyo,07/04/2024,14:00,07/04/2024,16:00,Suzuka International Racing Course,MSC Cruises Japanese Grand Prix,JPN
+China,Practice 1,Asia/Shanghai,19/04/2024,11:30,19/04/2024,12:30,Shanghai International Circuit,Lenovo Chinese Grand Prix,CHN
+China,Sprint Qualifying,Asia/Shanghai,19/04/2024,15:30,19/04/2024,16:14,Shanghai International Circuit,Lenovo Chinese Grand Prix,CHN
+China,Sprint,Asia/Shanghai,20/04/2024,11:00,20/04/2024,12:00,Shanghai International Circuit,Lenovo Chinese Grand Prix,CHN
+China,Qualifying,Asia/Shanghai,20/04/2024,15:00,20/04/2024,16:00,Shanghai International Circuit,Lenovo Chinese Grand Prix,CHN
+China,Race,Asia/Shanghai,21/04/2024,15:00,21/04/2024,17:00,Shanghai International Circuit,Lenovo Chinese Grand Prix,CHN
+Miami,Practice 1,America/New_York,03/05/2024,12:30,03/05/2024,13:30,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Sprint Qualifying,America/New_York,03/05/2024,16:30,03/05/2024,17:14,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Sprint,America/New_York,04/05/2024,12:00,04/05/2024,13:00,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Qualifying,America/New_York,04/05/2024,16:00,04/05/2024,17:00,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Race,America/New_York,05/05/2024,16:00,05/05/2024,18:00,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Emilia Romagna,Practice 1,Europe/Rome,17/05/2024,13:30,17/05/2024,14:30,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Practice 2,Europe/Rome,17/05/2024,17:00,17/05/2024,18:00,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Practice 3,Europe/Rome,18/05/2024,12:30,18/05/2024,13:30,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Qualifying,Europe/Rome,18/05/2024,16:00,18/05/2024,17:00,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Race,Europe/Rome,19/05/2024,15:00,19/05/2024,17:00,Autodromo Enzo e Dino Ferrari,MSC Cruises Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Monaco,Practice 1,Europe/Paris,24/05/2024,13:30,24/05/2024,14:30,Circuit de Monaco,Grand Prix de Monaco,MCO
+Monaco,Practice 2,Europe/Paris,24/05/2024,17:00,24/05/2024,18:00,Circuit de Monaco,Grand Prix de Monaco,MCO
+Monaco,Practice 3,Europe/Paris,25/05/2024,12:30,25/05/2024,13:30,Circuit de Monaco,Grand Prix de Monaco,MCO
+Monaco,Qualifying,Europe/Paris,25/05/2024,16:00,25/05/2024,17:00,Circuit de Monaco,Grand Prix de Monaco,MCO
+Monaco,Race,Europe/Paris,26/05/2024,15:00,26/05/2024,17:00,Circuit de Monaco,Grand Prix de Monaco,MCO
+Canada,Practice 1,America/Montreal,07/06/2024,13:30,07/06/2024,14:30,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,CAN
+Canada,Practice 2,America/Montreal,07/06/2024,17:00,07/06/2024,18:00,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,CAN
+Canada,Practice 3,America/Montreal,08/06/2024,12:30,08/06/2024,13:30,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,CAN
+Canada,Qualifying,America/Montreal,08/06/2024,16:00,08/06/2024,17:00,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,CAN
+Canada,Race,America/Montreal,09/06/2024,14:00,09/06/2024,16:00,Circuit Gilles-Villeneuve,AWS Grand Prix du Canada,CAN
+Spain,Practice 1,Europe/Madrid,21/06/2024,13:30,21/06/2024,14:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España,ESP
+Spain,Practice 2,Europe/Madrid,21/06/2024,17:00,21/06/2024,18:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España,ESP
+Spain,Practice 3,Europe/Madrid,22/06/2024,12:30,22/06/2024,13:30,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España,ESP
+Spain,Qualifying,Europe/Madrid,22/06/2024,16:00,22/06/2024,17:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España,ESP
+Spain,Race,Europe/Madrid,23/06/2024,15:00,23/06/2024,17:00,Circuit de Barcelona-Catalunya,Aramco Gran Premio de España,ESP
+Austria,Practice 1,Europe/Vienna,28/06/2024,12:30,28/06/2024,13:30,Red Bull Ring,Qatar Airways Grosser Preis von Österreich,AUT
+Austria,Sprint Qualifying,Europe/Vienna,28/06/2024,16:30,28/06/2024,17:14,Red Bull Ring,Qatar Airways Grosser Preis von Österreich,AUT
+Austria,Sprint,Europe/Vienna,29/06/2024,12:00,29/06/2024,13:00,Red Bull Ring,Qatar Airways Grosser Preis von Österreich,AUT
+Austria,Qualifying,Europe/Vienna,29/06/2024,16:00,29/06/2024,17:00,Red Bull Ring,Qatar Airways Grosser Preis von Österreich,AUT
+Austria,Race,Europe/Vienna,30/06/2024,15:00,30/06/2024,17:00,Red Bull Ring,Qatar Airways Grosser Preis von Österreich,AUT
+Great Britain,Practice 1,Europe/London,05/07/2024,12:30,05/07/2024,13:30,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Practice 2,Europe/London,05/07/2024,16:00,05/07/2024,17:00,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Practice 3,Europe/London,06/07/2024,11:30,06/07/2024,12:30,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Qualifying,Europe/London,06/07/2024,15:00,06/07/2024,16:00,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Race,Europe/London,07/07/2024,15:00,07/07/2024,17:00,Silverstone,Qatar Airways British Grand Prix,GBR
+Hungary,Practice 1,Europe/Budapest,19/07/2024,13:30,19/07/2024,14:30,Hungaroring,Magyar Nagydíj,HUN
+Hungary,Practice 2,Europe/Budapest,19/07/2024,17:00,19/07/2024,18:00,Hungaroring,Magyar Nagydíj,HUN
+Hungary,Practice 3,Europe/Budapest,20/07/2024,12:30,20/07/2024,13:30,Hungaroring,Magyar Nagydíj,HUN
+Hungary,Qualifying,Europe/Budapest,20/07/2024,16:00,20/07/2024,17:00,Hungaroring,Magyar Nagydíj,HUN
+Hungary,Race,Europe/Budapest,21/07/2024,15:00,21/07/2024,17:00,Hungaroring,Magyar Nagydíj,HUN
+Belgium,Practice 1,Europe/Brussels,26/07/2024,13:30,26/07/2024,14:30,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix,BEL
+Belgium,Practice 2,Europe/Brussels,26/07/2024,17:00,26/07/2024,18:00,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix,BEL
+Belgium,Practice 3,Europe/Brussels,27/07/2024,12:30,27/07/2024,13:30,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix,BEL
+Belgium,Qualifying,Europe/Brussels,27/07/2024,16:00,27/07/2024,17:00,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix,BEL
+Belgium,Race,Europe/Brussels,28/07/2024,15:00,28/07/2024,17:00,Circuit de Spa-Francorchamps,Rolex Belgian Grand Prix,BEL
+Netherlands,Practice 1,Europe/Amsterdam,23/08/2024,12:30,23/08/2024,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Practice 2,Europe/Amsterdam,23/08/2024,16:00,23/08/2024,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Practice 3,Europe/Amsterdam,24/08/2024,11:30,24/08/2024,12:30,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Qualifying,Europe/Amsterdam,24/08/2024,15:00,24/08/2024,16:00,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Race,Europe/Amsterdam,25/08/2024,15:00,25/08/2024,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Italy,Practice 1,Europe/Rome,30/08/2024,13:30,30/08/2024,14:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Practice 2,Europe/Rome,30/08/2024,17:00,30/08/2024,18:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Practice 3,Europe/Rome,31/08/2024,12:30,31/08/2024,13:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Qualifying,Europe/Rome,31/08/2024,16:00,31/08/2024,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Race,Europe/Rome,01/09/2024,15:00,01/09/2024,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Azerbaijan,Practice 1,Asia/Baku,13/09/2024,13:30,13/09/2024,14:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Practice 2,Asia/Baku,13/09/2024,17:00,13/09/2024,18:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Practice 3,Asia/Baku,14/09/2024,12:30,14/09/2024,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Qualifying,Asia/Baku,14/09/2024,16:00,14/09/2024,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Race,Asia/Baku,15/09/2024,15:00,15/09/2024,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Singapore,Practice 1,Asia/Singapore,20/09/2024,17:30,20/09/2024,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Practice 2,Asia/Singapore,20/09/2024,21:00,20/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Practice 3,Asia/Singapore,21/09/2024,17:30,21/09/2024,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Qualifying,Asia/Singapore,21/09/2024,21:00,21/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Race,Asia/Singapore,22/09/2024,20:00,22/09/2024,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+USA,Practice 1,America/Chicago,18/10/2024,12:30,18/10/2024,13:30,Circuit of The Americas,Pirelli United States Grand Prix,USA
+USA,Sprint Qualifying,America/Chicago,18/10/2024,16:30,18/10/2024,17:14,Circuit of The Americas,Pirelli United States Grand Prix,USA
+USA,Sprint,America/Chicago,19/10/2024,13:00,19/10/2024,14:00,Circuit of The Americas,Pirelli United States Grand Prix,USA
+USA,Qualifying,America/Chicago,19/10/2024,17:00,19/10/2024,18:00,Circuit of The Americas,Pirelli United States Grand Prix,USA
+USA,Race,America/Chicago,20/10/2024,14:00,20/10/2024,16:00,Circuit of The Americas,Pirelli United States Grand Prix,USA
+Mexico,Practice 1,America/Mexico_City,25/10/2024,12:30,25/10/2024,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Practice 2,America/Mexico_City,25/10/2024,16:00,25/10/2024,17:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Practice 3,America/Mexico_City,26/10/2024,11:30,26/10/2024,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Qualifying,America/Mexico_City,26/10/2024,15:00,26/10/2024,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Race,America/Mexico_City,27/10/2024,14:00,27/10/2024,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Brazil,Practice 1,America/Sao_Paulo,01/11/2024,11:30,01/11/2024,12:30,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo,BRA
+Brazil,Sprint Qualifying,America/Sao_Paulo,01/11/2024,15:30,01/11/2024,16:14,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo,BRA
+Brazil,Sprint,America/Sao_Paulo,02/11/2024,11:00,02/11/2024,12:00,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo,BRA
+Brazil,Qualifying,America/Sao_Paulo,03/11/2024,07:30,03/11/2024,08:30,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo,BRA
+Brazil,Race,America/Sao_Paulo,03/11/2024,12:30,03/11/2024,14:30,Autódromo José Carlos Pace,Lenovo Grande Prêmio de São Paulo,BRA
+Las Vegas,Practice 1,America/Los_Angeles,21/11/2024,18:30,21/11/2024,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix,USA
+Las Vegas,Practice 2,America/Los_Angeles,21/11/2024,22:00,21/11/2024,23:00,Las Vegas,Heineken Silver Las Vegas Grand Prix,USA
+Las Vegas,Practice 3,America/Los_Angeles,22/11/2024,18:30,22/11/2024,19:30,Las Vegas,Heineken Silver Las Vegas Grand Prix,USA
+Las Vegas,Qualifying,America/Los_Angeles,22/11/2024,22:00,22/11/2024,23:00,Las Vegas,Heineken Silver Las Vegas Grand Prix,USA
+Las Vegas,Race,America/Los_Angeles,23/11/2024,22:00,24/11/2024,00:00,Las Vegas,Heineken Silver Las Vegas Grand Prix,USA
+Qatar,Practice 1,Asia/Qatar,29/11/2024,16:30,29/11/2024,17:30,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Sprint Qualifying,Asia/Qatar,29/11/2024,20:30,29/11/2024,21:14,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Sprint,Asia/Qatar,30/11/2024,17:00,30/11/2024,18:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Qualifying,Asia/Qatar,30/11/2024,21:00,30/11/2024,22:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Race,Asia/Qatar,01/12/2024,19:00,01/12/2024,21:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Abu Dhabi,Practice 1,Asia/Dubai,06/12/2024,13:30,06/12/2024,14:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Practice 2,Asia/Dubai,06/12/2024,17:00,06/12/2024,18:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Practice 3,Asia/Dubai,07/12/2024,14:30,07/12/2024,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Qualifying,Asia/Dubai,07/12/2024,18:00,07/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Race,Asia/Dubai,08/12/2024,17:00,08/12/2024,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+McLaren,Car Launch,Europe/London,13/02/2025,,13/02/2025,,Silverstone,McLaren Formula 1 Team,GBR
+Williams,Car Launch,Europe/London,14/02/2025,,14/02/2025,,Silverstone,Atlassian Williams Racing,GBR
+Haas F1 Team,Car Launch,Europe/London,16/02/2025,,16/02/2025,,Silverstone,MoneyGram Haas F1 Team,GBR
+London,Season Launch,Europe/London,18/02/2025,20:00,18/02/2025,22:00,The O2 arena,F1 75 Live,GBR
+Ferrari,Car Launch,Europe/Rome,19/02/2025,,19/02/2025,,Fiorano,Scuderia Ferrari HP,ITA
+Aston Martin,Car Launch,Europe/London,23/02/2025,,23/02/2025,,Online,Aston Martin Aramco Formula One Team,GBR
+Mercedes,Car Launch,Europe/London,24/02/2025,,24/02/2025,,,Mercedes-AMG PETRONAS Formula One Team,GBR
+Bahrain,Morning Session,Asia/Qatar,26/02/2025,10:00,26/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Afternoon Session,Asia/Qatar,26/02/2025,15:00,26/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Morning Session,Asia/Qatar,27/02/2025,10:00,27/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Afternoon Session,Asia/Qatar,27/02/2025,15:00,27/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Morning Session,Asia/Qatar,28/02/2025,10:00,28/02/2025,14:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Afternoon Session,Asia/Qatar,28/02/2025,15:00,28/02/2025,19:00,Bahrain International Circuit,Pre-Season Testing,BHR
+Australia,Practice 1,Australia/Melbourne,14/03/2025,12:30,14/03/2025,13:30,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix,AUS
+Australia,Practice 2,Australia/Melbourne,14/03/2025,16:00,14/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix,AUS
+Australia,Practice 3,Australia/Melbourne,15/03/2025,12:30,15/03/2025,13:30,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix,AUS
+Australia,Qualifying,Australia/Melbourne,15/03/2025,16:00,15/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix,AUS
+Australia,Race,Australia/Melbourne,16/03/2025,15:00,16/03/2025,17:00,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix,AUS
+China,Practice 1,Asia/Shanghai,21/03/2025,12:30,21/03/2025,13:30,Shanghai International Circuit,Heineken Chinese Grand Prix,CHN
+China,Sprint Qualifying,Asia/Shanghai,21/03/2025,15:30,21/03/2025,16:15,Shanghai International Circuit,Heineken Chinese Grand Prix,CHN
+China,Sprint,Asia/Shanghai,22/03/2025,11:00,22/03/2025,12:00,Shanghai International Circuit,Heineken Chinese Grand Prix,CHN
+China,Qualifying,Asia/Shanghai,22/03/2025,15:00,22/03/2025,16:00,Shanghai International Circuit,Heineken Chinese Grand Prix,CHN
+China,Race,Asia/Shanghai,23/03/2025,15:00,23/03/2025,17:00,Shanghai International Circuit,Heineken Chinese Grand Prix,CHN
+Japan,Practice 1,Asia/Tokyo,04/04/2025,11:30,04/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix,JPN
+Japan,Practice 2,Asia/Tokyo,04/04/2025,15:00,04/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix,JPN
+Japan,Practice 3,Asia/Tokyo,05/04/2025,11:30,05/04/2025,12:30,Suzuka International Racing Course,Lenovo Japanese Grand Prix,JPN
+Japan,Qualifying,Asia/Tokyo,05/04/2025,15:00,05/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix,JPN
+Japan,Race,Asia/Tokyo,06/04/2025,14:00,06/04/2025,16:00,Suzuka International Racing Course,Lenovo Japanese Grand Prix,JPN
+Bahrain,Practice 1,Asia/Qatar,11/04/2025,14:30,11/04/2025,15:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Practice 2,Asia/Qatar,11/04/2025,18:00,11/04/2025,19:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Practice 3,Asia/Qatar,12/04/2025,15:30,12/04/2025,16:30,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Qualifying,Asia/Qatar,12/04/2025,19:00,12/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Bahrain,Race,Asia/Qatar,13/04/2025,18:00,13/04/2025,20:00,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Saudi Arabia,Practice 1,Asia/Riyadh,18/04/2025,16:30,18/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Practice 2,Asia/Riyadh,18/04/2025,20:00,18/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Practice 3,Asia/Riyadh,19/04/2025,16:30,19/04/2025,17:30,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Qualifying,Asia/Riyadh,19/04/2025,20:00,19/04/2025,21:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Saudi Arabia,Race,Asia/Riyadh,20/04/2025,20:00,20/04/2025,22:00,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Miami,Practice 1,America/New_York,02/05/2025,12:30,02/05/2025,13:30,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Sprint Qualifying,America/New_York,02/05/2025,16:30,02/05/2025,17:15,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Sprint,America/New_York,03/05/2025,12:00,03/05/2025,13:00,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Qualifying,America/New_York,03/05/2025,16:00,03/05/2025,17:00,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Miami,Race,America/New_York,04/05/2025,16:00,04/05/2025,18:00,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Emilia Romagna,Practice 1,Europe/Rome,16/05/2025,13:30,16/05/2025,14:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Practice 2,Europe/Rome,16/05/2025,17:00,16/05/2025,18:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Practice 3,Europe/Rome,17/05/2025,12:30,17/05/2025,13:30,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Qualifying,Europe/Rome,17/05/2025,16:00,17/05/2025,17:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Emilia Romagna,Race,Europe/Rome,18/05/2025,15:00,18/05/2025,17:00,Autodromo Enzo e Dino Ferrari,AWS Gran Premio del Made In Italy e dell'Emilia Romagna,ITA
+Monaco,Practice 1,Europe/Paris,23/05/2025,13:30,23/05/2025,14:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco,MCO
+Monaco,Practice 2,Europe/Paris,23/05/2025,17:00,23/05/2025,18:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco,MCO
+Monaco,Practice 3,Europe/Paris,24/05/2025,12:30,24/05/2025,13:30,Circuit de Monaco,TAG Heuer Grand Prix de Monaco,MCO
+Monaco,Qualifying,Europe/Paris,24/05/2025,16:00,24/05/2025,17:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco,MCO
+Monaco,Race,Europe/Paris,25/05/2025,15:00,25/05/2025,17:00,Circuit de Monaco,TAG Heuer Grand Prix de Monaco,MCO
+Spain,Practice 1,Europe/Madrid,30/05/2025,13:30,30/05/2025,14:30,Madring,Gran Premio de España,ESP
+Spain,Practice 2,Europe/Madrid,30/05/2025,17:00,30/05/2025,18:00,Madring,Gran Premio de España,ESP
+Spain,Practice 3,Europe/Madrid,31/05/2025,12:30,31/05/2025,13:30,Madring,Gran Premio de España,ESP
+Spain,Qualifying,Europe/Madrid,31/05/2025,16:00,31/05/2025,17:00,Madring,Gran Premio de España,ESP
+Spain,Race,Europe/Madrid,01/06/2025,15:00,01/06/2025,17:00,Madring,Gran Premio de España,ESP
+Canada,Practice 1,America/Montreal,13/06/2025,13:30,13/06/2025,14:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,CAN
+Canada,Practice 2,America/Montreal,13/06/2025,17:00,13/06/2025,18:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,CAN
+Canada,Practice 3,America/Montreal,14/06/2025,12:30,14/06/2025,13:30,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,CAN
+Canada,Qualifying,America/Montreal,14/06/2025,16:00,14/06/2025,17:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,CAN
+Canada,Race,America/Montreal,15/06/2025,14:00,15/06/2025,16:00,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,CAN
+Austria,Practice 1,Europe/Vienna,27/06/2025,13:30,27/06/2025,14:30,Red Bull Ring,MSC Cruises Austrian Grand Prix,AUT
+Austria,Practice 2,Europe/Vienna,27/06/2025,17:00,27/06/2025,18:00,Red Bull Ring,MSC Cruises Austrian Grand Prix,AUT
+Austria,Practice 3,Europe/Vienna,28/06/2025,12:30,28/06/2025,13:30,Red Bull Ring,MSC Cruises Austrian Grand Prix,AUT
+Austria,Qualifying,Europe/Vienna,28/06/2025,16:00,28/06/2025,17:00,Red Bull Ring,MSC Cruises Austrian Grand Prix,AUT
+Austria,Race,Europe/Vienna,29/06/2025,15:00,29/06/2025,17:00,Red Bull Ring,MSC Cruises Austrian Grand Prix,AUT
+Great Britain,Practice 1,Europe/London,04/07/2025,12:30,04/07/2025,13:30,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Practice 2,Europe/London,04/07/2025,16:00,04/07/2025,17:00,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Practice 3,Europe/London,05/07/2025,11:30,05/07/2025,12:30,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Qualifying,Europe/London,05/07/2025,15:00,05/07/2025,16:00,Silverstone,Qatar Airways British Grand Prix,GBR
+Great Britain,Race,Europe/London,06/07/2025,15:00,06/07/2025,17:00,Silverstone,Qatar Airways British Grand Prix,GBR
+Belgium,Practice 1,Europe/Brussels,25/07/2025,12:30,25/07/2025,13:30,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix,BEL
+Belgium,Sprint Qualifying,Europe/Brussels,25/07/2025,16:30,25/07/2025,17:15,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix,BEL
+Belgium,Sprint,Europe/Brussels,26/07/2025,12:00,26/07/2025,13:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix,BEL
+Belgium,Qualifying,Europe/Brussels,26/07/2025,16:00,26/07/2025,17:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix,BEL
+Belgium,Race,Europe/Brussels,27/07/2025,15:00,27/07/2025,17:00,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix,BEL
+Hungary,Practice 1,Europe/Budapest,01/08/2025,13:30,01/08/2025,14:30,Hungaroring,Lenovo Hungarian Grand Prix,HUN
+Hungary,Practice 2,Europe/Budapest,01/08/2025,17:00,01/08/2025,18:00,Hungaroring,Lenovo Hungarian Grand Prix,HUN
+Hungary,Practice 3,Europe/Budapest,02/08/2025,12:30,02/08/2025,13:30,Hungaroring,Lenovo Hungarian Grand Prix,HUN
+Hungary,Qualifying,Europe/Budapest,02/08/2025,16:00,02/08/2025,17:00,Hungaroring,Lenovo Hungarian Grand Prix,HUN
+Hungary,Race,Europe/Budapest,03/08/2025,15:00,03/08/2025,17:00,Hungaroring,Lenovo Hungarian Grand Prix,HUN
+Netherlands,Practice 1,Europe/Amsterdam,29/08/2025,12:30,29/08/2025,13:30,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Practice 2,Europe/Amsterdam,29/08/2025,16:00,29/08/2025,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Practice 3,Europe/Amsterdam,30/08/2025,11:30,30/08/2025,12:30,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Qualifying,Europe/Amsterdam,30/08/2025,15:00,30/08/2025,16:00,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Netherlands,Race,Europe/Amsterdam,31/08/2025,15:00,31/08/2025,17:00,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Italy,Practice 1,Europe/Rome,05/09/2025,13:30,05/09/2025,14:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Practice 2,Europe/Rome,05/09/2025,17:00,05/09/2025,18:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Practice 3,Europe/Rome,06/09/2025,12:30,06/09/2025,13:30,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Qualifying,Europe/Rome,06/09/2025,16:00,06/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Italy,Race,Europe/Rome,07/09/2025,15:00,07/09/2025,17:00,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Azerbaijan,Practice 1,Asia/Baku,19/09/2025,12:30,19/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Practice 2,Asia/Baku,19/09/2025,16:00,19/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Practice 3,Asia/Baku,20/09/2025,12:30,20/09/2025,13:30,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Qualifying,Asia/Baku,20/09/2025,16:00,20/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Azerbaijan,Race,Asia/Baku,21/09/2025,15:00,21/09/2025,17:00,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Singapore,Practice 1,Asia/Singapore,03/10/2025,17:30,03/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Practice 2,Asia/Singapore,03/10/2025,21:00,03/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Practice 3,Asia/Singapore,04/10/2025,17:30,04/10/2025,18:30,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Qualifying,Asia/Singapore,04/10/2025,21:00,04/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+Singapore,Race,Asia/Singapore,05/10/2025,20:00,05/10/2025,22:00,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+United States,Practice 1,America/Chicago,17/10/2025,12:30,17/10/2025,13:30,Circuit of The Americas,MSC Cruises United States Grand Prix,USA
+United States,Sprint Qualifying,America/Chicago,17/10/2025,16:30,17/10/2025,17:15,Circuit of The Americas,MSC Cruises United States Grand Prix,USA
+United States,Sprint,America/Chicago,18/10/2025,12:00,18/10/2025,13:00,Circuit of The Americas,MSC Cruises United States Grand Prix,USA
+United States,Qualifying,America/Chicago,18/10/2025,16:00,18/10/2025,17:00,Circuit of The Americas,MSC Cruises United States Grand Prix,USA
+United States,Race,America/Chicago,19/10/2025,14:00,19/10/2025,16:00,Circuit of The Americas,MSC Cruises United States Grand Prix,USA
+Mexico,Practice 1,America/Mexico_City,24/10/2025,12:30,24/10/2025,13:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Practice 2,America/Mexico_City,24/10/2025,16:00,24/10/2025,17:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Practice 3,America/Mexico_City,25/10/2025,11:30,25/10/2025,12:30,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Qualifying,America/Mexico_City,25/10/2025,15:00,25/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Mexico,Race,America/Mexico_City,26/10/2025,14:00,26/10/2025,16:00,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Brazil,Practice 1,America/Sao_Paulo,07/11/2025,11:30,07/11/2025,12:30,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo,BRA
+Brazil,Sprint Qualifying,America/Sao_Paulo,07/11/2025,15:30,07/11/2025,16:15,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo,BRA
+Brazil,Sprint,America/Sao_Paulo,08/11/2025,11:00,08/11/2025,12:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo,BRA
+Brazil,Qualifying,America/Sao_Paulo,08/11/2025,15:00,08/11/2025,16:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo,BRA
+Brazil,Race,America/Sao_Paulo,09/11/2025,14:00,09/11/2025,16:00,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo,BRA
+Las Vegas,Practice 1,America/Los_Angeles,20/11/2025,16:30,20/11/2025,17:30,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix,USA
+Las Vegas,Practice 2,America/Los_Angeles,20/11/2025,20:00,20/11/2025,21:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix,USA
+Las Vegas,Practice 3,America/Los_Angeles,21/11/2025,16:30,21/11/2025,17:30,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix,USA
+Las Vegas,Qualifying,America/Los_Angeles,21/11/2025,20:00,21/11/2025,21:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix,USA
+Las Vegas,Race,America/Los_Angeles,22/11/2025,20:00,22/11/2025,22:00,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix,USA
+Qatar,Practice 1,Asia/Qatar,28/11/2025,16:30,28/11/2025,17:30,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Sprint Qualifying,Asia/Qatar,28/11/2025,20:20,28/11/2025,21:05,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Sprint,Asia/Qatar,29/11/2025,17:00,29/11/2025,18:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Qualifying,Asia/Qatar,29/11/2025,21:00,29/11/2025,22:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Qatar,Race,Asia/Qatar,30/11/2025,19:00,30/11/2025,21:00,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Abu Dhabi,Practice 1,Asia/Dubai,05/12/2025,13:30,05/12/2025,14:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Practice 2,Asia/Dubai,05/12/2025,17:00,05/12/2025,18:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Practice 3,Asia/Dubai,06/12/2025,14:30,06/12/2025,15:30,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Qualifying,Asia/Dubai,06/12/2025,18:00,06/12/2025,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Abu Dhabi,Race,Asia/Dubai,07/12/2025,17:00,07/12/2025,19:00,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
+Barcelona-Catalunya,Placeholder,Europe/Madrid,26/01/2026,,30/01/2026,,Circuit de Barcelona-Catalunya,Pre-Season Testing,ESP
+Bahrain,Placeholder,Asia/Qatar,11/02/2026,,13/02/2026,,Bahrain International Circuit,Pre-Season Testing,BHR
+Bahrain,Placeholder,Asia/Qatar,18/02/2026,,20/02/2026,,Bahrain International Circuit,Pre-Season Testing,BHR
+Australia,Placeholder,Australia/Melbourne,06/03/2026,,08/03/2026,,Melbourne Grand Prix Circuit,Louis Vuitton Australian Grand Prix,AUS
+China,Placeholder,Asia/Shanghai,13/03/2026,,15/03/2026,,Shanghai International Circuit,Heineken Chinese Grand Prix,CHN
+Japan,Placeholder,Asia/Tokyo,27/03/2026,,29/03/2026,,Suzuka International Racing Course,Lenovo Japanese Grand Prix,JPN
+Bahrain,Placeholder,Asia/Qatar,10/04/2026,,12/04/2026,,Bahrain International Circuit,Gulf Air Bahrain Grand Prix,BHR
+Saudi Arabia,Placeholder,Asia/Riyadh,17/04/2026,,19/04/2026,,Jeddah Corniche Circuit,STC Saudi Arabian Grand Prix,SAU
+Miami,Placeholder,America/New_York,01/05/2026,,03/05/2026,,Miami International Autodrome,crypto.com Miami Grand Prix,USA
+Canada,Placeholder,America/Montreal,22/05/2026,,24/05/2026,,Circuit Gilles-Villeneuve,Pirelli Grand Prix du Canada,CAN
+Monaco,Placeholder,Europe/Paris,05/06/2026,,07/06/2026,,Circuit de Monaco,TAG Heuer Grand Prix de Monaco,MCO
+Barcelona-Catalunya,Placeholder,Europe/Madrid,12/06/2026,,14/06/2026,,Circuit de Barcelona-Catalunya,Gran Premio de Barcelona-Catalunya,ESP
+Austria,Placeholder,Europe/Vienna,26/06/2026,,28/06/2026,,Red Bull Ring,MSC Cruises Austrian Grand Prix,AUT
+Great Britain,Placeholder,Europe/London,03/07/2026,,05/07/2026,,Silverstone,Qatar Airways British Grand Prix,GBR
+Belgium,Placeholder,Europe/Brussels,17/07/2026,,19/07/2026,,Circuit de Spa-Francorchamps,Moët & Chandon Belgian Grand Prix,BEL
+Hungary,Placeholder,Europe/Budapest,24/07/2026,,26/07/2026,,Hungaroring,Lenovo Hungarian Grand Prix,HUN
+Netherlands,Placeholder,Europe/Amsterdam,21/08/2026,,23/08/2026,,Circuit Zandvoort,Heineken Dutch Grand Prix,NLD
+Italy,Placeholder,Europe/Rome,04/09/2026,,06/09/2026,,Autodromo Nazionale Monza,Pirelli Gran Premio d'Italia,ITA
+Spain,Placeholder,Europe/Madrid,11/09/2026,,13/09/2026,,Madring,Gran Premio de España,ESP
+Azerbaijan,Placeholder,Asia/Baku,24/09/2026,,26/09/2026,,Baku City Circuit,Qatar Airways Azerbaijan Grand Prix,AZE
+Singapore,Placeholder,Asia/Singapore,09/10/2026,,11/10/2026,,Marina Bay Street Circuit,Singapore Airlines Singapore Grand Prix,SGP
+United States,Placeholder,America/Chicago,23/10/2026,,25/10/2026,,Circuit of The Americas,MSC Cruises United States Grand Prix,USA
+Mexico,Placeholder,America/Mexico_City,30/10/2026,,01/11/2026,,Autódromo Hermanos Rodríguez,Gran Premio de la Ciudad de México,MEX
+Brazil,Placeholder,America/Sao_Paulo,06/11/2026,,08/11/2026,,Autódromo José Carlos Pace,MSC Cruises Grande Prêmio de São Paulo,BRA
+Las Vegas,Placeholder,America/Los_Angeles,19/11/2026,,21/11/2026,,Las Vegas Strip Circuit,Heineken Las Vegas Grand Prix,USA
+Qatar,Placeholder,Asia/Qatar,27/11/2026,,29/11/2026,,Lusail International Circuit,Qatar Airways Qatar Grand Prix,QAT
+Abu Dhabi,Placeholder,Asia/Dubai,04/12/2026,,06/12/2026,,Yas Marina Circuit,Etihad Airways Abu Dhabi Grand Prix,ARE
